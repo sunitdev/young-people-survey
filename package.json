@@ -1,0 +1,17 @@
+{
+  "name": "young-people-survey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel src/index.pug --open",
+    "build": "parcel build src/index.pug"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "pug": "^2.0.4"
+  }
+}

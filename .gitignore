@@ -1,0 +1,10 @@
+# IDE files
+.idea/
+*.iml
+
+# Node Module
+node_modules/
+
+# Build Folder
+.cache/
+dist/
