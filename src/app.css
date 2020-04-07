@@ -1,0 +1,31 @@
+.container {
+    width: 1050px;
+}
+
+main {
+    padding-top: 40px;
+}
+
+aside {
+    position: relative;
+    display: inline-block;
+    width: 260px;
+    top: 0;
+    z-index: 90;
+}
+
+section {
+    margin-bottom: 200px;
+}
+
+#visualization {
+    display: inline-block;
+    position: fixed;
+    top: 40px;
+    z-index: 1;
+    margin-left: 10px;
+
+    height: 600px;
+    width: 800px;
+    background-color: #ddd;
+}
