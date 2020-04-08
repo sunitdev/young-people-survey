@@ -16,5 +16,8 @@
     "postcss-purgecss": "^2.0.3",
     "pug": "^2.0.4",
     "tailwindcss": "^1.2.0"
+  },
+  "dependencies": {
+    "d3": "^5.15.1"
   }
 }
