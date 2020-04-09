@@ -9,22 +9,22 @@ export default class IntroSection {
         this.svgHeight = parseInt(this.svg.attr('height'));
     }
 
-    onInit(){
+    onInit() {
         this.text = this.svg.append('text')
-            .attr('x', this.svgWidth / 4 )
-            .attr('y', (this.svgHeight / 2 ) - 20)
+            .attr('x', this.svgWidth / 4)
+            .attr('y', (this.svgHeight / 2) - 20)
             .style('font-size', '42px')
             .text('Young People Survey')
             .attr('opacity', 0);
     }
 
-    onFocusEntered(){
+    onFocusEntered() {
         this.text.transition()
             .duration(600)
             .attr('opacity', 1);
     }
 
-    onFocusLost(){
+    onFocusLost() {
         this.text.transition()
             .duration(600)
             .attr('opacity', 0);
