@@ -4,14 +4,14 @@ export default class SectionSection {
     }
 
     onInit(){
-        console.log('On Second Section init');
+        // console.log('On Second Section init');
     }
 
     onFocusEntered(){
-        console.log('On Second Focus Entered');
+        // console.log('On Second Focus Entered');
     }
 
     onFocusLost(){
-        console.log('On Second Focus Lost');
+        // console.log('On Second Focus Lost');
     }
 }

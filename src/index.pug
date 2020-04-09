@@ -15,8 +15,8 @@ html(lang="")
             main
                 aside
                     section#sectionIntro
-                        h1.text-xl.mb-2 Section 1
-                        p Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, adipisci aliquam assumenda atque est ipsam libero magnam, molestiae mollitia perferendis quasi qui, quisquam suscipit. Hic ipsum obcaecati perferendis sequi tempore. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur, autem consequatur culpa distinctio dolorem exercitationem harum inventore ipsum, molestias mollitia odio officia porro quaerat quod saepe soluta tenetur velit vero!
+                        h1.text-xl.font-semibold.mb-2 Young People Survey
+                        p.text-base Following data was collected form a survey conducted in 2013 at #[a(href="https://fses.uniba.sk/en/" target="_blank").text-blue-500.underline FSEV UK]. Data source. #[a(href="https://www.kaggle.com/miroslavsabo/young-people-survey" target="_blank").text-blue-500.underline link].
                     section#section2
                         h1.text-xl.mb-2 Section 2
                         p Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, adipisci aliquam assumenda atque est ipsam libero magnam, molestiae mollitia perferendis quasi qui, quisquam suscipit. Hic ipsum obcaecati perferendis sequi tempore. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur, autem consequatur culpa distinctio dolorem exercitationem harum inventore ipsum, molestias mollitia odio officia porro quaerat quod saepe soluta tenetur velit vero!
@@ -24,6 +24,7 @@ html(lang="")
                         h1.text-xl.mb-2 Section 3
                         p Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, adipisci aliquam assumenda atque est ipsam libero magnam, molestiae mollitia perferendis quasi qui, quisquam suscipit. Hic ipsum obcaecati perferendis sequi tempore. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur, autem consequatur culpa distinctio dolorem exercitationem harum inventore ipsum, molestias mollitia odio officia porro quaerat quod saepe soluta tenetur velit vero!
 
-                div#visualization
+                div#visualization-wrapper
+                    svg(width=800 height=600)
 
         script(src="app.js")

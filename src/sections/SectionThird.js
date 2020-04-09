@@ -4,14 +4,14 @@ export default class ThirdSection {
     }
 
     onInit(){
-        console.log('On Third Section init');
+        // console.log('On Third Section init');
     }
 
     onFocusEntered(){
-        console.log('On Third Focus Entered');
+        // console.log('On Third Focus Entered');
     }
 
     onFocusLost(){
-        console.log('On Third Focus Lost');
+        // console.log('On Third Focus Lost');
     }
 }

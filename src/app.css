@@ -16,16 +16,15 @@ aside {
 
 section {
     margin-bottom: 200px;
+    height: 500px;
 }
 
-#visualization {
+#visualization-wrapper {
     display: inline-block;
     position: fixed;
     top: 40px;
     z-index: 1;
     margin-left: 10px;
 
-    height: 600px;
-    width: 800px;
-    background-color: #ddd;
+    /*border: 1px solid black;*/
 }

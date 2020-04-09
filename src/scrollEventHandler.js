@@ -26,6 +26,12 @@ function initScrollEventHandler(sectionList, sectionIds) {
         }
     });
 
+    // Call on focus enter for first section
+    sections[0].onFocusEntered();
+
+    // Set current active section as the first one
+    currentFocusIndex = 0;
+
     // Setup window scroll listener
     d3.select(window)
         .on('scroll.scroller', onWindowScrollListener);
@@ -59,10 +65,8 @@ function onWindowScrollListener() {
     if (currentFocusIndex !== latestFocusIndex) {
 
         // Hide previous focused section
-        if(currentFocusIndex !== null){
-            sections[currentFocusIndex].onFocusLost();
-            selectors[currentFocusIndex].style('opacity', 0.1);
-        }
+        sections[currentFocusIndex].onFocusLost();
+        selectors[currentFocusIndex].style('opacity', 0.1);
 
         // show new section
         sections[latestFocusIndex].onFocusEntered();
