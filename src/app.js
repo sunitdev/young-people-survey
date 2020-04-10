@@ -4,9 +4,10 @@ import initScrollEventHandler from './scrollEventHandler';
 
 import IntroSection from './sections/IntroSection';
 import AgeSection from './sections/AgeSection';
-import ThirdSection from './sections/SectionThird';
+import GenderSection from './sections/GenderSection';
 
 import visualizationDataPath from './data/visualization_dataset.csv';
+import SectionFour from './sections/SectionFour';
 
 const svg = d3.select('svg');
 
@@ -14,7 +15,8 @@ const svg = d3.select('svg');
 const selectors = [
     '#sectionIntro',
     '#sectionAge',
-    '#section3'
+    '#sectionGender',
+    '#sectionFour'
 ];
 
 
@@ -28,7 +30,8 @@ function getSections(dataset) {
     return [
         new IntroSection(svg),
         new AgeSection(svg, dataset),
-        new ThirdSection(svg)
+        new GenderSection(svg, dataset),
+        new SectionFour(svg)
     ]
 }
 
