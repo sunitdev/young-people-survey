@@ -81,16 +81,32 @@ export default class ThirdSection {
         this.femaleSimulate.restart();
 
         this.maleTextRect
-            .attr('opacity', 1);
+            .attr('x', this.svgWidth)
+            .attr('opacity', 1)
+            .transition()
+            .duration(600)
+            .attr('x', this.svgWidth / 6);
 
         this.maleText
-            .attr('opacity', 1);
+            .attr('x', this.svgWidth)
+            .attr('opacity', 1)
+            .transition()
+            .duration(600)
+            .attr('x', (this.svgWidth / 6) + 25);
 
         this.femaleTextRect
-            .attr('opacity', 1);
+            .attr('x', this.svgWidth)
+            .attr('opacity', 1)
+            .transition()
+            .duration(600)
+            .attr('x', 4 * (this.svgWidth / 6));
 
         this.femaleText
-            .attr('opacity', 1);
+            .attr('x', this.svgWidth)
+            .attr('opacity', 1)
+            .transition()
+            .duration(600)
+            .attr('x', 4 * (this.svgWidth / 6) + 25);
     }
 
     onFocusLost() {
