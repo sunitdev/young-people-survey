@@ -72,9 +72,13 @@ export default class AgeSection {
             .duration(600)
             .attr('opacity', 1);
 
-        this.bars.transition()
+        this.bars
+            .attr('y', this.svgHeight - this.padding - 40)
+            .attr('opacity', 1)
+            .transition()
             .duration(600)
-            .attr('opacity', 1);
+            .attr('y', (row) => (this.svgHeight - this.padding) - this.yScale(row.count))
+
     }
 
     onFocusLost() {

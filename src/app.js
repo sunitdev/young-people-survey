@@ -30,7 +30,7 @@ function getSections(dataset) {
     return [
         new IntroSection(svg),
         new AgeSection(svg, dataset),
-        new GenderSection(svg, dataset),
+        new GenderSection(svg),
         new SectionFour(svg)
     ]
 }

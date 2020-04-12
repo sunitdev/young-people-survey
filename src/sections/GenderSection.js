@@ -2,45 +2,48 @@ import * as d3 from 'd3';
 
 import colors from '../colors';
 
-export default class ThirdSection {
+export default class GenderSection {
 
-    constructor(svg, dataset) {
+    constructor(svg) {
         this.svg = svg;
-        this.dataset = dataset;
 
         this.svgWidth = parseInt(this.svg.attr('width'));
         this.svgHeight = parseInt(this.svg.attr('height'));
 
-        // Number is scaled to 90 so to ease transition to the next chart
-        this.maleCount = 38;
-        this.femaleCount = 52;
+        this.radius = 200;
+        this.innerRadius = 100;
 
-        this.maleCircleClass = 'circle-male';
-        this.femaleCircleClass = 'circle-female';
+        this.data = {male: 41.3, female: 58.7};
 
-        this.radius = 10;
-
-        // Bubble chart center
-        this.centerMale = {
-            x: this.svgWidth / 4,
-            y: 2 * (this.svgHeight / 5)
-        };
-        this.centerFemale = {
-            x: 3 * (this.svgWidth / 4),
-            y: 2* (this.svgHeight / 5)
-        }
-
+        this.pieColors = d3.scaleOrdinal()
+            .domain(this.data)
+            .range([colors.gender.male, colors.gender.female])
     }
 
     onInit() {
-        this.maleSimulate = this.createMaleSimulation();
-        this.maleSimulate.stop();
-        this.femaleSimulate = this.createFemaleSimulation();
-        this.femaleSimulate.stop();
+        const pie = d3.pie()
+            .value(function (d) {
+                return d.value;
+            })
+
+        this.doughnutChart = this.svg
+            .selectAll('.gender-arc')
+            .data(pie(d3.entries(this.data)))
+            .enter()
+            .append('path')
+            .attr('d', d3.arc()
+                .innerRadius(this.innerRadius)
+                .outerRadius(this.radius)
+            )
+            .attr('fill', (d) => this.pieColors(d.data.key))
+            .attr('transform', `translate(${this.svgWidth / 2}, ${(this.svgHeight / 2) - 30})`)
+            .attr("stroke", "black")
+            .style("stroke-width", "2px")
+            .attr("opacity", 0);
 
         this.maleTextRect = this.svg.append('rect')
             .attr('x', this.svgWidth / 6)
-            .attr('y', 2 * (this.svgHeight / 3) - 50)
+            .attr('y', this.svgHeight - 100)
             .attr('width', 140)
             .attr('height', 30)
             .attr('fill', colors.textRect)
@@ -48,13 +51,13 @@ export default class ThirdSection {
 
         this.maleText = this.svg.append('text')
             .attr('x', (this.svgWidth / 6) + 25)
-            .attr('y', 2 * (this.svgHeight / 3) - 30)
-            .text('Male: 40.7%')
+            .attr('y', this.svgHeight - 80)
+            .text('Male: 41.3%')
             .attr('opacity', 0);
 
         this.femaleTextRect = this.svg.append('rect')
             .attr('x', 4 * (this.svgWidth / 6))
-            .attr('y', 2 * (this.svgHeight / 3) - 50)
+            .attr('y', this.svgHeight - 100)
             .attr('width', 150)
             .attr('height', 30)
             .attr('fill', colors.textRect)
@@ -62,23 +65,16 @@ export default class ThirdSection {
 
         this.femaleText = this.svg.append('text')
             .attr('x', 4 * (this.svgWidth / 6) + 25)
-            .attr('y', 2 * (this.svgHeight / 3) - 30)
+            .attr('y', this.svgHeight - 80)
             .text('Female: 58.7%')
             .attr('opacity', 0);
     }
 
     onFocusEntered() {
-        if (this.maleCircles) {
-            this.maleCircles
-                .attr('opacity', 1);
-        }
-        if (this.femaleCircles) {
-            this.femaleCircles
-                .attr('opacity', 1);
-        }
-
-        this.maleSimulate.restart();
-        this.femaleSimulate.restart();
+        this.doughnutChart
+            .transition()
+            .duration(600)
+            .attr('opacity', 1);
 
         this.maleTextRect
             .attr('x', this.svgWidth)
@@ -110,12 +106,9 @@ export default class ThirdSection {
     }
 
     onFocusLost() {
-        this.maleSimulate.stop();
-        this.femaleSimulate.stop();
-
-        this.maleCircles
-            .attr('opacity', 0);
-        this.femaleCircles
+        this.doughnutChart
+            .transition()
+            .duration(600)
             .attr('opacity', 0);
 
         this.maleTextRect
@@ -129,56 +122,6 @@ export default class ThirdSection {
 
         this.femaleText
             .attr('opacity', 0);
-    }
-
-    createMaleSimulation() {
-        const dataset = d3.range(this.maleCount).map((data) => ({data}));
-
-        return d3.forceSimulation(dataset)
-            .force('charge', d3.forceManyBody().strength(5))
-            .force('center', d3.forceCenter(this.centerMale.x, this.centerMale.y))
-            .force('collision', d3.forceCollide().radius(this.radius))
-            .on('tick', () => {
-                this.maleCircles = this.svg
-                    .selectAll(`.${this.maleCircleClass}`)
-                    .data(dataset)
-
-                this.maleCircles.enter()
-                    .append('circle')
-                    .attr('r', this.radius)
-                    .attr('fill', colors.gender.male)
-                    .attr('class', this.maleCircleClass)
-                    .merge(this.maleCircles)
-                    .attr('cx', (d) => d.x)
-                    .attr('cy', d => d.y);
-
-                this.maleCircles.exit().remove()
-            });
-    }
-
-    createFemaleSimulation() {
-        const dataset = d3.range(this.femaleCount).map((data) => ({data}));
-
-        return d3.forceSimulation(dataset)
-            .force('charge', d3.forceManyBody().strength(5))
-            .force('center', d3.forceCenter(this.centerFemale.x, this.centerFemale.y))
-            .force('collision', d3.forceCollide().radius(this.radius))
-            .on('tick', () => {
-                this.femaleCircles = this.svg
-                    .selectAll(`.${this.femaleCircleClass}`)
-                    .data(dataset)
-
-                this.femaleCircles.enter()
-                    .append('circle')
-                    .attr('r', this.radius)
-                    .attr('fill', colors.gender.female)
-                    .attr('class', this.femaleCircleClass)
-                    .merge(this.femaleCircles)
-                    .attr('cx', (d) => d.x)
-                    .attr('cy', d => d.y);
-
-                this.femaleCircles.exit().remove()
-            });
     }
 
 }
