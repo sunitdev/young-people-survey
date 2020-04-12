@@ -1,1010 +1,1010 @@
-age,gender
-20.0,female
-19.0,female
-20.0,female
-22.0,female
-20.0,female
-20.0,male
-20.0,female
-19.0,male
-18.0,female
-19.0,female
-19.0,female
-17.0,female
-24.0,female
-19.0,female
-22.0,female
-18.0,male
-19.0,female
-20.0,female
-18.0,male
-18.0,male
-20.0,male
-24.0,male
-22.0,female
-20.0,female
-19.0,female
-20.0,female
-22.0,female
-19.0,female
-20.0,male
-19.0,female
-25.0,male
-22.0,female
-20.0,female
-27.0,female
-20.0,male
-19.0,female
-18.0,female
-21.0,male
-23.0,female
-21.0,female
-26.0,female
-20.0,male
-19.0,female
-20.0,female
-25.0,female
-27.0,male
-21.0,female
-19.0,female
-20.0,female
-20.0,female
-19.0,female
-19.0,female
-21.0,female
-18.0,female
-21.0,female
-23.0,female
-20.0,female
-21.0,female
-19.0,male
-22.0,male
-23.0,male
-23.0,male
-23.0,male
-22.0,male
-18.0,female
-17.0,male
-20.0,male
-24.0,female
-18.0,female
-20.0,female
-17.0,male
-20.0,male
-28.0,female
-21.0,male
-22.0,male
-20.0,male
-18.0,male
-21.0,female
-24.0,female
-21.0,female
-19.0,female
-22.0,male
-18.0,female
-22.0,female
-19.0,female
-22.0,male
-24.0,male
-18.0,female
-21.0,female
-22.0,female
-19.0,female
-18.0,female
-19.0,female
-24.0,male
-21.0,male
-21.0,male
-19.0,male
-19.0,male
-22.0,male
-18.0,female
-21.0,female
-18.0,male
-20.0,female
-22.0,male
-21.0,male
-24.0,male
-19.0,male
-18.0,female
-17.0,female
-18.0,male
-21.0,male
-22.0,female
-20.0,female
-21.0,female
-19.0,female
-17.0,female
-21.0,female
-18.0,female
-23.0,male
-16.0,female
-23.0,male
-21.0,male
-23.0,female
-20.0,female
-20.0,male
-20.0,female
-20.0,female
-19.0,female
-15.0,female
-20.0,female
-19.0,female
-18.0,male
-15.0,female
-20.0,female
-16.0,female
-18.0,male
-21.0,male
-20.0,female
-19.0,female
-19.0,female
-19.0,female
-,male
-20.0,female
-21.0,male
-19.0,female
-21.0,male
-18.0,male
-20.0,male
-19.0,male
-22.0,female
-20.0,male
-25.0,male
-21.0,female
-24.0,male
-19.0,female
-25.0,male
-26.0,male
-15.0,female
-20.0,male
-19.0,male
-20.0,female
-21.0,male
-22.0,male
-20.0,male
-20.0,female
-21.0,female
-21.0,male
-20.0,female
-19.0,female
-19.0,male
-20.0,male
-22.0,male
-21.0,male
-26.0,male
-17.0,female
-22.0,male
-26.0,male
-20.0,female
-22.0,male
-21.0,male
-23.0,male
-19.0,female
-20.0,male
-21.0,female
-19.0,female
-29.0,female
-22.0,female
-19.0,female
-17.0,female
-16.0,female
-29.0,female
-18.0,female
-26.0,male
-19.0,male
-19.0,male
-20.0,female
-22.0,female
-20.0,male
-21.0,male
-21.0,male
-18.0,
-15.0,male
-19.0,female
-24.0,female
-19.0,female
-25.0,male
-20.0,female
-19.0,female
-21.0,male
-23.0,male
-21.0,female
-20.0,male
-20.0,female
-18.0,female
-27.0,male
-17.0,female
-19.0,female
-18.0,male
-26.0,male
-18.0,male
-30.0,male
-24.0,female
-20.0,female
-20.0,male
-20.0,male
-25.0,
-19.0,female
-20.0,female
-21.0,male
-19.0,female
-19.0,female
-19.0,female
-18.0,female
-18.0,female
-16.0,female
-19.0,female
-18.0,female
-19.0,female
-21.0,female
-21.0,male
-18.0,female
-21.0,female
-17.0,female
-20.0,female
-19.0,female
-27.0,male
-22.0,female
-19.0,female
-19.0,female
-20.0,female
-19.0,female
-20.0,female
-17.0,female
-23.0,female
-20.0,female
-20.0,female
-19.0,male
-20.0,female
-19.0,male
-19.0,male
-18.0,female
-19.0,female
-15.0,female
-19.0,female
-15.0,female
-19.0,female
-21.0,female
-19.0,female
-17.0,female
-23.0,female
-24.0,male
-19.0,female
-19.0,female
-22.0,female
-20.0,female
-21.0,female
-19.0,male
-19.0,male
-20.0,female
-18.0,female
-19.0,male
-20.0,female
-22.0,male
-20.0,male
-20.0,female
-27.0,female
-19.0,female
-22.0,male
-19.0,male
-20.0,female
-20.0,male
-21.0,female
-16.0,female
-19.0,female
-18.0,female
-23.0,male
-19.0,male
-19.0,female
-22.0,female
-18.0,female
-20.0,male
-19.0,female
-25.0,female
-18.0,female
-20.0,female
-15.0,female
-19.0,female
-19.0,female
-16.0,female
-19.0,male
-18.0,female
-15.0,male
-20.0,female
-20.0,male
-20.0,male
-20.0,female
-19.0,male
-16.0,female
-18.0,female
-20.0,male
-16.0,female
-18.0,female
-20.0,male
-18.0,female
-19.0,male
-19.0,female
-20.0,female
-18.0,male
-17.0,female
-22.0,female
-17.0,male
-22.0,female
-16.0,female
-24.0,female
-17.0,male
-17.0,male
-17.0,male
-15.0,female
-18.0,female
-18.0,female
-16.0,male
-20.0,female
-29.0,female
-24.0,female
-18.0,female
-17.0,male
-18.0,male
-16.0,male
-17.0,female
-20.0,male
-16.0,female
-19.0,male
-18.0,female
-20.0,female
-19.0,male
-18.0,male
-21.0,male
-19.0,male
-20.0,female
-23.0,female
-19.0,female
-19.0,female
-19.0,female
-20.0,male
-24.0,male
-19.0,male
-20.0,male
-18.0,female
-17.0,male
-19.0,female
-19.0,female
-20.0,male
-20.0,male
-21.0,female
-20.0,female
-20.0,female
-17.0,female
-20.0,female
-25.0,male
-20.0,female
-21.0,female
-21.0,female
-22.0,male
-19.0,female
-25.0,male
-19.0,female
-25.0,female
-25.0,female
-21.0,female
-20.0,male
-24.0,female
-30.0,female
-21.0,male
-27.0,male
-21.0,male
-16.0,female
-21.0,female
-20.0,female
-22.0,female
-19.0,male
-20.0,female
-25.0,male
-23.0,male
-20.0,female
-20.0,female
-21.0,female
-19.0,female
-21.0,female
-16.0,female
-20.0,male
-18.0,female
-21.0,female
-21.0,male
-18.0,male
-19.0,female
-20.0,female
-18.0,male
-18.0,female
-23.0,female
-20.0,female
-18.0,female
-28.0,female
-24.0,female
-19.0,female
-21.0,female
-22.0,female
-19.0,male
-18.0,female
-21.0,female
-19.0,female
-19.0,male
-20.0,male
-19.0,female
-18.0,male
-18.0,female
-19.0,male
-18.0,female
-18.0,female
-19.0,male
-19.0,female
-19.0,female
-18.0,female
-18.0,female
-19.0,female
-20.0,female
-19.0,male
-26.0,female
-19.0,female
-19.0,female
-22.0,male
-20.0,male
-28.0,female
-19.0,female
-21.0,female
-19.0,female
-22.0,male
-19.0,male
-18.0,female
-19.0,female
-22.0,male
-29.0,male
-,female
-18.0,female
-22.0,female
-17.0,female
-19.0,male
-20.0,female
-18.0,female
-22.0,male
-19.0,female
-20.0,male
-25.0,male
-29.0,male
-19.0,male
-18.0,female
-20.0,female
-18.0,female
-30.0,male
-20.0,female
-21.0,female
-22.0,male
-22.0,male
-20.0,female
-20.0,female
-19.0,female
-28.0,female
-19.0,female
-22.0,male
-20.0,female
-16.0,female
-19.0,female
-20.0,female
-21.0,male
-19.0,female
-20.0,female
-25.0,female
-20.0,female
-19.0,female
-22.0,male
-19.0,female
-21.0,female
-22.0,male
-28.0,female
-21.0,female
-20.0,male
-19.0,male
-21.0,female
-20.0,male
-16.0,female
-22.0,male
-19.0,male
-22.0,female
-20.0,male
-22.0,male
-19.0,male
-22.0,male
-17.0,female
-18.0,female
-19.0,male
-23.0,female
-20.0,female
-18.0,female
-19.0,male
-19.0,female
-28.0,female
-21.0,male
-23.0,female
-20.0,male
-20.0,male
-28.0,female
-22.0,male
-19.0,female
-21.0,male
-21.0,female
-17.0,male
-19.0,female
-25.0,male
-20.0,female
-26.0,male
-21.0,male
-20.0,female
-29.0,
-25.0,male
-21.0,male
-20.0,male
-27.0,male
-21.0,male
-20.0,female
-,female
-17.0,female
-16.0,female
-19.0,female
-18.0,female
-19.0,male
-21.0,female
-16.0,female
-20.0,female
-19.0,female
-20.0,female
-16.0,female
-20.0,male
-18.0,male
-20.0,male
-20.0,male
-16.0,female
-19.0,female
-19.0,male
-23.0,female
-20.0,female
-23.0,male
-19.0,male
-22.0,female
-17.0,male
-20.0,female
-21.0,female
-21.0,male
-19.0,female
-20.0,female
-19.0,male
-21.0,male
-22.0,female
-22.0,male
-22.0,male
-28.0,female
-21.0,male
-21.0,male
-17.0,female
-21.0,female
-17.0,female
-28.0,male
-20.0,female
-19.0,female
-21.0,female
-23.0,male
-17.0,male
-20.0,male
-19.0,male
-19.0,male
-19.0,male
-18.0,female
-19.0,female
-22.0,male
-21.0,female
-21.0,female
-21.0,male
-22.0,male
-19.0,female
-25.0,male
-18.0,male
-20.0,male
-18.0,female
-23.0,male
-18.0,female
-22.0,female
-20.0,male
-19.0,male
-19.0,female
-23.0,female
-27.0,male
-20.0,male
-20.0,
-18.0,female
-21.0,male
-21.0,female
-19.0,female
-22.0,female
-20.0,female
-19.0,male
-20.0,female
-19.0,female
-18.0,female
-17.0,male
-21.0,male
-19.0,female
-25.0,female
-24.0,male
-29.0,male
-21.0,female
-18.0,male
-21.0,female
-17.0,male
-22.0,male
-18.0,female
-18.0,female
-23.0,male
-22.0,male
-21.0,female
-23.0,female
-17.0,female
-20.0,male
-22.0,male
-21.0,male
-22.0,female
-24.0,male
-19.0,female
-18.0,female
-24.0,female
-22.0,male
-20.0,male
-20.0,female
-19.0,female
-21.0,female
-25.0,male
-28.0,female
-20.0,female
-20.0,female
-23.0,male
-27.0,male
-21.0,male
-23.0,female
-22.0,female
-28.0,female
-22.0,female
-18.0,male
-25.0,female
-20.0,female
-28.0,female
-23.0,female
-21.0,female
-25.0,female
-28.0,female
-19.0,male
-30.0,female
-28.0,female
-19.0,female
-21.0,male
-19.0,male
-18.0,female
-18.0,male
-18.0,male
-17.0,female
-21.0,male
-18.0,female
-21.0,male
-23.0,female
-18.0,female
-20.0,female
-19.0,female
-20.0,female
-26.0,female
-21.0,female
-19.0,male
-23.0,male
-21.0,female
-22.0,female
-18.0,male
-21.0,female
-23.0,male
-17.0,female
-20.0,female
-22.0,female
-20.0,female
-19.0,female
-25.0,female
-29.0,male
-29.0,male
-17.0,female
-17.0,female
-19.0,male
-18.0,female
-20.0,female
-21.0,female
-18.0,female
-19.0,female
-19.0,male
-20.0,male
-19.0,male
-18.0,female
-18.0,male
-16.0,female
-18.0,female
-19.0,female
-24.0,female
-19.0,female
-,female
-20.0,female
-21.0,female
-23.0,male
-23.0,male
-17.0,male
-18.0,female
-26.0,male
-22.0,male
-22.0,male
-25.0,male
-21.0,female
-18.0,female
-15.0,female
-17.0,male
-22.0,female
-21.0,female
-21.0,female
-19.0,female
-26.0,male
-26.0,female
-25.0,male
-19.0,female
-20.0,male
-18.0,male
-25.0,female
-23.0,male
-24.0,male
-20.0,male
-19.0,female
-18.0,male
-25.0,female
-22.0,male
-26.0,male
-19.0,female
-16.0,female
-18.0,male
-20.0,female
-17.0,female
-20.0,female
-19.0,female
-25.0,male
-19.0,male
-18.0,female
-17.0,female
-18.0,male
-20.0,female
-17.0,female
-21.0,male
-19.0,male
-19.0,male
-19.0,male
-16.0,male
-18.0,female
-19.0,male
-20.0,female
-19.0,female
-21.0,male
-24.0,male
-23.0,male
-30.0,female
-27.0,male
-19.0,male
-18.0,female
-18.0,male
-17.0,male
-30.0,female
-19.0,female
-27.0,female
-21.0,female
-17.0,female
-20.0,male
-20.0,male
-20.0,male
-18.0,male
-20.0,male
-20.0,male
-17.0,female
-19.0,male
-20.0,female
-20.0,male
-21.0,male
-23.0,male
-24.0,male
-17.0,female
-18.0,female
-17.0,male
-19.0,female
-21.0,male
-29.0,female
-21.0,female
-20.0,female
-20.0,female
-19.0,male
-20.0,female
-21.0,female
-17.0,female
-20.0,female
-19.0,male
-21.0,male
-19.0,male
-19.0,male
-20.0,male
-21.0,female
-23.0,female
-24.0,female
-19.0,male
-24.0,female
-20.0,female
-30.0,male
-20.0,female
-23.0,female
-19.0,female
-19.0,male
-22.0,female
-17.0,female
-20.0,male
-19.0,male
-30.0,female
-27.0,male
-19.0,male
-17.0,female
-20.0,male
-20.0,male
-20.0,male
-20.0,male
-18.0,female
-21.0,male
-21.0,male
-20.0,male
-17.0,female
-23.0,male
-25.0,female
-18.0,male
-18.0,female
-25.0,female
-21.0,male
-20.0,male
-21.0,male
-18.0,female
-20.0,female
-19.0,male
-22.0,male
-26.0,male
-23.0,male
-18.0,female
-18.0,female
-16.0,female
-19.0,female
-19.0,female
-23.0,female
-21.0,male
-19.0,male
-20.0,female
-22.0,female
-20.0,male
-21.0,male
-19.0,male
-17.0,female
-19.0,female
-16.0,male
-22.0,male
-23.0,male
-28.0,female
-20.0,male
-21.0,male
-22.0,female
-,male
-19.0,male
-24.0,female
-23.0,male
-21.0,female
-22.0,female
-18.0,male
-28.0,female
-18.0,female
-23.0,female
-22.0,female
-21.0,female
-20.0,female
-18.0,female
-21.0,male
-20.0,male
-21.0,female
-21.0,female
-20.0,female
-17.0,male
-20.0,female
-23.0,female
-19.0,female
-20.0,female
-22.0,male
-19.0,female
-19.0,female
-27.0,female
-18.0,female
-18.0,male
-20.0,female
-17.0,female
-19.0,
-16.0,female
-21.0,female
-18.0,female
-19.0,female
-20.0,female
-16.0,male
-18.0,female
-24.0,male
-22.0,female
-19.0,female
-22.0,male
-22.0,male
-16.0,female
-18.0,female
-18.0,female
-15.0,male
-26.0,male
-19.0,male
-20.0,female
-20.0,female
-19.0,female
-20.0,male
-20.0,male
-22.0,female
-24.0,female
-,female
-20.0,male
-21.0,female
-23.0,male
-21.0,male
-17.0,female
-19.0,female
-18.0,male
-19.0,male
-19.0,male
-22.0,male
-18.0,male
-19.0,female
-20.0,female
-21.0,female
-23.0,female
-19.0,female
-19.0,male
-21.0,female
-19.0,male
-18.0,female
-19.0,female
-18.0,male
-22.0,female
-21.0,female
-20.0,female
-19.0,female
-20.0,male
-19.0,male
-30.0,female
-29.0,male
-21.0,male
-30.0,male
-21.0,female
-20.0,female
-18.0,female
-20.0,male
-19.0,female
-28.0,male
-19.0,male
-16.0,female
-18.0,female
-22.0,male
-20.0,female
-22.0,male
-20.0,female
-27.0,male
-18.0,female
-25.0,female
-21.0,male
+age,gender,interest_history,interest_mathematics,interest_physics,interest_computers,interest_economy,interest_medical,interest_law,interest_geography,interest_psychology
+20.0,female,Strongly disagree,Neutral,Neutral,Neutral,Strongly agree,Neutral,Strongly disagree,Neutral,Strongly agree
+19.0,female,Strongly disagree,Strongly agree,Disagree,Agree,Strongly agree,Strongly disagree,Disagree,Agree,Neutral
+20.0,female,Strongly disagree,Strongly agree,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,Disagree
+22.0,female,Agree,Agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Agree,Agree
+20.0,female,Neutral,Disagree,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree
+20.0,male,Strongly agree,Disagree,Neutral,Agree,Strongly disagree,Agree,Neutral,Neutral,Neutral
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Neutral,Neutral,Neutral
+19.0,male,Strongly agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Disagree
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree
+19.0,female,Neutral,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Agree,Disagree
+19.0,female,Neutral,Disagree,Strongly disagree,Strongly agree,Neutral,Disagree,Agree,Neutral,Neutral
+17.0,female,Disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Disagree
+24.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Disagree,Neutral,Agree
+19.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree
+22.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree
+18.0,male,Strongly agree,Neutral,Neutral,Strongly agree,Neutral,Disagree,Agree,Neutral,Strongly agree
+19.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree
+20.0,female,Neutral,Strongly disagree,Neutral,Neutral,Strongly disagree,Neutral,Strongly disagree,Disagree,Disagree
+18.0,male,Neutral,Strongly agree,Strongly agree,Strongly agree,Neutral,Disagree,Strongly disagree,Strongly disagree,Strongly agree
+18.0,male,Disagree,Neutral,Disagree,Strongly agree,Agree,Disagree,Strongly disagree,Agree,Neutral
+20.0,male,Strongly agree,Disagree,Neutral,Agree,Disagree,Agree,Disagree,Neutral,Neutral
+24.0,male,Agree,Neutral,Strongly disagree,Strongly agree,Strongly agree,Disagree,Strongly disagree,Strongly agree,Agree
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Neutral,Neutral,Disagree,Neutral,Agree
+20.0,female,Disagree,Disagree,Neutral,Neutral,Disagree,Agree,Disagree,Neutral,Disagree
+19.0,female,Agree,Disagree,Strongly disagree,Agree,Disagree,Agree,Strongly agree,Agree,Strongly agree
+20.0,female,Disagree,Neutral,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Neutral,Disagree,Disagree
+22.0,female,Neutral,Disagree,Neutral,Disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Neutral
+19.0,female,Disagree,Strongly disagree,Neutral,Disagree,Disagree,Agree,Strongly disagree,Disagree,Disagree
+20.0,male,Strongly agree,Strongly disagree,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Agree,Strongly disagree
+19.0,female,Strongly agree,Disagree,Disagree,Neutral,Agree,Neutral,Disagree,Neutral,Agree
+25.0,male,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Agree,Agree,Agree,Neutral
+22.0,female,Agree,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Agree
+20.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Disagree,Neutral,Strongly agree
+27.0,female,Strongly agree,Disagree,Strongly disagree,Agree,Agree,Strongly agree,Agree,Strongly agree,Neutral
+20.0,male,Agree,Neutral,Strongly disagree,Agree,Agree,Neutral,Disagree,Disagree,Strongly agree
+19.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree
+18.0,female,Agree,Neutral,Neutral,Neutral,Disagree,Strongly agree,Neutral,Neutral,Strongly agree
+21.0,male,Neutral,Neutral,Neutral,Neutral,Disagree,Neutral,Neutral,Disagree,Neutral
+23.0,female,Neutral,Neutral,Disagree,Disagree,Strongly agree,Agree,Neutral,Neutral,Agree
+21.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Strongly disagree,Neutral,Strongly disagree
+26.0,female,Disagree,Disagree,Strongly disagree,Agree,Neutral,Disagree,Disagree,Neutral,Strongly disagree
+20.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Neutral,Agree
+19.0,female,Disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Agree,Neutral,Disagree,Strongly agree
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Disagree,Strongly agree,Agree
+25.0,female,Agree,Neutral,Agree,Neutral,Agree,Strongly disagree,Agree,Agree,Strongly agree
+27.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree
+21.0,female,Agree,Disagree,Disagree,Agree,Disagree,Disagree,Strongly disagree,Agree,Neutral
+19.0,female,Disagree,Disagree,Strongly disagree,Neutral,Agree,Neutral,Strongly disagree,Neutral,Neutral
+20.0,female,Disagree,Disagree,Disagree,Disagree,Agree,Neutral,Disagree,Neutral,Agree
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree
+19.0,female,Neutral,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Agree
+19.0,female,Disagree,Strongly agree,Strongly agree,Strongly agree,Disagree,Strongly agree,Disagree,Neutral,Agree
+21.0,female,Strongly agree,Neutral,Disagree,Disagree,Disagree,Disagree,Disagree,Neutral,Agree
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,Agree,Neutral,Strongly agree,Neutral
+21.0,female,Strongly agree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Neutral,Neutral
+23.0,female,Agree,Disagree,Neutral,Agree,Neutral,Neutral,Neutral,Agree,Strongly agree
+20.0,female,Neutral,Agree,Neutral,Agree,Agree,Disagree,Agree,Disagree,Agree
+21.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Disagree,Strongly agree
+19.0,male,Neutral,Neutral,Disagree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Neutral
+22.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Neutral,Strongly agree,Agree
+23.0,male,Agree,Agree,Agree,Agree,Agree,Neutral,Disagree,Agree,Strongly agree
+23.0,male,Neutral,Neutral,Agree,Agree,Agree,Neutral,Neutral,Neutral,Neutral
+23.0,male,Strongly agree,Agree,Strongly agree,Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Agree
+22.0,male,Agree,,Disagree,Neutral,Agree,Disagree,Agree,Neutral,Disagree
+18.0,female,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree
+17.0,male,Strongly agree,Disagree,Strongly disagree,Neutral,Disagree,Neutral,Strongly disagree,Strongly agree,Disagree
+20.0,male,Neutral,Strongly agree,Strongly agree,Neutral,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree
+24.0,female,Disagree,Agree,Disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Neutral,Neutral
+18.0,female,Disagree,Strongly agree,Disagree,Disagree,Agree,Strongly disagree,Agree,Neutral,Disagree
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Disagree
+17.0,male,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree
+20.0,male,Strongly agree,Disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Strongly agree,Agree,Strongly disagree
+28.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree
+21.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Disagree,Agree,Neutral
+22.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Agree,Strongly disagree,Neutral,Agree,Neutral
+20.0,male,Strongly agree,Disagree,Strongly disagree,Agree,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly agree
+18.0,male,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree,Strongly disagree,Neutral,Disagree,Disagree
+21.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Disagree
+24.0,female,Disagree,Neutral,Strongly disagree,Agree,Agree,Agree,Strongly disagree,Strongly agree,Strongly agree
+21.0,female,Agree,Disagree,Strongly disagree,Neutral,Strongly agree,Disagree,Strongly agree,Neutral,Neutral
+19.0,female,Strongly agree,Strongly disagree,Disagree,Neutral,Neutral,Disagree,Strongly agree,Disagree,Agree
+22.0,male,Neutral,Strongly disagree,Disagree,Strongly agree,Agree,Strongly disagree,Agree,Neutral,Disagree
+18.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree
+22.0,female,,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly agree,Strongly agree,Disagree,Disagree
+19.0,female,Strongly agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Neutral,Neutral,Strongly agree,Strongly agree
+22.0,male,Agree,Strongly agree,Strongly agree,Strongly agree,Neutral,Neutral,Disagree,Neutral,Neutral
+24.0,male,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Strongly agree,Strongly agree
+18.0,female,Strongly agree,,Strongly disagree,Disagree,Agree,Strongly disagree,Agree,Agree,Agree
+21.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Disagree,Neutral,Neutral
+19.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree
+18.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree
+19.0,female,Agree,Neutral,Neutral,Disagree,Disagree,Disagree,Strongly disagree,Agree,Neutral
+24.0,male,Disagree,Agree,Agree,Strongly agree,Neutral,Strongly disagree,Disagree,Strongly agree,Neutral
+21.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,,Disagree,Neutral,Disagree
+21.0,male,Agree,Strongly disagree,Disagree,Strongly agree,Disagree,Strongly disagree,Disagree,Strongly agree,Agree
+19.0,male,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree
+19.0,male,Neutral,Agree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Disagree,Strongly disagree,Disagree
+22.0,male,Strongly disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree
+18.0,female,Neutral,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Agree
+21.0,female,Neutral,Disagree,Neutral,Strongly agree,Disagree,Strongly agree,Strongly disagree,Disagree,Strongly disagree
+18.0,male,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Disagree,Agree,Strongly disagree
+20.0,female,Strongly agree,Agree,Agree,Agree,Disagree,Strongly agree,Agree,Strongly agree,Strongly agree
+22.0,male,Strongly agree,Disagree,Disagree,Strongly agree,Disagree,Disagree,Agree,Strongly agree,Agree
+21.0,male,Strongly agree,Disagree,Disagree,Neutral,Agree,Disagree,Strongly agree,Agree,Agree
+24.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Disagree
+19.0,male,Agree,Neutral,Strongly disagree,Agree,Strongly agree,Strongly disagree,Disagree,Neutral,Agree
+18.0,female,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Strongly agree,Disagree,Disagree,Disagree
+17.0,female,Strongly disagree,Neutral,Disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+18.0,male,Neutral,Disagree,Disagree,Strongly agree,Agree,Neutral,Disagree,Disagree,Neutral
+21.0,male,Neutral,Disagree,Neutral,Disagree,Disagree,Neutral,Strongly disagree,Strongly agree,Agree
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Neutral,Agree
+20.0,female,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Neutral,Neutral
+21.0,female,Disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree
+19.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Neutral,Strongly disagree,Neutral,Neutral
+17.0,female,Disagree,Strongly disagree,Neutral,Neutral,Disagree,Agree,Disagree,Agree,Strongly agree
+21.0,female,Disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree
+18.0,female,Disagree,Strongly agree,Disagree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree
+23.0,male,Neutral,Agree,Disagree,Agree,Disagree,Disagree,Strongly disagree,Agree,Disagree
+16.0,female,Agree,Agree,Disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Agree,Agree
+23.0,male,Strongly agree,Strongly agree,Strongly agree,Agree,Strongly agree,Neutral,Neutral,Strongly agree,Neutral
+21.0,male,Strongly disagree,Agree,Neutral,Agree,Neutral,Neutral,Agree,Strongly disagree,Neutral
+23.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree
+20.0,female,Disagree,Strongly disagree,Neutral,Neutral,Disagree,Neutral,Neutral,Neutral,Neutral
+20.0,male,Agree,Strongly disagree,Neutral,Strongly agree,Neutral,Agree,Agree,Agree,Agree
+20.0,female,Agree,Disagree,Disagree,Disagree,Disagree,Neutral,Neutral,Disagree,Agree
+20.0,female,Strongly agree,Disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree
+19.0,female,Agree,Neutral,Disagree,Agree,Neutral,Neutral,Disagree,Strongly agree,Agree
+15.0,female,Agree,Neutral,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree
+20.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Disagree,Disagree,Neutral
+19.0,female,Strongly agree,Disagree,Strongly disagree,Agree,Agree,Disagree,Strongly agree,Strongly agree,Neutral
+18.0,male,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+15.0,female,Strongly disagree,Agree,Strongly disagree,Neutral,Disagree,Neutral,Disagree,Strongly agree,Strongly agree
+20.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Strongly disagree
+16.0,female,Neutral,Strongly disagree,Disagree,Neutral,Neutral,Agree,Neutral,Neutral,Neutral
+18.0,male,Strongly agree,Neutral,Disagree,Agree,Strongly disagree,Disagree,Strongly agree,Agree,Disagree
+21.0,male,Agree,Disagree,Agree,Agree,Neutral,Strongly agree,Disagree,Neutral,Disagree
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Neutral,Neutral
+19.0,female,Strongly disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Neutral
+19.0,female,Strongly agree,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Neutral,Agree
+19.0,female,Neutral,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree
+,male,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Agree,Strongly disagree,Disagree,Agree,Disagree
+20.0,female,,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree
+21.0,male,Neutral,Strongly disagree,Agree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Agree
+19.0,female,Disagree,Strongly disagree,,Disagree,Strongly disagree,Agree,Disagree,Neutral,Agree
+21.0,male,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Strongly agree,Agree,Neutral
+18.0,male,Agree,Strongly agree,Strongly agree,Agree,Disagree,Disagree,Disagree,Strongly agree,Disagree
+20.0,male,Neutral,Agree,Agree,Strongly agree,Neutral,Neutral,Neutral,Agree,Agree
+19.0,male,Disagree,Strongly agree,Strongly agree,Strongly agree,Neutral,Disagree,Strongly disagree,Neutral,Neutral
+22.0,female,Disagree,Neutral,Neutral,Agree,Strongly agree,Disagree,Strongly disagree,Agree,Neutral
+20.0,male,Agree,Disagree,Disagree,Neutral,Strongly disagree,Neutral,Disagree,Agree,Agree
+25.0,male,Strongly agree,Disagree,Strongly disagree,Disagree,Strongly agree,Strongly agree,Neutral,Neutral,Strongly agree
+21.0,female,Strongly agree,Strongly disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Neutral
+24.0,male,Strongly agree,Neutral,Agree,Strongly agree,Strongly agree,Disagree,Agree,Strongly agree,Strongly disagree
+19.0,female,Agree,Neutral,Disagree,Disagree,Strongly disagree,Agree,Strongly agree,Neutral,Strongly agree
+25.0,male,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Disagree
+26.0,male,Neutral,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Neutral,Agree
+15.0,female,Strongly disagree,Neutral,Disagree,Neutral,Strongly disagree,Disagree,Strongly disagree,Agree,Disagree
+20.0,male,Agree,Neutral,Disagree,Neutral,Agree,Neutral,Neutral,Strongly agree,Agree
+19.0,male,Agree,Strongly agree,Agree,Agree,Strongly agree,Strongly disagree,Disagree,Strongly agree,Neutral
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Agree,Strongly disagree,Disagree,Disagree
+21.0,male,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Neutral,Strongly agree,Neutral
+22.0,male,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Strongly disagree,Disagree,Strongly agree
+20.0,male,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral
+20.0,female,Neutral,Disagree,Strongly disagree,Agree,Agree,Disagree,Strongly agree,Agree,Agree
+21.0,female,Disagree,Disagree,Disagree,Disagree,Neutral,Disagree,Strongly disagree,Neutral,Disagree
+21.0,male,Neutral,Strongly disagree,Disagree,Neutral,Neutral,Disagree,Disagree,Neutral,Neutral
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Neutral,Agree
+19.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Disagree
+19.0,male,Strongly agree,Strongly agree,Neutral,Strongly disagree,Strongly agree,Agree,Agree,Strongly agree,Agree
+20.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Neutral,Agree
+22.0,male,Strongly agree,Neutral,Neutral,Strongly agree,Disagree,Disagree,Neutral,Strongly agree,Agree
+21.0,male,Neutral,Agree,Disagree,Strongly agree,Disagree,Disagree,Strongly disagree,Disagree,Disagree
+26.0,male,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,,Neutral,Neutral,Strongly agree,Strongly disagree
+17.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree
+22.0,male,Strongly disagree,Strongly agree,Agree,Strongly agree,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree
+26.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,,Neutral
+20.0,female,Agree,Neutral,Neutral,Neutral,Strongly disagree,Neutral,Strongly disagree,Neutral,Agree
+22.0,male,Strongly agree,Disagree,Disagree,Neutral,Disagree,Neutral,Neutral,Disagree,Strongly agree
+21.0,male,Agree,Agree,Neutral,Neutral,Strongly agree,Strongly disagree,Strongly disagree,Agree,Strongly agree
+23.0,male,Agree,Disagree,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Agree
+19.0,female,Neutral,Disagree,Disagree,Disagree,Disagree,Strongly agree,Disagree,Disagree,Disagree
+20.0,male,Strongly agree,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Strongly agree,Strongly agree
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Neutral
+19.0,female,Disagree,Strongly agree,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly agree
+29.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Disagree,Neutral,Neutral
+22.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral
+19.0,female,Agree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Neutral,Agree,Strongly disagree
+17.0,female,Agree,Neutral,Strongly disagree,Neutral,Neutral,Strongly disagree,Disagree,Disagree,Neutral
+16.0,female,Neutral,Strongly agree,Neutral,Agree,Neutral,Agree,Strongly disagree,Neutral,Neutral
+29.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Agree
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Agree,Strongly disagree,Disagree,Disagree,Neutral
+26.0,male,Neutral,Strongly disagree,Neutral,Disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Neutral
+19.0,male,Disagree,Strongly disagree,Strongly disagree,Agree,Agree,Strongly disagree,Neutral,Neutral,Neutral
+19.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Neutral
+20.0,female,Agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Agree,Disagree,Agree,Agree
+22.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree
+20.0,male,Agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+21.0,male,Disagree,Strongly disagree,Disagree,Neutral,,Strongly disagree,Strongly disagree,Neutral,Disagree
+21.0,male,Neutral,Strongly disagree,Neutral,Strongly agree,Neutral,Disagree,Disagree,Agree,Disagree
+18.0,,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree
+15.0,male,Disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Neutral,Strongly disagree,Neutral,Disagree
+19.0,female,Disagree,Neutral,Disagree,Agree,Neutral,Strongly agree,Neutral,Strongly disagree,Disagree
+24.0,female,Strongly disagree,Agree,Neutral,Agree,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree
+19.0,female,Strongly agree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Agree
+25.0,male,Strongly agree,Agree,Agree,Agree,Disagree,Neutral,Strongly agree,Neutral,Neutral
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Neutral,Strongly agree,Strongly agree,Disagree
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Neutral
+21.0,male,Agree,Agree,Neutral,Strongly agree,Neutral,Disagree,Agree,Strongly agree,Agree
+23.0,male,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,Agree
+21.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Strongly disagree,Strongly disagree,Disagree,Neutral
+20.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Neutral,Agree,Agree,Neutral
+20.0,female,Neutral,Neutral,Agree,Agree,Agree,Strongly agree,Agree,Agree,Neutral
+18.0,female,Agree,Neutral,Neutral,Neutral,Disagree,Strongly agree,Agree,Strongly agree,Neutral
+27.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree
+17.0,female,Neutral,Neutral,Agree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Neutral
+19.0,female,Disagree,Disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Disagree,Strongly agree,Neutral
+18.0,male,Disagree,Disagree,Agree,Agree,Disagree,Strongly agree,Neutral,Neutral,Strongly disagree
+26.0,male,Strongly agree,Strongly disagree,Disagree,Neutral,Neutral,Strongly disagree,Neutral,Strongly agree,Neutral
+18.0,male,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Neutral,Disagree,Strongly disagree,Neutral
+30.0,male,Neutral,Agree,Agree,Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Agree
+24.0,female,Disagree,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral
+20.0,female,Agree,Neutral,Disagree,Neutral,Disagree,Disagree,Disagree,Neutral,Strongly agree
+20.0,male,Disagree,Strongly disagree,Neutral,Agree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Agree
+20.0,male,Neutral,Agree,Agree,Agree,Agree,Neutral,Disagree,Agree,Neutral
+25.0,,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree
+19.0,female,Strongly agree,Neutral,Agree,Agree,Disagree,Agree,Neutral,Strongly agree,Agree
+20.0,female,Neutral,Neutral,Neutral,Neutral,Neutral,Agree,Disagree,Neutral,Neutral
+21.0,male,Disagree,Agree,Disagree,Strongly agree,Disagree,Disagree,Disagree,Strongly agree,Strongly disagree
+19.0,female,Agree,Neutral,Strongly disagree,Disagree,Strongly agree,Disagree,Strongly disagree,Agree,Agree
+19.0,female,Disagree,Disagree,Strongly disagree,Neutral,Agree,Agree,Agree,Agree,Agree
+19.0,female,Strongly disagree,Agree,Strongly disagree,Agree,Strongly agree,Strongly disagree,Neutral,Strongly agree,Disagree
+18.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Neutral,Disagree,Strongly disagree,Agree
+18.0,female,Strongly disagree,Strongly agree,Agree,Disagree,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree
+16.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Strongly agree
+19.0,female,Strongly agree,Neutral,Disagree,Neutral,Disagree,Disagree,Strongly agree,Disagree,Agree
+18.0,female,Disagree,Agree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Strongly agree,Disagree
+19.0,female,Disagree,Disagree,Disagree,Disagree,Agree,Strongly disagree,Strongly disagree,Disagree,Neutral
+21.0,female,Agree,Strongly disagree,Disagree,Strongly disagree,Neutral,Disagree,Neutral,Agree,Disagree
+21.0,male,Neutral,Disagree,Disagree,Strongly agree,Agree,Disagree,Agree,Neutral,Neutral
+18.0,female,Neutral,Agree,Strongly agree,Neutral,Strongly disagree,Neutral,Strongly agree,Disagree,Agree
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Agree,Disagree,Disagree,Strongly disagree,Neutral
+17.0,female,Agree,Agree,Strongly disagree,Neutral,Disagree,Strongly agree,Strongly disagree,Disagree,Strongly agree
+20.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly agree
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree
+27.0,male,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,Strongly disagree,Strongly agree,Disagree,Neutral
+22.0,female,Neutral,Strongly disagree,Disagree,Strongly disagree,Neutral,Strongly agree,Neutral,Strongly agree,Disagree
+19.0,female,Strongly agree,Disagree,Disagree,Disagree,Neutral,Neutral,Strongly agree,Disagree,Strongly agree
+19.0,female,Agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Agree
+20.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree
+19.0,female,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree,Agree,Strongly disagree,Strongly disagree,Disagree
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Disagree,Disagree,Strongly disagree,Neutral,Agree
+17.0,female,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Neutral
+23.0,female,Disagree,Disagree,Strongly disagree,Neutral,Agree,Strongly agree,Neutral,Strongly disagree,Agree
+20.0,female,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Agree,Strongly disagree,Neutral,Strongly agree
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Neutral,Disagree,Disagree
+19.0,male,Agree,Strongly agree,Neutral,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Neutral,Disagree
+20.0,female,Disagree,Agree,Agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree
+19.0,male,Strongly agree,Strongly disagree,Disagree,Disagree,Disagree,Neutral,Agree,Agree,Agree
+19.0,male,Neutral,Strongly disagree,Neutral,Neutral,Neutral,Neutral,Neutral,,Neutral
+18.0,female,Neutral,Agree,Disagree,Strongly agree,Strongly agree,Strongly disagree,Agree,Strongly disagree,Disagree
+19.0,female,Neutral,Neutral,Disagree,Neutral,Disagree,Neutral,Neutral,,Strongly agree
+15.0,female,Strongly disagree,Neutral,Disagree,Disagree,Neutral,Disagree,Agree,Neutral,Agree
+19.0,female,Disagree,Disagree,Disagree,Strongly agree,Disagree,Strongly agree,Neutral,Disagree,Disagree
+15.0,female,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly disagree
+19.0,female,Neutral,Agree,Neutral,Agree,Agree,Disagree,Strongly disagree,Strongly agree,Neutral
+21.0,female,Agree,Neutral,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,Agree
+19.0,female,Strongly disagree,Strongly agree,Neutral,Disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Disagree
+17.0,female,Neutral,Disagree,Disagree,Disagree,Strongly disagree,Strongly agree,Agree,Neutral,Neutral
+23.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Disagree,Disagree,Disagree,Agree,Strongly agree
+24.0,male,Agree,Disagree,Strongly disagree,Agree,Disagree,Disagree,Disagree,Neutral,Strongly disagree
+19.0,female,Neutral,Neutral,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Agree
+19.0,female,Neutral,Disagree,Strongly disagree,Agree,Agree,Neutral,Agree,Agree,Agree
+22.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Strongly agree,Disagree,Strongly agree
+20.0,female,Strongly agree,Disagree,Disagree,Strongly agree,Neutral,Disagree,Neutral,Neutral,Strongly agree
+21.0,female,Agree,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree
+19.0,male,Strongly agree,Disagree,Disagree,Strongly agree,Agree,Disagree,Agree,Disagree,Neutral
+19.0,male,Agree,Neutral,Neutral,Neutral,Disagree,Neutral,Disagree,Strongly agree,Neutral
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Agree
+18.0,female,Neutral,Strongly disagree,Disagree,Disagree,Disagree,Neutral,Disagree,Strongly disagree,Agree
+19.0,male,Disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Agree,Neutral
+20.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+22.0,male,Disagree,Strongly agree,Neutral,Strongly agree,Agree,Neutral,Disagree,Neutral,Disagree
+20.0,male,Disagree,Agree,Strongly disagree,Agree,Strongly agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree
+20.0,female,Disagree,Disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Strongly disagree,Disagree,Neutral
+27.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Disagree,Disagree,Disagree,Neutral,Agree
+19.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Agree,Neutral,Disagree,Agree,Neutral
+22.0,male,Disagree,Strongly disagree,Neutral,Agree,Neutral,Disagree,Disagree,Neutral,Disagree
+19.0,male,Strongly agree,Strongly disagree,Disagree,Agree,Agree,Neutral,Strongly agree,Agree,Disagree
+20.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Neutral
+20.0,male,Agree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Neutral,Neutral
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Disagree,Agree,Agree
+16.0,female,Agree,Strongly agree,Strongly agree,Agree,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree
+19.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Agree,Agree,Strongly agree
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Disagree,Agree,Neutral
+23.0,male,Agree,Agree,Neutral,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree
+19.0,male,Strongly disagree,Neutral,Neutral,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Agree
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly agree
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Neutral,Neutral,Disagree,Disagree,Agree
+18.0,female,Neutral,Neutral,Disagree,Neutral,Disagree,Neutral,Disagree,Disagree,Agree
+20.0,male,Strongly agree,Disagree,Agree,Agree,Strongly disagree,Disagree,Disagree,Agree,Strongly agree
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Agree,Neutral,Agree,Disagree,Agree
+25.0,female,Agree,Strongly agree,Disagree,Agree,Strongly agree,Neutral,Neutral,Agree,Disagree
+18.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Disagree,Agree,Disagree,Strongly agree
+20.0,female,Strongly agree,Agree,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Agree,Strongly agree
+15.0,female,Neutral,Agree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Neutral,Strongly agree,Agree
+19.0,female,Disagree,Strongly agree,Neutral,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Disagree
+19.0,female,Neutral,Disagree,Disagree,Neutral,Neutral,Agree,Agree,Agree,Agree
+16.0,female,Disagree,Neutral,Neutral,Neutral,Strongly disagree,Disagree,Strongly disagree,Disagree,Neutral
+19.0,male,Strongly disagree,Disagree,Disagree,Agree,Disagree,Strongly agree,Strongly disagree,Disagree,Strongly disagree
+18.0,female,Strongly agree,Neutral,Strongly disagree,Neutral,Strongly agree,Disagree,Disagree,Strongly agree,Neutral
+15.0,male,Disagree,Disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Agree
+20.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Disagree,Neutral,Neutral,Strongly agree,Agree
+20.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Agree,Strongly disagree,Strongly disagree,Agree,Disagree
+20.0,female,Neutral,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Disagree,Disagree
+19.0,male,Strongly disagree,Neutral,Neutral,Agree,Disagree,Disagree,Strongly disagree,Neutral,Strongly disagree
+16.0,female,Neutral,Neutral,Strongly disagree,Agree,Neutral,Strongly agree,Disagree,Disagree,Strongly agree
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Agree,Disagree,Disagree,Agree,Strongly agree
+20.0,male,Strongly agree,Neutral,Neutral,Strongly agree,,Disagree,Disagree,Disagree,Disagree
+16.0,female,Agree,Strongly disagree,Strongly disagree,,Strongly disagree,Strongly agree,Neutral,Disagree,Strongly agree
+18.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly agree,Strongly agree,Disagree
+20.0,male,Disagree,Neutral,Neutral,Agree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Agree
+18.0,female,Strongly disagree,Disagree,Disagree,Neutral,Agree,Agree,Disagree,Neutral,Disagree
+19.0,male,Strongly agree,Strongly disagree,Neutral,Neutral,Neutral,Strongly agree,Disagree,Strongly agree,Neutral
+19.0,female,Agree,Agree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Disagree,Neutral,Agree
+20.0,female,Neutral,Disagree,Strongly disagree,Strongly agree,Strongly agree,Disagree,Disagree,Agree,Neutral
+18.0,male,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Neutral,Strongly agree,Strongly agree
+17.0,female,Neutral,Disagree,Strongly disagree,Agree,Agree,Disagree,Strongly disagree,Disagree,Disagree
+22.0,female,Agree,Strongly disagree,Disagree,Neutral,Strongly disagree,,Strongly disagree,Neutral,Neutral
+17.0,male,Disagree,Neutral,Strongly agree,Disagree,Strongly disagree,Strongly agree,Disagree,Neutral,Neutral
+22.0,female,Neutral,Agree,Agree,Disagree,Strongly disagree,Strongly agree,Disagree,Neutral,Neutral
+16.0,female,Strongly agree,Neutral,Disagree,Neutral,Disagree,Neutral,Disagree,Strongly agree,Neutral
+24.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Neutral,Disagree,Disagree,Strongly agree,Agree
+17.0,male,Strongly agree,Neutral,Disagree,Strongly agree,Agree,Disagree,Disagree,Disagree,Disagree
+17.0,male,Strongly disagree,Strongly agree,Strongly agree,Agree,Strongly disagree,Agree,Strongly disagree,Neutral,Strongly disagree
+17.0,male,Neutral,Agree,Strongly agree,Neutral,Strongly agree,Strongly disagree,Agree,Strongly disagree,Neutral
+15.0,female,Disagree,Neutral,Strongly disagree,Disagree,Agree,Strongly disagree,Disagree,Strongly disagree,Disagree
+18.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Disagree,Strongly agree,Strongly agree,Disagree
+18.0,female,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Agree,Neutral
+16.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+20.0,female,Disagree,Agree,Neutral,Neutral,Agree,Strongly disagree,Strongly disagree,Agree,Neutral
+29.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Disagree,Disagree,Neutral
+24.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree
+18.0,female,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Agree,Neutral
+17.0,male,Strongly agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly agree
+18.0,male,Disagree,Disagree,Disagree,Strongly agree,Agree,Strongly disagree,Strongly disagree,Disagree,Disagree
+16.0,male,Neutral,Neutral,Neutral,Agree,Strongly disagree,Neutral,Strongly disagree,Agree,Disagree
+17.0,female,Neutral,Disagree,Strongly disagree,,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree
+20.0,male,Disagree,Disagree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree
+16.0,female,Neutral,Strongly agree,Agree,Neutral,Disagree,Strongly agree,Disagree,Agree,Neutral
+19.0,male,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Strongly disagree
+18.0,female,Agree,Disagree,Disagree,Disagree,Agree,Disagree,Agree,Agree,Agree
+20.0,female,Neutral,Agree,Agree,Neutral,Agree,Neutral,Neutral,Neutral,Agree
+19.0,male,Agree,Agree,Disagree,Strongly agree,Agree,Disagree,Agree,Neutral,Disagree
+18.0,male,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Disagree,Agree,Disagree
+21.0,male,Strongly disagree,Neutral,Disagree,Neutral,Disagree,Neutral,Disagree,Strongly disagree,Neutral
+19.0,male,Strongly agree,Disagree,Disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Disagree
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Disagree
+23.0,female,Agree,Strongly agree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Agree
+19.0,female,Agree,Strongly disagree,Disagree,Strongly agree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly agree
+19.0,female,Strongly agree,Strongly disagree,,Neutral,Disagree,Neutral,Disagree,Neutral,Agree
+19.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Agree,Agree
+20.0,male,Neutral,Disagree,Strongly disagree,Agree,Strongly agree,Strongly disagree,Strongly disagree,Agree,Neutral
+24.0,male,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Agree,Agree,Agree,Strongly agree,Strongly agree
+19.0,male,Strongly disagree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree
+20.0,male,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Disagree,Neutral,Strongly disagree
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Agree,Agree,Disagree,Strongly agree,Agree
+17.0,male,Agree,Agree,Neutral,Agree,Neutral,Neutral,Neutral,Neutral,Neutral
+19.0,female,Agree,Disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Strongly disagree,Agree,Agree
+19.0,female,Disagree,Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Disagree,Disagree,Strongly agree
+20.0,male,Neutral,Strongly disagree,Neutral,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Neutral
+20.0,male,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Agree
+21.0,female,Disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Disagree
+20.0,female,Disagree,Neutral,Disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Strongly disagree
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree
+17.0,female,Neutral,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Neutral,Agree,Strongly agree
+20.0,female,Agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Agree
+25.0,male,Neutral,Neutral,Neutral,Strongly agree,Agree,Disagree,Agree,Neutral,Strongly agree
+20.0,female,Neutral,Disagree,Strongly disagree,Neutral,Disagree,Agree,Strongly disagree,Disagree,Agree
+21.0,female,Strongly agree,Disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Neutral,Disagree,Strongly agree
+21.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Agree,Disagree,Disagree,Disagree
+22.0,male,Strongly disagree,Strongly agree,Disagree,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree
+19.0,female,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Disagree,Strongly agree
+25.0,male,Neutral,Neutral,Agree,Strongly agree,Strongly disagree,Neutral,Neutral,Neutral,Strongly disagree
+19.0,female,Disagree,Neutral,Agree,Neutral,Agree,Agree,Strongly disagree,Neutral,Agree
+25.0,female,Disagree,Disagree,Disagree,Neutral,Neutral,Strongly agree,Agree,Agree,Agree
+25.0,female,Neutral,Agree,Disagree,Agree,Strongly agree,Neutral,Disagree,Disagree,Strongly agree
+21.0,female,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Agree,Strongly agree
+20.0,male,Strongly agree,Neutral,Disagree,Neutral,Strongly agree,Neutral,Neutral,Neutral,Neutral
+24.0,female,Agree,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree
+30.0,female,Neutral,Neutral,Strongly disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Neutral
+21.0,male,Strongly agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree
+27.0,male,Strongly disagree,Agree,Disagree,Strongly agree,Strongly disagree,Agree,Disagree,Disagree,Agree
+21.0,male,Agree,Agree,Neutral,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree
+16.0,female,Disagree,Agree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+21.0,female,Strongly disagree,Agree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+20.0,female,Neutral,Agree,Neutral,Strongly agree,Strongly agree,Neutral,Strongly agree,Agree,Agree
+22.0,female,Strongly agree,Agree,Agree,Agree,Disagree,Disagree,Neutral,Neutral,Strongly agree
+19.0,male,Strongly agree,Strongly agree,Strongly agree,Agree,Disagree,Agree,Disagree,Strongly agree,Disagree
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Agree
+25.0,male,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree
+23.0,male,Disagree,Disagree,Disagree,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Agree
+20.0,female,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Agree,Disagree
+20.0,female,Strongly agree,Disagree,Neutral,Disagree,Agree,Disagree,Agree,Strongly agree,Agree
+21.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree
+19.0,female,Agree,Disagree,Disagree,Neutral,Agree,Neutral,Agree,Neutral,Agree
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Neutral
+16.0,female,Strongly disagree,Neutral,Neutral,Neutral,Neutral,Disagree,Strongly disagree,Strongly agree,Disagree
+20.0,male,Neutral,Agree,Agree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree
+18.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Agree,Disagree,Strongly agree,Neutral,Agree
+21.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Agree
+21.0,male,Agree,Neutral,Disagree,Disagree,Disagree,Disagree,Disagree,Agree,Disagree
+18.0,male,Agree,Neutral,Strongly disagree,Agree,Agree,Strongly disagree,Strongly disagree,Agree,Strongly agree
+19.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Neutral,Strongly disagree,Strongly agree
+20.0,female,Disagree,Strongly agree,Disagree,Disagree,Strongly agree,Strongly disagree,Disagree,Neutral,Disagree
+18.0,male,Agree,Strongly agree,Neutral,Strongly agree,Disagree,Neutral,Disagree,Disagree,Agree
+18.0,female,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Agree,Strongly disagree,Disagree,Disagree,Disagree
+23.0,female,Neutral,Strongly disagree,Disagree,Disagree,Disagree,Strongly agree,Agree,Strongly disagree,Strongly agree
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Agree,Strongly agree,Neutral
+18.0,female,Strongly agree,Agree,Agree,Strongly agree,Agree,Neutral,Neutral,Strongly agree,Neutral
+28.0,female,Agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Disagree,Disagree,Agree
+24.0,female,Disagree,Strongly disagree,Disagree,Agree,Disagree,Strongly agree,Neutral,Disagree,Agree
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Neutral,Strongly disagree,Agree
+22.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree
+19.0,male,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Agree
+18.0,female,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Disagree,Neutral,Neutral,Neutral
+21.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Disagree,Disagree,Agree
+19.0,female,Agree,Disagree,Disagree,Disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Neutral
+19.0,male,Disagree,Strongly agree,Strongly agree,Strongly agree,Neutral,Disagree,Strongly disagree,Neutral,Strongly disagree
+20.0,male,Strongly agree,Disagree,Neutral,Strongly agree,Disagree,Disagree,Disagree,Neutral,Strongly agree
+19.0,female,Neutral,Strongly agree,Disagree,Agree,Strongly agree,Strongly disagree,Strongly disagree,Agree,Disagree
+18.0,male,Strongly agree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Strongly agree,Neutral,Agree,Neutral
+18.0,female,Disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree
+19.0,male,Disagree,Disagree,Neutral,Neutral,Disagree,Strongly agree,Strongly disagree,Neutral,Disagree
+18.0,female,Strongly disagree,Strongly disagree,Neutral,Disagree,Neutral,Strongly disagree,Neutral,Disagree,Strongly agree
+18.0,female,Strongly disagree,Strongly disagree,Disagree,Agree,Neutral,Disagree,Strongly disagree,Disagree,Strongly agree
+19.0,male,Agree,Neutral,Strongly disagree,Neutral,Strongly agree,Disagree,Disagree,Agree,Neutral
+19.0,female,Agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Disagree,Agree,Agree
+19.0,female,Strongly disagree,Disagree,Disagree,Disagree,Disagree,Strongly agree,Strongly disagree,Agree,Strongly agree
+18.0,female,Disagree,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,Neutral,Disagree
+18.0,female,Strongly agree,Neutral,Disagree,Strongly disagree,Neutral,Disagree,Agree,Agree,Strongly agree
+19.0,female,Neutral,Agree,Agree,Strongly disagree,Disagree,Agree,Strongly disagree,Neutral,Strongly agree
+20.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Agree,Disagree
+19.0,male,Strongly disagree,Neutral,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Agree
+26.0,female,Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Strongly agree,Agree,Strongly agree,Agree
+19.0,female,Neutral,Agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Strongly disagree,Neutral
+19.0,female,Disagree,Neutral,Disagree,Disagree,Disagree,Strongly agree,Disagree,Neutral,Disagree
+22.0,male,Neutral,Disagree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Disagree,Disagree,Strongly disagree
+20.0,male,Neutral,Disagree,Disagree,Neutral,Disagree,Strongly agree,Disagree,Strongly disagree,Neutral
+28.0,female,Strongly disagree,Neutral,Strongly disagree,Neutral,Strongly agree,Strongly agree,Neutral,Strongly agree,Neutral
+19.0,female,Disagree,Disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Disagree,Neutral,Disagree
+21.0,female,Neutral,Neutral,Strongly disagree,Disagree,Strongly agree,Disagree,Strongly agree,Agree,Agree
+19.0,female,Strongly disagree,Disagree,Strongly disagree,Neutral,Disagree,Neutral,Strongly disagree,Disagree,Neutral
+22.0,male,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Neutral
+19.0,male,Neutral,Strongly agree,Agree,Strongly agree,Neutral,Disagree,Strongly disagree,Disagree,Strongly agree
+18.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+19.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Disagree
+22.0,male,Agree,Strongly disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Neutral,Strongly agree,Strongly disagree
+29.0,male,Neutral,Neutral,Disagree,Neutral,Agree,Neutral,Neutral,Agree,Neutral
+,female,Neutral,Neutral,Neutral,Neutral,Disagree,Neutral,Neutral,Neutral,Neutral
+18.0,female,Strongly disagree,Neutral,Strongly disagree,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Neutral
+22.0,female,Disagree,Strongly disagree,Strongly disagree,Agree,Agree,Disagree,Disagree,Strongly agree,Neutral
+17.0,female,Strongly agree,Disagree,Disagree,Agree,Neutral,Disagree,Neutral,Strongly agree,Disagree
+19.0,male,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Agree,Strongly disagree,Agree,Strongly disagree,Strongly disagree
+20.0,female,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Disagree
+18.0,female,Neutral,Agree,Disagree,Neutral,Strongly agree,Disagree,Disagree,Neutral,Disagree
+22.0,male,Neutral,Neutral,Disagree,Strongly agree,Neutral,Neutral,Disagree,Agree,Disagree
+19.0,female,Agree,Disagree,Strongly disagree,Agree,Disagree,Disagree,Strongly disagree,Agree,Neutral
+20.0,male,Neutral,Neutral,Agree,Agree,Neutral,Disagree,Disagree,Neutral,Neutral
+25.0,male,Disagree,Strongly agree,Agree,Strongly disagree,Disagree,Disagree,Strongly disagree,Agree,Strongly disagree
+29.0,male,Strongly agree,Disagree,Disagree,Neutral,Disagree,Strongly agree,Disagree,Neutral,Neutral
+19.0,male,Neutral,Strongly agree,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Neutral
+18.0,female,Agree,Neutral,Disagree,Disagree,Disagree,Disagree,Neutral,Neutral,Strongly agree
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Neutral
+18.0,female,Disagree,Agree,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Disagree
+30.0,male,Disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Disagree,Disagree,Strongly agree,Disagree
+20.0,female,Disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly agree,Disagree,Neutral,Neutral
+21.0,female,Neutral,Neutral,Disagree,Agree,Disagree,Agree,Disagree,Neutral,Disagree
+22.0,male,Strongly agree,Strongly disagree,Agree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Strongly agree
+22.0,male,Agree,Agree,Disagree,Agree,Agree,Disagree,Neutral,Disagree,Disagree
+20.0,female,Neutral,Agree,Agree,Disagree,Disagree,Strongly agree,Disagree,Neutral,Agree
+20.0,female,Agree,Agree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Neutral,Neutral,Disagree
+19.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Disagree,Neutral,Strongly disagree
+28.0,female,Agree,Neutral,Disagree,Neutral,Agree,Neutral,Strongly agree,Disagree,Strongly agree
+19.0,female,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Disagree,Strongly agree,Agree,Disagree,Strongly agree
+22.0,male,Strongly agree,Neutral,Agree,Agree,Neutral,Neutral,Strongly agree,Agree,Disagree
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Agree,Strongly agree,Agree
+16.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Strongly disagree,Strongly agree
+19.0,female,Disagree,Disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Strongly disagree,Neutral,Neutral
+20.0,female,Strongly agree,Neutral,Disagree,Neutral,Strongly disagree,Agree,Strongly disagree,Strongly agree,Strongly agree
+21.0,male,Neutral,Disagree,Disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree
+19.0,female,Disagree,Agree,Neutral,Disagree,Agree,Agree,Neutral,Neutral,Agree
+20.0,female,Disagree,Disagree,Strongly disagree,Neutral,Agree,Neutral,Disagree,Neutral,Disagree
+25.0,female,Neutral,Neutral,Neutral,Disagree,Agree,Neutral,Disagree,Agree,Neutral
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly agree
+19.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Neutral,Agree
+22.0,male,Neutral,Disagree,Disagree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,
+19.0,female,Agree,Neutral,Agree,Agree,Disagree,Agree,Strongly disagree,Neutral,Agree
+21.0,female,Neutral,Agree,Strongly disagree,Disagree,Strongly agree,Disagree,Disagree,Disagree,Disagree
+22.0,male,Disagree,Neutral,Strongly disagree,Strongly agree,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree
+28.0,female,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly disagree,Agree,Strongly disagree,Strongly agree,Agree
+21.0,female,Neutral,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Neutral
+20.0,male,Disagree,Neutral,Agree,Neutral,Neutral,Disagree,Disagree,Disagree,Neutral
+19.0,male,Disagree,Disagree,Neutral,Strongly agree,Neutral,Neutral,Strongly disagree,Disagree,Neutral
+21.0,female,Neutral,Disagree,Disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Agree,Agree
+20.0,male,Neutral,Strongly disagree,Strongly disagree,Neutral,Agree,Strongly disagree,Disagree,Agree,Agree
+16.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Strongly agree,Agree,Strongly agree,Strongly disagree
+22.0,male,Neutral,Neutral,Strongly agree,Strongly agree,Neutral,Disagree,Neutral,Neutral,Agree
+19.0,male,Disagree,Agree,Strongly agree,Strongly agree,Neutral,Neutral,Disagree,Neutral,Neutral
+22.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree
+20.0,male,Disagree,Strongly agree,Neutral,Strongly agree,Disagree,Disagree,Strongly disagree,Disagree,Strongly disagree
+22.0,male,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Neutral,Disagree,Disagree
+19.0,male,Neutral,Agree,Strongly disagree,Agree,Disagree,Strongly disagree,Strongly disagree,Disagree,Agree
+22.0,male,Strongly agree,Strongly disagree,Disagree,Strongly agree,Neutral,Neutral,Neutral,Neutral,Neutral
+17.0,female,Agree,Disagree,Agree,Neutral,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+18.0,female,Neutral,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Agree
+19.0,male,Agree,Disagree,Disagree,Neutral,Disagree,Disagree,Neutral,Neutral,Disagree
+23.0,female,Agree,Neutral,Disagree,Neutral,Disagree,Neutral,Neutral,Neutral,Neutral
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Agree
+18.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Disagree,Neutral,Agree,Neutral
+19.0,male,Disagree,,Agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree
+19.0,female,Neutral,Neutral,Disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Agree
+28.0,female,Neutral,Neutral,Neutral,Neutral,Agree,Neutral,Neutral,Neutral,Neutral
+21.0,male,Agree,Strongly agree,Strongly agree,Agree,Disagree,Strongly agree,Neutral,Agree,Neutral
+23.0,female,Disagree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Neutral,Agree,Disagree
+20.0,male,Disagree,Strongly agree,Strongly agree,Agree,Disagree,Neutral,Neutral,Disagree,Neutral
+20.0,male,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Disagree,Strongly agree,Neutral,Neutral
+28.0,female,Strongly agree,Neutral,Agree,Disagree,Agree,Agree,Neutral,Agree,Strongly agree
+22.0,male,Strongly agree,Neutral,Agree,Strongly agree,Strongly agree,Strongly disagree,Disagree,Strongly agree,Strongly agree
+19.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Disagree,Agree,Neutral
+21.0,male,Neutral,Neutral,Disagree,Agree,Neutral,Disagree,Disagree,Neutral,Agree
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral,Neutral,Strongly disagree,Disagree,Neutral
+17.0,male,Neutral,Neutral,Disagree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Neutral,Strongly agree
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Strongly agree
+25.0,male,Agree,Disagree,Agree,Neutral,Neutral,Neutral,Neutral,Strongly agree,Strongly agree
+20.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Disagree,Strongly agree,Neutral,Agree,Disagree
+26.0,male,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Agree,Agree
+21.0,male,Neutral,Neutral,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Agree
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Neutral,Strongly disagree,Strongly disagree,Disagree
+29.0,,Agree,Disagree,Disagree,Strongly agree,Agree,Disagree,Disagree,Neutral,Agree
+25.0,male,Neutral,Disagree,Disagree,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Agree
+21.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Strongly disagree
+20.0,male,Neutral,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+27.0,male,Neutral,Agree,Agree,Strongly agree,Neutral,Neutral,Disagree,Agree,Disagree
+21.0,male,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Disagree,Strongly agree,Neutral
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly agree
+,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Neutral,Agree
+17.0,female,Neutral,Neutral,Strongly disagree,Disagree,Disagree,Disagree,Neutral,Disagree,Agree
+16.0,female,Agree,Neutral,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Neutral
+19.0,female,Agree,Neutral,Strongly disagree,Disagree,Disagree,Neutral,Strongly agree,Disagree,Strongly agree
+18.0,female,Disagree,Neutral,Strongly disagree,Disagree,Neutral,Disagree,Agree,Disagree,Agree
+19.0,male,Disagree,Strongly agree,Neutral,Agree,Agree,Neutral,Neutral,Neutral,Strongly agree
+21.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Agree,Disagree
+16.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Disagree,Agree,Agree
+19.0,female,Neutral,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Neutral
+20.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree
+16.0,female,Strongly disagree,Strongly disagree,Disagree,,Strongly agree,Strongly agree,Strongly agree,Disagree,Disagree
+20.0,male,Agree,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,Strongly agree,Agree
+18.0,male,Neutral,Strongly disagree,Neutral,Strongly agree,Neutral,Strongly disagree,Disagree,Agree,Strongly disagree
+20.0,male,Strongly agree,Strongly disagree,Disagree,Neutral,Neutral,Neutral,Agree,Agree,Disagree
+20.0,male,Neutral,Disagree,Disagree,Neutral,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree
+16.0,female,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Disagree,Strongly disagree,Neutral
+19.0,female,Agree,Neutral,Strongly disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Agree
+19.0,male,Strongly disagree,Neutral,Disagree,Neutral,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree
+23.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Disagree,Strongly disagree,Strongly agree,Strongly disagree
+20.0,female,Agree,Neutral,Agree,Neutral,Disagree,Neutral,Strongly agree,Neutral,Strongly agree
+23.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Agree,Neutral
+19.0,male,Strongly disagree,Agree,Neutral,Strongly agree,Neutral,Neutral,Agree,Strongly agree,Disagree
+22.0,female,Disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,,Disagree,Neutral,Agree
+17.0,male,Neutral,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Neutral,Agree,Strongly disagree,Neutral,Neutral
+21.0,female,Disagree,Disagree,Neutral,Disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Strongly agree
+21.0,male,Neutral,Neutral,Neutral,Strongly agree,Neutral,Disagree,Neutral,Agree,Disagree
+19.0,female,Neutral,Agree,Neutral,Disagree,Disagree,Neutral,Disagree,Disagree,Agree
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Agree,Strongly disagree,Disagree,Disagree
+19.0,male,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly agree
+21.0,male,Neutral,Disagree,Disagree,Neutral,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Strongly agree
+22.0,female,Strongly disagree,Neutral,Strongly disagree,Neutral,Neutral,Strongly disagree,Neutral,Disagree,Agree
+22.0,male,Strongly agree,Neutral,Disagree,Disagree,Neutral,Disagree,Disagree,Strongly agree,Agree
+22.0,male,Strongly agree,Disagree,Disagree,Strongly agree,Agree,Strongly disagree,Strongly agree,Disagree,Strongly agree
+28.0,female,Neutral,Disagree,Disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree
+21.0,male,Disagree,Strongly disagree,Strongly disagree,Neutral,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree
+21.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Disagree
+17.0,female,Agree,Strongly disagree,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Disagree,Neutral
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral,Disagree,Disagree,Strongly agree,Neutral
+17.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Neutral,Agree,Neutral,Agree
+28.0,male,Agree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Neutral,Disagree,Agree
+20.0,female,Neutral,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Neutral,Agree,Strongly agree,Strongly agree
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly agree,Neutral,Neutral,Strongly agree
+21.0,female,Disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Agree
+23.0,male,Strongly agree,Disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Agree
+17.0,male,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Strongly agree
+20.0,male,Disagree,Strongly disagree,Disagree,Strongly agree,Disagree,Strongly disagree,Disagree,Strongly agree,Agree
+19.0,male,Disagree,Disagree,Disagree,Strongly agree,Disagree,Disagree,Disagree,Disagree,Disagree
+19.0,male,Neutral,Disagree,Disagree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree
+19.0,male,Agree,Agree,Disagree,Agree,Strongly agree,Disagree,Disagree,Neutral,Neutral
+18.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Disagree,Neutral,Strongly agree
+19.0,female,Neutral,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Neutral,Neutral
+22.0,male,Agree,Disagree,Neutral,Strongly disagree,Agree,Strongly disagree,Disagree,Neutral,Agree
+21.0,female,Neutral,Disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Disagree,Agree,Disagree
+21.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Neutral,Neutral,Strongly disagree,Strongly agree
+21.0,male,Neutral,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree
+22.0,male,Disagree,Disagree,Disagree,Agree,Strongly disagree,Disagree,Strongly disagree,Neutral,Disagree
+19.0,female,Agree,Strongly disagree,Disagree,Disagree,Disagree,Strongly agree,Strongly disagree,Disagree,Neutral
+25.0,male,Strongly agree,Strongly agree,Strongly agree,Disagree,Agree,Agree,Disagree,Agree,Strongly agree
+18.0,male,Strongly agree,Strongly agree,Disagree,Strongly agree,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly agree
+20.0,male,Disagree,Disagree,Disagree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree
+18.0,female,Neutral,Neutral,Strongly disagree,Neutral,Strongly agree,Disagree,Neutral,Strongly disagree,Strongly agree
+23.0,male,Agree,Neutral,Agree,Strongly agree,Neutral,Disagree,Disagree,Disagree,Neutral
+18.0,female,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Disagree,Disagree,Strongly agree
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree
+20.0,male,Disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Neutral,Agree
+19.0,male,Agree,Neutral,Agree,Strongly agree,Strongly disagree,Strongly agree,Disagree,Agree,Agree
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,,Strongly agree
+23.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Disagree,Disagree,Strongly agree,Strongly disagree
+27.0,male,Neutral,Strongly agree,Strongly agree,Agree,Disagree,Disagree,Neutral,Strongly agree,Disagree
+20.0,male,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral
+20.0,,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree
+18.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Agree,Strongly disagree,Agree,Neutral,Neutral
+21.0,male,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Disagree,Disagree,Disagree
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Disagree,Strongly disagree,Strongly agree
+19.0,female,Disagree,Neutral,Strongly disagree,Agree,Disagree,Disagree,Disagree,Agree,Neutral
+22.0,female,Disagree,Disagree,Disagree,Agree,Agree,Disagree,Disagree,Neutral,Agree
+20.0,female,Neutral,Neutral,Strongly disagree,Agree,Neutral,Neutral,Disagree,Neutral,Neutral
+19.0,male,Disagree,Agree,Agree,Agree,Neutral,Disagree,Disagree,Disagree,Agree
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Neutral,Strongly agree,Strongly disagree
+19.0,female,Neutral,Neutral,Strongly disagree,Strongly agree,Agree,Strongly disagree,Disagree,Agree,Agree
+18.0,female,Neutral,Agree,Neutral,Agree,Neutral,Strongly agree,Neutral,Neutral,Neutral
+17.0,male,Agree,Neutral,Neutral,Neutral,Disagree,Agree,Neutral,Neutral,Agree
+21.0,male,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree
+19.0,female,Neutral,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Neutral
+25.0,female,Agree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly agree,Disagree,Strongly agree,Neutral
+24.0,male,Strongly agree,Strongly disagree,Strongly disagree,Agree,Agree,Strongly disagree,Disagree,Agree,
+29.0,male,Agree,Strongly agree,Strongly agree,Strongly agree,Neutral,,Strongly disagree,Disagree,Agree
+21.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Agree,Neutral,Agree,Neutral
+18.0,male,Disagree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly disagree
+21.0,female,Agree,Neutral,Neutral,Neutral,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree
+17.0,male,Disagree,Disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree
+22.0,male,Neutral,Agree,Strongly agree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Strongly disagree
+18.0,female,Agree,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Agree,Agree
+18.0,female,Neutral,Agree,Disagree,Neutral,Neutral,Agree,Disagree,Agree,Neutral
+23.0,male,Strongly agree,Neutral,Agree,Agree,Disagree,Disagree,Neutral,Strongly agree,Disagree
+22.0,male,Disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree
+21.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Agree
+23.0,female,Disagree,Disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Disagree,Strongly disagree,Disagree
+17.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Neutral,Agree,Agree
+20.0,male,Neutral,Agree,Agree,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Disagree,Neutral
+22.0,male,Strongly agree,Strongly disagree,Strongly disagree,Agree,Strongly agree,Strongly disagree,Agree,Strongly agree,Neutral
+21.0,male,Neutral,Agree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Agree,Agree,Disagree
+24.0,male,Agree,Neutral,Disagree,Disagree,Agree,Neutral,Neutral,Strongly agree,Disagree
+19.0,female,Strongly disagree,Neutral,Strongly disagree,Disagree,Neutral,Neutral,Strongly disagree,Neutral,Disagree
+18.0,female,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Strongly agree,Neutral,Strongly agree,Strongly agree
+24.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly agree
+22.0,male,Strongly disagree,Strongly agree,Neutral,Strongly agree,Agree,Strongly disagree,Agree,Strongly disagree,Neutral
+20.0,male,Disagree,Neutral,Neutral,Disagree,Strongly agree,Disagree,Neutral,Strongly disagree,Disagree
+20.0,female,Strongly agree,Disagree,Strongly disagree,Disagree,Disagree,Neutral,Disagree,Agree,Agree
+19.0,female,Agree,Disagree,Disagree,Disagree,Neutral,Neutral,Disagree,Neutral,Agree
+21.0,female,Neutral,Agree,Disagree,Neutral,Agree,Neutral,Strongly disagree,Strongly disagree,Disagree
+25.0,male,Agree,Neutral,Neutral,Neutral,Strongly disagree,Disagree,Strongly disagree,Agree,Neutral
+28.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly agree,Strongly disagree,Strongly agree,Disagree
+20.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Agree
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Agree
+23.0,male,Strongly agree,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Disagree,Agree
+27.0,male,Disagree,Agree,Agree,Strongly agree,Strongly disagree,,Strongly disagree,Neutral,Strongly agree
+21.0,male,Agree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Agree,Agree
+23.0,female,Neutral,Disagree,Disagree,Neutral,Neutral,Disagree,Neutral,Neutral,Agree
+22.0,female,Neutral,Neutral,Neutral,Agree,Neutral,Neutral,Neutral,Neutral,Agree
+28.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,Neutral,Neutral,Strongly disagree,Disagree
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Disagree,Disagree,Strongly agree
+18.0,male,Strongly disagree,Neutral,Neutral,Strongly agree,Strongly agree,Strongly disagree,Neutral,Neutral,Disagree
+25.0,female,Neutral,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Disagree,Neutral
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree
+28.0,female,Strongly agree,Agree,Strongly disagree,Neutral,Disagree,Disagree,Agree,Agree,Disagree
+23.0,female,Strongly agree,Disagree,Disagree,Strongly agree,Strongly disagree,Neutral,Disagree,Agree,Neutral
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Agree
+25.0,female,Agree,Neutral,Disagree,Neutral,Neutral,Strongly agree,Neutral,Strongly agree,Agree
+28.0,female,Neutral,Disagree,Agree,Agree,Neutral,Strongly agree,Neutral,Strongly agree,Agree
+19.0,male,Neutral,Agree,Disagree,Agree,Disagree,Disagree,Disagree,Agree,Neutral
+30.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Disagree,Strongly agree,Agree,Strongly agree,Agree
+28.0,female,Disagree,Neutral,Strongly disagree,Strongly agree,Neutral,Neutral,Disagree,Neutral,Strongly disagree
+19.0,female,Neutral,Disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Agree,Neutral,Neutral
+21.0,male,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+19.0,male,Neutral,Strongly disagree,Neutral,Strongly agree,Neutral,Strongly disagree,Disagree,Agree,Disagree
+18.0,female,Neutral,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Neutral,Strongly agree
+18.0,male,Strongly agree,Neutral,Strongly disagree,Neutral,Strongly agree,Disagree,Agree,Agree,Neutral
+18.0,male,Agree,Neutral,Disagree,Agree,Agree,Neutral,Disagree,Strongly agree,Agree
+17.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree
+21.0,male,Strongly agree,Neutral,Neutral,Agree,Neutral,Agree,Disagree,Strongly agree,Strongly agree
+18.0,female,Disagree,Strongly disagree,Strongly disagree,Agree,Agree,Strongly disagree,Agree,Strongly disagree,Agree
+21.0,male,Strongly agree,Strongly agree,Neutral,Strongly agree,Neutral,Strongly disagree,Neutral,Agree,Strongly agree
+23.0,female,Agree,Disagree,Disagree,Disagree,Neutral,Disagree,Neutral,Strongly disagree,Strongly agree
+18.0,female,Neutral,Disagree,Strongly disagree,Disagree,Neutral,Neutral,Neutral,Agree,Neutral
+20.0,female,Disagree,Agree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Neutral,Agree,Strongly disagree
+19.0,female,Neutral,Strongly disagree,Disagree,Neutral,Disagree,Neutral,Disagree,Disagree,Strongly agree
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Neutral
+26.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+21.0,female,Strongly agree,Neutral,Neutral,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Agree,Strongly agree
+19.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Neutral,Neutral,Strongly disagree,Strongly agree,Strongly agree
+23.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Disagree
+21.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Neutral,Disagree,Strongly agree,Agree
+22.0,female,Agree,Agree,Strongly agree,Neutral,Disagree,Strongly agree,Neutral,Agree,Strongly agree
+18.0,male,Disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Disagree
+21.0,female,Disagree,Neutral,Disagree,Disagree,Disagree,Agree,Disagree,Agree,Neutral
+23.0,male,Disagree,Neutral,Neutral,Agree,Neutral,Disagree,Agree,Disagree,Neutral
+17.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree
+20.0,female,Neutral,Strongly agree,Agree,Neutral,Neutral,Disagree,Disagree,Strongly disagree,Strongly agree
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree
+20.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Neutral,Strongly disagree,Neutral,Strongly agree
+19.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Neutral,Agree
+25.0,female,Neutral,Neutral,Disagree,Agree,Agree,Agree,Neutral,Neutral,Neutral
+29.0,male,Agree,Disagree,Neutral,Strongly agree,Neutral,Neutral,Disagree,Neutral,Strongly disagree
+29.0,male,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,Strongly agree
+17.0,female,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Neutral
+17.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Agree,Disagree,Agree,Neutral
+19.0,male,Neutral,Agree,Disagree,Agree,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral
+18.0,female,Strongly agree,Disagree,Neutral,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Agree
+20.0,female,Strongly disagree,Neutral,Disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree
+21.0,female,Neutral,Disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Neutral
+18.0,female,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Disagree,Neutral
+19.0,female,Disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree
+19.0,male,Strongly agree,Strongly disagree,Neutral,Neutral,Agree,Strongly disagree,Agree,Strongly agree,Neutral
+20.0,male,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Strongly disagree,,Strongly agree
+19.0,male,Strongly disagree,Neutral,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree
+18.0,female,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+18.0,male,Agree,Agree,Agree,Strongly agree,Neutral,Strongly agree,Neutral,Neutral,Agree
+16.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Disagree,Strongly agree,Strongly agree
+18.0,female,Agree,Agree,Disagree,Agree,Strongly agree,Disagree,Neutral,Agree,Disagree
+19.0,female,Strongly agree,Neutral,Disagree,Disagree,Neutral,Disagree,Neutral,Strongly agree,Agree
+24.0,female,Strongly agree,Strongly agree,Neutral,Neutral,Strongly agree,Neutral,Agree,Strongly agree,Strongly agree
+19.0,female,Neutral,Strongly agree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree
+,female,Agree,Neutral,Neutral,Strongly disagree,Disagree,Strongly disagree,Disagree,Disagree,Agree
+20.0,female,Strongly agree,Disagree,Neutral,Disagree,Neutral,Neutral,Strongly agree,Neutral,Strongly agree
+21.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Neutral,Disagree,Neutral,Agree
+23.0,male,Strongly disagree,Agree,Agree,Strongly agree,Neutral,Strongly disagree,Disagree,Neutral,Strongly disagree
+23.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree
+17.0,male,Agree,Neutral,Disagree,Agree,Strongly agree,Neutral,Agree,Strongly agree,Neutral
+18.0,female,Strongly agree,Strongly agree,Neutral,Strongly disagree,Strongly agree,Agree,Disagree,Disagree,Strongly disagree
+26.0,male,Neutral,Agree,Neutral,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree
+22.0,male,Strongly disagree,Neutral,Neutral,Strongly agree,Agree,Disagree,Disagree,Strongly disagree,Disagree
+22.0,male,Neutral,Strongly disagree,Neutral,Agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree
+25.0,male,Agree,Agree,Agree,Strongly agree,Neutral,Disagree,Disagree,Neutral,Agree
+21.0,female,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree
+18.0,female,Strongly agree,Strongly disagree,Disagree,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Agree
+15.0,female,Neutral,Disagree,Disagree,Strongly agree,Strongly disagree,Disagree,Disagree,,Neutral
+17.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Neutral,Agree,Agree,Agree
+22.0,female,Agree,Agree,Neutral,Neutral,Disagree,Strongly agree,Neutral,Disagree,Strongly agree
+21.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Disagree,Neutral,Disagree
+21.0,female,Neutral,Neutral,Strongly disagree,Disagree,Agree,Agree,Agree,Strongly disagree,Strongly agree
+19.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Neutral,Agree
+26.0,male,Neutral,Agree,Neutral,Agree,Neutral,Disagree,Disagree,Agree,Disagree
+26.0,female,Neutral,Agree,Agree,Agree,Neutral,Strongly agree,Strongly disagree,Agree,Neutral
+25.0,male,Strongly agree,Neutral,Neutral,Strongly agree,Neutral,Disagree,Disagree,Agree,Agree
+19.0,female,Disagree,Strongly disagree,Agree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Neutral,Agree
+20.0,male,Disagree,Neutral,Agree,Strongly agree,Neutral,Disagree,Strongly disagree,Neutral,Disagree
+18.0,male,Strongly agree,Agree,Disagree,Neutral,Strongly disagree,Strongly agree,Disagree,Agree,Agree
+25.0,female,Agree,Neutral,Neutral,Neutral,Strongly agree,Neutral,Agree,Agree,Neutral
+23.0,male,Disagree,Neutral,Neutral,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree
+24.0,male,Strongly agree,Neutral,Neutral,Agree,Agree,Agree,Agree,Strongly agree,Neutral
+20.0,male,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,,Disagree
+19.0,female,Neutral,Disagree,Disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Neutral,Agree
+18.0,male,Disagree,Neutral,Agree,Strongly agree,Strongly disagree,Agree,Neutral,Neutral,Strongly agree
+25.0,female,Agree,Neutral,Neutral,Agree,Disagree,Strongly agree,Disagree,Neutral,Agree
+22.0,male,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Agree,Disagree
+26.0,male,Neutral,Disagree,Disagree,Agree,Strongly agree,Disagree,Agree,Neutral,Neutral
+19.0,female,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+16.0,female,Strongly disagree,Disagree,Neutral,Neutral,Disagree,Disagree,Strongly disagree,Agree,Disagree
+18.0,male,Neutral,Neutral,Strongly disagree,Agree,Agree,Disagree,Disagree,Neutral,Disagree
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Disagree,Agree,Agree
+17.0,female,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+20.0,female,Agree,Disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Agree,Neutral
+19.0,female,Neutral,Disagree,Disagree,Strongly agree,Agree,Neutral,Neutral,Strongly agree,Agree
+25.0,male,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Neutral,Disagree,Neutral,Neutral
+19.0,male,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,,Strongly disagree,Disagree
+18.0,female,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+17.0,female,Strongly agree,Disagree,Disagree,Neutral,Neutral,Disagree,Disagree,Disagree,Strongly agree
+18.0,male,Strongly agree,Agree,Strongly disagree,Neutral,Strongly agree,Neutral,Agree,Agree,Agree
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly agree
+17.0,female,Disagree,Neutral,Neutral,Agree,Neutral,Strongly agree,Neutral,Neutral,Strongly agree
+21.0,male,Strongly agree,Disagree,Neutral,Strongly agree,Neutral,Neutral,Disagree,Agree,Neutral
+19.0,male,Agree,Disagree,Disagree,Disagree,Disagree,Strongly agree,Disagree,Neutral,Strongly agree
+19.0,male,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Neutral,Strongly agree,Agree,Neutral
+19.0,male,Agree,Disagree,Disagree,Strongly disagree,Disagree,Strongly agree,Agree,Disagree,Disagree
+16.0,male,Strongly agree,Neutral,Disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Neutral,Agree
+18.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Neutral,Agree,Disagree,Neutral
+19.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Neutral,Neutral,Disagree
+20.0,female,Neutral,Neutral,Agree,Disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Agree
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Disagree,Strongly agree,Disagree,Neutral,Strongly agree
+21.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral
+24.0,male,Neutral,Agree,Agree,Agree,Neutral,Disagree,Agree,Neutral,Neutral
+23.0,male,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree
+30.0,female,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+27.0,male,Neutral,Agree,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree
+19.0,male,Disagree,Disagree,Strongly disagree,Strongly agree,Agree,Disagree,Disagree,Strongly disagree,Disagree
+18.0,female,Strongly agree,Disagree,Disagree,Disagree,Neutral,Agree,Strongly agree,Strongly agree,Agree
+18.0,male,Agree,Agree,Neutral,Strongly agree,Disagree,Neutral,Disagree,Neutral,Disagree
+17.0,male,Strongly disagree,Agree,Neutral,Agree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Strongly disagree
+30.0,female,Disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral
+27.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Disagree,Neutral
+21.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Neutral,Neutral
+17.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Neutral,Disagree,Strongly agree,Agree
+20.0,male,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly agree
+20.0,male,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Agree,Agree,Neutral
+20.0,male,Disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree
+18.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Neutral
+20.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Neutral,Neutral,Neutral,Agree
+20.0,male,Agree,Disagree,Neutral,Neutral,Disagree,Agree,Neutral,Agree,Strongly agree
+17.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree
+19.0,male,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree
+20.0,female,Neutral,Neutral,Disagree,Neutral,Agree,Neutral,Strongly disagree,Disagree,Agree
+20.0,male,Agree,Agree,Agree,Neutral,Neutral,Strongly agree,Disagree,Disagree,Strongly agree
+21.0,male,Strongly agree,Neutral,Neutral,Agree,Agree,Disagree,Agree,Agree,Agree
+23.0,male,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Strongly disagree,Strongly agree,Strongly disagree
+24.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Disagree
+17.0,female,Neutral,Neutral,Neutral,Neutral,Disagree,Strongly agree,Neutral,Agree,Neutral
+18.0,female,Disagree,Neutral,Strongly disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly agree
+17.0,male,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Agree
+19.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree
+21.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Disagree,Neutral,Agree
+29.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree
+21.0,female,Disagree,Disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree
+20.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Agree,Neutral
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Neutral,Disagree,Neutral,Neutral
+19.0,male,Disagree,Neutral,Disagree,Neutral,Neutral,Disagree,Disagree,Disagree,Strongly disagree
+20.0,female,Neutral,Disagree,Strongly disagree,Agree,Strongly agree,Neutral,Strongly agree,Agree,Agree
+21.0,female,Agree,Strongly agree,Agree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,,Agree
+17.0,female,Agree,Neutral,Disagree,Neutral,Agree,Neutral,Strongly agree,Neutral,Neutral
+20.0,female,Neutral,Strongly disagree,Disagree,Disagree,Strongly disagree,Agree,Strongly disagree,Strongly agree,Neutral
+19.0,male,Neutral,Disagree,Agree,Neutral,Strongly agree,Disagree,Agree,Disagree,Strongly agree
+21.0,male,Disagree,Strongly disagree,Disagree,Neutral,Agree,Agree,Neutral,Neutral,Disagree
+19.0,male,Agree,Agree,Agree,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree
+19.0,male,Disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Disagree,Disagree,Agree,Neutral
+20.0,male,Neutral,Agree,Strongly agree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Disagree
+21.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Agree,Neutral,Strongly disagree
+23.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Neutral,Strongly agree,Disagree,Neutral
+24.0,female,Strongly disagree,Neutral,Disagree,Neutral,Disagree,Disagree,Disagree,Neutral,Agree
+19.0,male,Neutral,Strongly disagree,Strongly disagree,Agree,Disagree,Disagree,Disagree,Disagree,Strongly disagree
+24.0,female,Strongly agree,Disagree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Agree,Strongly agree,Strongly agree,Neutral
+30.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Neutral,Neutral,Strongly disagree,Agree
+20.0,female,Strongly agree,Disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Neutral,Agree,Neutral
+23.0,female,Disagree,Disagree,Disagree,Agree,Neutral,Disagree,Strongly disagree,Disagree,Strongly disagree
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Agree
+19.0,male,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly agree,Strongly disagree,Disagree,Disagree,Strongly agree
+22.0,female,Strongly disagree,Strongly agree,Agree,Agree,Disagree,Neutral,Strongly disagree,Neutral,Disagree
+17.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Agree,Neutral,Agree,Neutral
+20.0,male,Agree,Strongly agree,Disagree,Neutral,Strongly agree,Agree,Neutral,Strongly agree,Strongly agree
+19.0,male,Agree,Neutral,Strongly disagree,Agree,Strongly agree,Disagree,Agree,Strongly agree,Agree
+30.0,female,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Agree,Neutral
+27.0,male,Disagree,Neutral,Neutral,Agree,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree
+19.0,male,Agree,Agree,Agree,Strongly agree,Agree,Disagree,Neutral,Neutral,Agree
+17.0,female,Agree,Agree,Strongly disagree,Disagree,Agree,Disagree,Neutral,Agree,Disagree
+20.0,male,Disagree,Strongly disagree,Strongly disagree,Agree,Agree,Strongly disagree,Strongly disagree,Disagree,Neutral
+20.0,male,Strongly agree,Disagree,Strongly disagree,Neutral,Neutral,Disagree,Neutral,Neutral,Neutral
+20.0,male,Neutral,Disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Disagree,Strongly agree,Strongly disagree
+20.0,male,Neutral,Strongly disagree,Neutral,Agree,Strongly agree,Disagree,Agree,Neutral,Strongly agree
+18.0,female,Agree,Disagree,Strongly disagree,Neutral,Disagree,Neutral,Neutral,Disagree,Disagree
+21.0,male,Neutral,Agree,Disagree,Strongly agree,Strongly agree,Strongly disagree,Neutral,Agree,Disagree
+21.0,male,Neutral,Strongly disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Agree
+20.0,male,Agree,Neutral,Strongly disagree,Agree,Disagree,Neutral,Neutral,Neutral,Agree
+17.0,female,Disagree,Neutral,Disagree,Agree,Neutral,Neutral,Disagree,Neutral,Disagree
+23.0,male,Strongly agree,Disagree,Neutral,Strongly agree,Disagree,Strongly agree,Neutral,Agree,Agree
+25.0,female,Agree,Neutral,Neutral,Agree,Neutral,Agree,Disagree,Agree,Strongly agree
+18.0,male,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree
+18.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Agree,Strongly agree
+25.0,female,Disagree,Neutral,Disagree,Disagree,Strongly disagree,Disagree,Strongly agree,Neutral,Disagree
+21.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Agree
+20.0,male,Disagree,Strongly disagree,Agree,Agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Neutral
+21.0,male,Neutral,Disagree,Strongly disagree,Agree,Disagree,Disagree,Strongly disagree,Neutral,Agree
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Agree,Disagree,Neutral,Disagree,Neutral
+20.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Agree
+19.0,male,Disagree,Strongly agree,Agree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Disagree
+22.0,male,Agree,Neutral,Strongly disagree,Agree,Agree,Neutral,Neutral,Strongly agree,Strongly agree
+26.0,male,Disagree,Agree,Disagree,Agree,Disagree,Strongly agree,Strongly agree,Agree,Agree
+23.0,male,Disagree,Agree,Strongly agree,Agree,Strongly agree,Disagree,Agree,Neutral,Disagree
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Agree,Disagree,Agree,Disagree,Neutral
+18.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Agree,Agree
+16.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Neutral,Neutral
+19.0,female,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Disagree,Agree,Disagree,Agree
+19.0,female,Neutral,Agree,Disagree,Neutral,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Disagree
+23.0,female,Neutral,Disagree,Strongly disagree,Strongly disagree,Agree,Strongly agree,Strongly agree,Disagree,Disagree
+21.0,male,Strongly disagree,Agree,Agree,Strongly agree,Disagree,Strongly disagree,Disagree,Agree,Strongly disagree
+19.0,male,Disagree,Neutral,Strongly disagree,Neutral,Agree,Agree,Disagree,Agree,Neutral
+20.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Neutral,Strongly agree,Neutral,Neutral,Strongly agree
+22.0,female,Strongly agree,Strongly disagree,Strongly disagree,Agree,Neutral,Agree,Disagree,Strongly agree,Neutral
+20.0,male,Strongly disagree,Agree,Agree,Strongly agree,Disagree,Strongly disagree,Agree,Strongly agree,Strongly disagree
+21.0,male,Agree,Disagree,Strongly disagree,Neutral,Neutral,Disagree,Disagree,Neutral,Neutral
+19.0,male,Neutral,Agree,Agree,Agree,Neutral,Strongly disagree,Strongly disagree,Neutral,Disagree
+17.0,female,Disagree,Neutral,Disagree,Disagree,Agree,Neutral,Disagree,Disagree,Disagree
+19.0,female,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral
+16.0,male,Disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Agree,Disagree
+22.0,male,Agree,Strongly disagree,Strongly disagree,Agree,Disagree,Strongly disagree,Disagree,Agree,Disagree
+23.0,male,Disagree,Agree,Disagree,Disagree,Disagree,Disagree,Agree,Disagree,Neutral
+28.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Neutral,Disagree,Strongly disagree,Neutral,Agree
+20.0,male,Agree,Neutral,Neutral,Strongly agree,Strongly agree,Strongly disagree,Agree,Agree,Agree
+21.0,male,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Disagree,Strongly agree,Disagree,Neutral
+22.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree
+,male,Agree,Neutral,Neutral,Neutral,Disagree,Disagree,Agree,Neutral,Agree
+19.0,male,Strongly agree,Strongly agree,Neutral,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Strongly disagree
+24.0,female,Neutral,Disagree,Disagree,Agree,Strongly agree,Disagree,Disagree,Agree,Neutral
+23.0,male,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Agree,Neutral,Strongly agree,Agree,Disagree
+21.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Disagree,Neutral,Disagree
+22.0,female,Disagree,Disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree
+18.0,male,Disagree,Disagree,Agree,Neutral,Disagree,Disagree,Disagree,Neutral,Disagree
+28.0,female,Neutral,Disagree,Disagree,Agree,Neutral,Agree,Agree,Disagree,Agree
+18.0,female,Strongly agree,Agree,Disagree,Neutral,Strongly agree,Neutral,Agree,Neutral,Neutral
+23.0,female,Strongly agree,Strongly agree,,Neutral,Agree,Strongly disagree,Agree,Neutral,Agree
+22.0,female,Agree,Neutral,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree
+21.0,female,Agree,Neutral,Strongly disagree,Disagree,Disagree,Disagree,Strongly disagree,Neutral,Agree
+20.0,female,Strongly agree,Neutral,Disagree,Strongly disagree,Disagree,Neutral,Agree,Strongly agree,Agree
+18.0,female,Strongly disagree,Disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Disagree,Neutral,Disagree
+21.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Agree,Neutral,Disagree
+20.0,male,Neutral,Neutral,Disagree,Agree,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree
+21.0,female,Strongly agree,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Agree
+21.0,female,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Disagree,Strongly agree
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree
+17.0,male,Disagree,Neutral,Neutral,Agree,Strongly disagree,Neutral,Disagree,Neutral,Disagree
+20.0,female,Disagree,Neutral,Agree,Strongly agree,Strongly agree,Neutral,Agree,Strongly agree,Strongly agree
+23.0,female,Neutral,Strongly disagree,Disagree,Agree,Strongly disagree,Neutral,Strongly disagree,Disagree,Disagree
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Neutral,Agree
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Agree
+22.0,male,Disagree,Neutral,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree
+19.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Strongly agree
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Disagree,Disagree,Disagree
+27.0,female,Agree,Neutral,Neutral,,,Neutral,Agree,Strongly agree,Neutral
+18.0,female,Neutral,Strongly disagree,Disagree,Agree,Neutral,Neutral,Disagree,Neutral,Disagree
+18.0,male,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Disagree,Disagree,Disagree,Neutral,Disagree
+20.0,female,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Disagree,Neutral,Disagree,Strongly disagree,Strongly disagree
+17.0,female,Agree,Disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Neutral,Agree,Strongly disagree
+19.0,,Disagree,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Strongly agree
+16.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree
+21.0,female,Disagree,Disagree,Strongly disagree,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Disagree
+18.0,female,Neutral,Strongly agree,Agree,Neutral,Disagree,Neutral,Disagree,Strongly agree,Strongly agree
+19.0,female,Agree,Strongly agree,Neutral,Neutral,Disagree,Disagree,Strongly disagree,Strongly agree,Agree
+20.0,female,Disagree,Neutral,Agree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Strongly agree,Strongly agree
+16.0,male,Agree,Neutral,Neutral,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+18.0,female,Disagree,Disagree,Strongly disagree,,Disagree,Neutral,Disagree,Disagree,Agree
+24.0,male,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Neutral
+22.0,female,Neutral,Agree,Neutral,Disagree,Disagree,Disagree,Strongly agree,Neutral,Disagree
+19.0,female,Agree,Disagree,Neutral,Strongly disagree,Disagree,Neutral,Disagree,Strongly agree,Disagree
+22.0,male,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Strongly disagree,Neutral,Strongly disagree,Disagree
+22.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Neutral,Disagree,Disagree
+16.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Strongly disagree
+18.0,female,Agree,Strongly agree,Agree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Disagree
+18.0,female,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+15.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Strongly disagree,Neutral,Disagree,Strongly disagree
+26.0,male,Strongly disagree,Neutral,Agree,Strongly agree,Disagree,Strongly disagree,Disagree,Neutral,Strongly disagree
+19.0,male,Neutral,Strongly agree,Agree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree
+20.0,female,Agree,Neutral,Disagree,Strongly disagree,Disagree,Strongly agree,Neutral,Neutral,Agree
+20.0,female,Disagree,Agree,Strongly disagree,Disagree,Neutral,Neutral,Neutral,Disagree,Strongly agree
+19.0,female,Strongly agree,Strongly agree,Agree,Disagree,Strongly agree,Disagree,Agree,Neutral,Strongly agree
+20.0,male,Neutral,Disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree
+20.0,male,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,,Strongly agree,Strongly disagree,Agree,Agree
+24.0,female,Agree,Neutral,Strongly disagree,Disagree,Agree,Neutral,Strongly disagree,Disagree,Agree
+,female,Strongly agree,Neutral,Neutral,Neutral,Disagree,Disagree,Agree,Neutral,Neutral
+20.0,male,Strongly agree,Strongly agree,Neutral,Strongly agree,Neutral,Strongly agree,Agree,Strongly agree,Strongly agree
+21.0,female,Strongly agree,Neutral,Agree,Strongly disagree,Agree,Neutral,Strongly disagree,Agree,Neutral
+23.0,male,Strongly agree,Strongly disagree,Agree,Strongly agree,Neutral,Disagree,Neutral,Neutral,Strongly agree
+21.0,male,Neutral,Disagree,Disagree,,Agree,Neutral,Neutral,Neutral,Agree
+17.0,female,Strongly agree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Strongly agree
+19.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly agree,Agree,Strongly agree
+18.0,male,Strongly agree,Strongly agree,Strongly agree,Neutral,Disagree,Neutral,Disagree,Agree,Disagree
+19.0,male,Disagree,Strongly agree,Agree,Strongly agree,Neutral,Disagree,Strongly disagree,Disagree,Strongly disagree
+19.0,male,Neutral,Neutral,Strongly disagree,Strongly agree,Agree,Strongly disagree,Disagree,Strongly disagree,Neutral
+22.0,male,Disagree,Agree,Agree,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+18.0,male,Neutral,Neutral,Neutral,Agree,Disagree,Disagree,Disagree,Agree,Disagree
+19.0,female,Neutral,Neutral,Neutral,Disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Agree
+20.0,female,Disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Agree
+21.0,female,Neutral,Strongly agree,Neutral,Disagree,Disagree,Neutral,Neutral,Disagree,Agree
+23.0,female,Strongly agree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Agree
+19.0,female,Disagree,Agree,Neutral,Agree,Agree,Neutral,Disagree,Neutral,Strongly agree
+19.0,male,Disagree,Neutral,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree
+21.0,female,Strongly agree,Disagree,Disagree,Neutral,Strongly agree,Disagree,Neutral,Agree,Neutral
+19.0,male,Strongly agree,Neutral,Disagree,Neutral,Strongly agree,Neutral,Strongly agree,Strongly agree,Neutral
+18.0,female,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Strongly agree
+19.0,female,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly agree
+18.0,male,Strongly disagree,Neutral,Agree,Agree,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree
+22.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Disagree,Neutral,Disagree
+21.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree
+20.0,female,Agree,Strongly disagree,Disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral
+19.0,female,Strongly agree,Strongly agree,Neutral,Agree,Neutral,Disagree,Strongly disagree,Neutral,Strongly agree
+20.0,male,Strongly agree,Disagree,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Agree,Strongly agree
+19.0,male,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Neutral,,Strongly agree
+30.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Agree,Neutral,Strongly agree,Strongly agree
+29.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Disagree,Disagree,Agree,Disagree
+21.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree
+30.0,male,Strongly agree,Strongly agree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Disagree
+21.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Agree,Disagree,
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Strongly agree
+18.0,female,Neutral,Agree,Disagree,Agree,Agree,Strongly disagree,Agree,Strongly agree,Agree
+20.0,male,Agree,Strongly disagree,Strongly disagree,Agree,Disagree,Disagree,Strongly disagree,Agree,Strongly disagree
+19.0,female,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Neutral,Agree,Strongly agree
+28.0,male,Neutral,Strongly agree,Strongly agree,Strongly agree,Disagree,Neutral,Disagree,Disagree,Agree
+19.0,male,Agree,Strongly agree,Neutral,Strongly agree,Neutral,Neutral,Disagree,Agree,Strongly agree
+16.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Disagree,Neutral,Neutral
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Agree,Strongly disagree,Neutral,Disagree,Disagree
+22.0,male,Disagree,Strongly disagree,Neutral,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Disagree,Disagree,Disagree,Agree
+22.0,male,Neutral,Disagree,Disagree,Strongly agree,Neutral,Neutral,Disagree,Neutral,Agree
+20.0,female,Agree,Strongly disagree,Disagree,Neutral,Strongly disagree,Disagree,Strongly disagree,Agree,Agree
+27.0,male,Agree,Strongly agree,Agree,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree
+18.0,female,Disagree,Neutral,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral
+25.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Neutral,Neutral,Strongly disagree,Strongly agree,Strongly agree
+21.0,male,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Neutral
