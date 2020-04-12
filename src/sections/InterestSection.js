@@ -5,13 +5,44 @@ export default class InterestSection {
     constructor(svg, dataset) {
         this.svg = svg;
 
-        this.svgWidth = parseInt(this.svg.attr('width'));
-        this.svgHeight = parseInt(this.svg.attr('height'));
+        const svgWidth = parseInt(this.svg.attr('width'));
+        const svgHeight = parseInt(this.svg.attr('height'));
+
+        const padding = 10;
 
         this.intreset_keys = ['interest_history', 'interest_mathematics', 'interest_physics', 'interest_computers',
             'interest_economy', 'interest_medical', 'interest_law', 'interest_geography', 'interest_psychology'];
 
         this.dataset = this.getAggregatedData(dataset);
+
+        const xScale = d3.scaleLinear()
+            .domain([0, 3])
+            .range([padding, svgWidth - padding]);
+        const yScale = d3.scaleLinear()
+            .domain([0, 3])
+            .range([padding, svgHeight - padding]);
+        const cellHalfWidth = (xScale(1) - xScale(0)) / 2;
+        const cellHalfHeight = (yScale(1) - yScale(0)) / 2;
+
+        this.centers = [
+            [
+                [xScale(0) + cellHalfWidth, yScale(0) + cellHalfHeight],
+                [xScale(1) + cellHalfWidth, yScale(0) + cellHalfHeight],
+                [xScale(2) + cellHalfWidth, yScale(0) + cellHalfHeight]
+            ],
+            [
+                [xScale(0) + cellHalfWidth, yScale(1) + cellHalfHeight],
+                [xScale(1) + cellHalfWidth, yScale(1) + cellHalfHeight],
+                [xScale(2) + cellHalfWidth, yScale(1) + cellHalfHeight]
+            ],
+            [
+                [xScale(0) + cellHalfWidth, yScale(2) + cellHalfHeight],
+                [xScale(1) + cellHalfWidth, yScale(2) + cellHalfHeight],
+                [xScale(2) + cellHalfWidth, yScale(2) + cellHalfHeight]
+            ],
+        ];
+
+        console.log(this.centers);
     }
 
     onInit() {
