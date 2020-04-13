@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "serve": "parcel src/index.pug --open",
-    "build": "parcel build src/index.pug"
+    "build": "parcel build src/index.pug --public-url https://sunitdeshpande.github.io/young-people-survey/"
   },
   "keywords": [],
   "author": "",
