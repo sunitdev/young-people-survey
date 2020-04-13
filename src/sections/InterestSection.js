@@ -1,101 +1,120 @@
 import * as d3 from 'd3';
+import colors from '../colors';
 // https://www.d3-graph-gallery.com/graph/circularpacking_basic.html
 export default class InterestSection {
 
     constructor(svg, dataset) {
         this.svg = svg;
 
-        const svgWidth = parseInt(this.svg.attr('width'));
-        const svgHeight = parseInt(this.svg.attr('height'));
+        this.svgWidth = parseInt(this.svg.attr('width'));
+        this.svgHeight = parseInt(this.svg.attr('height'));
 
         const padding = 10;
 
-        this.intreset_keys = ['interest_history', 'interest_mathematics', 'interest_physics', 'interest_computers',
+        this.interestKeys = ['interest_history', 'interest_mathematics', 'interest_physics', 'interest_computers',
             'interest_economy', 'interest_medical', 'interest_law', 'interest_geography', 'interest_psychology'];
+
+        this.interestTextMapping = {
+            'interest_history': 'History',
+            'interest_mathematics': 'Mathematics',
+            'interest_physics': 'Physics',
+            'interest_computers': 'Computers',
+            'interest_economy': 'Economics',
+            'interest_medical': 'Medical',
+            'interest_law': 'Law',
+            'interest_geography': 'Geography',
+            'interest_psychology': 'Psychology'
+        }
 
         this.dataset = this.getAggregatedData(dataset);
 
-        const xScale = d3.scaleLinear()
+        this.radiusScale = d3.scaleLinear()
+            .domain([0, 400])
+            .range([10, 40]);
+
+        this.xScale = d3.scaleLinear()
             .domain([0, 3])
-            .range([padding, svgWidth - padding]);
-        const yScale = d3.scaleLinear()
+            .range([padding, this.svgWidth - padding]);
+        this.yScale = d3.scaleLinear()
             .domain([0, 3])
-            .range([padding, svgHeight - padding]);
-        const cellHalfWidth = (xScale(1) - xScale(0)) / 2;
-        const cellHalfHeight = (yScale(1) - yScale(0)) / 2;
+            .range([padding, this.svgHeight - padding]);
+        this.cellWidth = this.xScale(1) - this.xScale(0);
+        this.cellHeight = this.yScale(1) - this.yScale(0);
+
+        const cellHalfWidth = (this.xScale(1) - this.xScale(0)) / 2;
+        const cellHalfHeight = (this.yScale(1) - this.yScale(0)) / 2;
 
         this.centers = [
             [
-                [xScale(0) + cellHalfWidth, yScale(0) + cellHalfHeight],
-                [xScale(1) + cellHalfWidth, yScale(0) + cellHalfHeight],
-                [xScale(2) + cellHalfWidth, yScale(0) + cellHalfHeight]
+                [this.xScale(0) + cellHalfWidth, this.yScale(0) + cellHalfHeight],
+                [this.xScale(1) + cellHalfWidth, this.yScale(0) + cellHalfHeight],
+                [this.xScale(2) + cellHalfWidth, this.yScale(0) + cellHalfHeight]
             ],
             [
-                [xScale(0) + cellHalfWidth, yScale(1) + cellHalfHeight],
-                [xScale(1) + cellHalfWidth, yScale(1) + cellHalfHeight],
-                [xScale(2) + cellHalfWidth, yScale(1) + cellHalfHeight]
+                [this.xScale(0) + cellHalfWidth, this.yScale(1) + cellHalfHeight],
+                [this.xScale(1) + cellHalfWidth, this.yScale(1) + cellHalfHeight],
+                [this.xScale(2) + cellHalfWidth, this.yScale(1) + cellHalfHeight]
             ],
             [
-                [xScale(0) + cellHalfWidth, yScale(2) + cellHalfHeight],
-                [xScale(1) + cellHalfWidth, yScale(2) + cellHalfHeight],
-                [xScale(2) + cellHalfWidth, yScale(2) + cellHalfHeight]
+                [this.xScale(0) + cellHalfWidth, this.yScale(2) + cellHalfHeight],
+                [this.xScale(1) + cellHalfWidth, this.yScale(2) + cellHalfHeight],
+                [this.xScale(2) + cellHalfWidth, this.yScale(2) + cellHalfHeight]
             ],
         ];
 
-        console.log(this.centers);
     }
 
     onInit() {
-
-        // set the dimensions and margins of the graph
-        var width = 450
-        var height = 450
-
-
-        // create dummy data -> just one element per circle
-        var data = [{"name": "A"}, {"name": "B"}, {"name": "C"}, {"name": "D"}, {"name": "E"}, {"name": "F"}, {"name": "G"}, {"name": "H"}]
-
-        // Initialize the circle: all located at the center of the svg area
-        var node = this.svg.append("g")
-            .selectAll("circle")
-            .data(data)
-            .enter()
-            .append("circle")
-            .attr("r", 10)
-            .attr("cx", width / 2)
-            .attr("cy", height / 2)
-            .style("fill", "#69b3a2")
-            .style("fill-opacity", 0.3)
-            .attr("stroke", "#69a2b2")
-            .style("stroke-width", 4)
-
-        // Features of the forces applied to the nodes:
-        var simulation = d3.forceSimulation()
-            .force('charge', d3.forceManyBody().strength(5))
-            .force("center", d3.forceCenter().x(width / 2).y(height / 2)) // Attraction to the center of the svg area
-            .force('collision', d3.forceCollide().radius(15))
-
-        // Apply these forces to the nodes and update their positions.
-        // Once the force algorithm is happy with positions ('alpha' value is low enough), simulations will stop.
-        simulation
-            .nodes(data)
-            .on("tick", function (d) {
-                node
-                    .attr("cx", function (d) {
-                        return d.x;
-                    })
-                    .attr("cy", function (d) {
-                        return d.y;
-                    })
-            });
-
-
+        this.groupCharts = this.generateBubbleCharts();
+        this.textHolders = this.generateTextHolders();
+        this.texts = this.generateTexts()
     }
 
     onFocusEntered() {
+        this.groupCharts.forEach((chart) => {
+            chart.transition()
+                .duration(600)
+                .attr('opacity', 1);
+        });
+        this.textHolders.forEach((holder, index) => {
+            const x = this.xScale(Math.floor(index / 3)) + (this.cellWidth / 2) - 65;
+
+            holder
+                .attr('x', this.svgWidth)
+                .attr('opacity', 1)
+                .transition()
+                .duration(600)
+                .attr('x', x);
+        });
+        this.texts.forEach((text, index) => {
+            const x = this.xScale(Math.floor(index / 3)) + (this.cellWidth / 2) - 40;
+            text
+                .attr('x', this.svgWidth)
+                .attr('opacity', 1)
+                .transition()
+                .duration(600)
+                .attr('x', x);
+        });
     }
 
     onFocusLost() {
+        this.groupCharts.forEach((chart) => {
+            chart.transition()
+                .duration(600)
+                .attr('opacity', 0);
+        });
+        this.textHolders.forEach((holder) => {
+            holder
+                .transition()
+                .duration(600)
+                .attr('opacity', 0);
+        });
+        this.texts.forEach((text) => {
+            text
+                .transition()
+                .duration(600)
+                .attr('opacity', 0);
+        });
     }
 
     getAggregatedData(dataset) {
@@ -109,7 +128,7 @@ export default class InterestSection {
 
             const counter = row.gender === 'male' ? maleInterestCounter : femaleInterestCounter;
 
-            this.intreset_keys.forEach((interest) => {
+            this.interestKeys.forEach((interest) => {
                 let interestCounter = counter[interest] ? counter[interest] : {};
                 let category = row[interest];
                 if (category === "") return;
@@ -120,7 +139,7 @@ export default class InterestSection {
         });
 
         // Combine result
-        this.intreset_keys.forEach((interest, index) => {
+        this.interestKeys.forEach((interest, index) => {
 
             aggregatedData[index] = Object.keys(maleInterestCounter[interest]).map((category) => ({
                 category,
@@ -137,5 +156,73 @@ export default class InterestSection {
         })
 
         return aggregatedData;
+    }
+
+    generateBubbleCharts() {
+
+        return this.dataset.map((data, index) => {
+            const center = this.centers[Math.floor(index / 3)][index % 3];
+
+            const node = this.svg.append("g")
+                .selectAll("circle")
+                .data(data)
+                .enter()
+                .append("circle")
+                .attr("r", (item) => this.radiusScale(item.count))
+                .attr("cx", center[0])
+                .attr("cy", center[1])
+                .style("fill", (item) => {
+                    let shades = item.gender === 'male' ? colors.liking.male : colors.liking.female;
+                    return shades[item.category];
+                })
+                .attr('opacity', 0);
+
+            const simulation = d3.forceSimulation()
+                .force('charge', d3.forceManyBody().strength(5))
+                .force("center", d3.forceCenter().x(center[0]).y(center[1])) // Attraction to the center of the svg area
+                .force('collision', d3.forceCollide().radius((data) => this.radiusScale(data.count)));
+
+            simulation
+                .nodes(data)
+                .on("tick", function (d) {
+                    node
+                        .attr("cx", function (d) {
+                            return d.x;
+                        })
+                        .attr("cy", function (d) {
+                            return d.y;
+                        })
+                });
+
+            return node;
+        })
+
+    }
+
+    generateTextHolders() {
+        return this.interestKeys.map((_, index) => {
+            const x = this.xScale(Math.floor(index / 3)) + (this.cellWidth / 2) - 65;
+            const y = this.yScale((index % 3)) + this.cellHeight - 20;
+            return this.svg.append('rect')
+                .attr('x', x)
+                .attr('y', y)
+                .attr('width', 140)
+                .attr('height', 30)
+                .attr('fill', colors.textRect)
+                .attr('opacity', 0);
+        });
+    }
+
+    generateTexts() {
+        return this.interestKeys.map((interest, index) => {
+            const x = this.xScale(Math.floor(index / 3)) + (this.cellWidth / 2) - 40;
+            const y = this.yScale((index % 3)) + this.cellHeight;
+
+            return this.svg.append('text')
+                .attr('x', x)
+                .attr('y', y)
+                .text(this.interestTextMapping[interest])
+                .attr('opacity', 0);
+        });
     }
 }
