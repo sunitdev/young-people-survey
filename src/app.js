@@ -6,9 +6,9 @@ import IntroSection from './sections/IntroSection';
 import AgeSection from './sections/AgeSection';
 import GenderSection from './sections/GenderSection';
 import InterestSection from './sections/InterestSection';
+import PhobiaSection from './sections/PhobiaSection';
 
 import visualizationDataPath from './data/visualization_dataset.csv';
-
 
 const svg = d3.select('svg');
 
@@ -17,7 +17,8 @@ const selectors = [
     '#sectionIntro',
     '#sectionAge',
     '#sectionGender',
-    '#sectionInterest'
+    '#sectionInterest',
+    '#sectionPhobias'
 ];
 
 
@@ -32,8 +33,9 @@ function getSections(dataset) {
         new IntroSection(svg),
         new AgeSection(svg, dataset),
         new GenderSection(svg),
-        new InterestSection(svg, dataset)
-    ]
+        new InterestSection(svg, dataset),
+        new PhobiaSection(svg, dataset)
+]
 }
 
 function preProcessData(dataset) {
