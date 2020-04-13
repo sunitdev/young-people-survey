@@ -14,6 +14,8 @@ export default class AgeSection {
         // Padding around plot
         this.padding = 60;
 
+        this.barWidth = 15;
+
         this.aggreatedAgeData = this.getAggregatedAgeData(dataset);
 
         this.xScale = d3.scaleLinear()
@@ -29,6 +31,11 @@ export default class AgeSection {
         // Axis
         this.xAxis = d3.axisBottom(this.xScale);
         this.yAxis = d3.axisLeft(invertedYScale);
+
+        this.distributionLine = d3.line()
+            .x((row) => this.xScale(row.age))
+            .y((row) => (this.svgHeight - this.padding) - this.yScale(row.count))
+            .curve(d3.curveCardinal.tension(0.5));
     }
 
     getAggregatedAgeData(dataset) {
@@ -69,14 +76,22 @@ export default class AgeSection {
             .enter()
             .append('rect')
             .style('fill', colors.bar)
-            .attr('x', (row) => this.xScale(row.age))
+            .attr('x', (row) => this.xScale(row.age) - (this.barWidth / 2))
             .attr('y', (row) => (this.svgHeight - this.padding) - this.yScale(row.count))
-            .attr('width', 15)
+            .attr('width', this.barWidth)
             .attr('height', (row) => this.yScale(row.count))
+            .attr('opacity', 0);
+
+        this.distributionPath = this.svg.append('path')
+            .attr("d", this.distributionLine(Object.keys(this.aggreatedAgeData).map((item) => ({age: item, count: this.aggreatedAgeData[item]}))))
+            .attr("fill", 'none')
+            .attr("stroke", "blue")
+            .attr("stroke-width", 2)
             .attr('opacity', 0);
     }
 
     onFocusEntered() {
+
         this.xAxisGroup.transition()
             .duration(600)
             .attr('opacity', 1);
@@ -95,11 +110,15 @@ export default class AgeSection {
 
         this.bars
             .attr('y', this.svgHeight - this.padding - 40)
-            .attr('opacity', 1)
+            .attr('opacity', 0.8)
             .transition()
             .duration(600)
             .attr('y', (row) => (this.svgHeight - this.padding) - this.yScale(row.count))
 
+        this.distributionPath
+            .transition()
+            .duration(1000)
+            .attr('opacity', 1);
     }
 
     onFocusLost() {
@@ -120,6 +139,11 @@ export default class AgeSection {
             .attr('opacity', 0);
 
         this.bars.transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.distributionPath
+            .transition()
             .duration(600)
             .attr('opacity', 0);
     }
