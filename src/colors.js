@@ -5,18 +5,18 @@ export default Object.freeze({
     },
     liking: {
         male: {
-            'Strongly disagree': '#FEEA91',
-            'Disagree': '#EBD453',
-            'Neutral': '#FDB64A',
-            'Agree': '#FF8330',
-            'Strongly agree': '#E17313'
+            'Strongly disagree': '#fff0b3',
+            'Disagree': '#ffdb4d',
+            'Neutral': '#ffd11a',
+            'Agree': '#e6b800',
+            'Strongly agree': '#b38f00'
         },
         female: {
-            'Strongly disagree': '#FFC6AC',
-            'Disagree': '#EDBFB7',
-            'Neutral': '#F283B6',
-            'Agree': '#CC6391',
-            'Strongly agree': '#F40076'
+            'Strongly disagree': '#fde7f1',
+            'Disagree': '#f688bb',
+            'Neutral': '#ef2a85',
+            'Agree': '#d5106c',
+            'Strongly agree': '#a60d54'
         }
     },
     bar: '#81E6D9',

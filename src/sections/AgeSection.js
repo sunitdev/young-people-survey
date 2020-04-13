@@ -12,7 +12,7 @@ export default class AgeSection {
         this.svgHeight = parseInt(this.svg.attr('height'));
 
         // Padding around plot
-        this.padding = 30;
+        this.padding = 60;
 
         this.aggreatedAgeData = this.getAggregatedAgeData(dataset);
 
@@ -46,9 +46,22 @@ export default class AgeSection {
             .call(this.xAxis)
             .attr('opacity', 0);
 
+        this.xAxisLabel = this.svg.append('text')
+            .attr('x', (this.svgWidth - this.padding) / 2)
+            .attr('y', this.svgHeight - this.padding + 35)
+            .text('Age')
+            .attr('opacity', 0);
+
         this.yAxisGroup = this.svg.append('g')
-            .attr('transform', `translate(30, 0)`)
+            .attr('transform', `translate(${this.padding}, 0)`)
             .call(this.yAxis)
+            .attr('opacity', 0);
+
+        this.yAxisLabel = this.svg.append('text')
+            .attr("dy", "1em")
+            .style("text-anchor", "middle")
+            .attr('transform', `translate(10, ${this.svgHeight / 2}) rotate(-90)`)
+            .text('Count')
             .attr('opacity', 0);
 
         this.bars = this.svg.selectAll('bar')
@@ -68,7 +81,15 @@ export default class AgeSection {
             .duration(600)
             .attr('opacity', 1);
 
+        this.xAxisLabel.transition()
+            .duration(600)
+            .attr('opacity', 1);
+
         this.yAxisGroup.transition()
+            .duration(600)
+            .attr('opacity', 1);
+
+        this.yAxisLabel.transition()
             .duration(600)
             .attr('opacity', 1);
 
@@ -84,9 +105,17 @@ export default class AgeSection {
     onFocusLost() {
         this.xAxisGroup.transition()
             .duration(600)
+            .attr('opacity', 0)
+
+        this.xAxisLabel.transition()
+            .duration(600)
             .attr('opacity', 0);
 
         this.yAxisGroup.transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.yAxisLabel.transition()
             .duration(600)
             .attr('opacity', 0);
 
