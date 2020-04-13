@@ -16,6 +16,14 @@ export default class PhobiaSection {
 
         this.phobiaKeys = ['phobia_Flying', 'phobia_storm', 'phobia_darkness', 'phobia_heights',
             'phobia_ageing', 'phobia_public_speaking'];
+        this.phobiaKeyToText = {
+            'phobia_Flying': 'Flying',
+            'phobia_storm': 'Storm',
+            'phobia_darkness': 'Darkness',
+            'phobia_heights': 'Heights',
+            'phobia_ageing': 'Ageing',
+            'phobia_public_speaking': 'Public Speaking'
+        }
 
         this.dataset = this.getAggregatedDataset(dataset);
 
@@ -40,9 +48,39 @@ export default class PhobiaSection {
             .data(this.ticksValue.slice(1))
             .enter()
             .append('text')
-            .attr("x", this.center.x - 10)
+            .attr("x", this.center.x)
             .attr("y", (tick) => this.center.y - this.radialScale(tick))
             .text((tick) => tick.toString());
+
+        this.axis = this.svg.selectAll('axis')
+            .data(this.phobiaKeys)
+            .enter()
+            .append('line')
+            .attr('x1', this.center.x)
+            .attr('y1', this.center.y)
+            .attr('x2', (_, index) => {
+                const angle = (Math.PI / 2) + (2 * Math.PI * index / this.phobiaKeys.length);
+                return this.getPointCoordinate(angle, 50).x;
+            })
+            .attr('y2', (_, index) => {
+                const angle = (Math.PI / 2) + (2 * Math.PI * index / this.phobiaKeys.length);
+                return this.getPointCoordinate(angle, 50).y;
+            })
+            .attr('stroke', 'black');
+
+        this.axisLabel = this.svg.selectAll('axisLabel')
+            .data(this.phobiaKeys)
+            .enter()
+            .append('text')
+            .attr('x', (_, index) => {
+                const angle = (Math.PI / 2) + (2 * Math.PI * index / this.phobiaKeys.length);
+                return this.getPointCoordinate(angle, 55).x;
+            })
+            .attr('y', (_, index) => {
+                const angle = (Math.PI / 2) + (2 * Math.PI * index / this.phobiaKeys.length);
+                return this.getPointCoordinate(angle, 55).y;
+            })
+            .text((key) => this.phobiaKeyToText[key]);
 
     }
 
@@ -69,9 +107,16 @@ export default class PhobiaSection {
         })
 
         // Convert to percentage
-        Object.keys(maleCounter).forEach((key)=> maleCounter[key] = (maleCounter[key] / dataset.length) * 100);
-        Object.keys(femaleCounter).forEach((key)=> femaleCounter[key] = (femaleCounter[key] / dataset.length) * 100);
+        Object.keys(maleCounter).forEach((key) => maleCounter[key] = (maleCounter[key] / dataset.length) * 100);
+        Object.keys(femaleCounter).forEach((key) => femaleCounter[key] = (femaleCounter[key] / dataset.length) * 100);
 
         return [maleCounter, femaleCounter];
+    }
+
+    getPointCoordinate(angle, value) {
+        return {
+            x: this.center.x + Math.cos(angle) * this.radialScale(value),
+            y: this.center.y + Math.sin(angle) * this.radialScale(value)
+        };
     }
 }
