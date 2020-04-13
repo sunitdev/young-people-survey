@@ -1,6 +1,6 @@
 import * as d3 from 'd3';
 import colors from '../colors';
-// https://www.d3-graph-gallery.com/graph/circularpacking_basic.html
+
 export default class InterestSection {
 
     constructor(svg, dataset) {
