@@ -35,6 +35,15 @@ export default class PhobiaSection {
             .attr('fill', 'none')
             .attr('stroke', 'gray')
             .attr('r', (tick) => this.radialScale(tick));
+
+        this.tickText = this.svg.selectAll('tickText')
+            .data(this.ticksValue.slice(1))
+            .enter()
+            .append('text')
+            .attr("x", this.center.x - 10)
+            .attr("y", (tick) => this.center.y - this.radialScale(tick))
+            .text((tick) => tick.toString());
+
     }
 
     onFocusEntered() {
