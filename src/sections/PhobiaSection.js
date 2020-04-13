@@ -9,14 +9,32 @@ export default class PhobiaSection {
         this.svgWidth = parseInt(this.svg.attr('width'));
         this.svgHeight = parseInt(this.svg.attr('height'));
 
+        this.center = {
+            x: this.svgWidth / 2,
+            y: this.svgHeight / 2
+        }
+
         this.phobiaKeys = ['phobia_Flying', 'phobia_storm', 'phobia_darkness', 'phobia_heights',
             'phobia_ageing', 'phobia_public_speaking'];
 
         this.dataset = this.getAggregatedDataset(dataset);
-        console.log(this.dataset);
+
+        this.radialScale = d3.scaleLinear()
+            .domain([0, 50])
+            .range([0, 250]);
+        this.ticksValue = [0, 10, 20, 30, 40, 50];
     }
 
     onInit() {
+        this.ticks = this.svg.selectAll('tick')
+            .data(this.ticksValue)
+            .enter()
+            .append('circle')
+            .attr('cx', this.center.x)
+            .attr('cy', this.center.y)
+            .attr('fill', 'none')
+            .attr('stroke', 'gray')
+            .attr('r', (tick) => this.radialScale(tick));
     }
 
     onFocusEntered() {
