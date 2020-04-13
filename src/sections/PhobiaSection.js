@@ -1,4 +1,5 @@
 import * as d3 from 'd3';
+import colors from '../colors';
 
 // https://yangdanny97.github.io/blog/2019/03/01/D3-Spider-Chart
 export default class PhobiaSection {
@@ -28,9 +29,29 @@ export default class PhobiaSection {
         this.dataset = this.getAggregatedDataset(dataset);
 
         this.radialScale = d3.scaleLinear()
-            .domain([0, 50])
+            .domain([0, 40])
             .range([0, 250]);
-        this.ticksValue = [0, 10, 20, 30, 40, 50];
+        this.ticksValue = [0, 10, 20, 30, 40];
+
+        this.linePath = d3.line()
+            .x(function (d) {
+                return d.x;
+            })
+            .y(function (d) {
+                return d.y;
+            });
+
+        this.malePathCordinates = this.phobiaKeys.map((phobia, index) => {
+            const angle = (Math.PI / 2) + (2 * Math.PI * index / this.phobiaKeys.length);
+            return this.getPointCoordinate(angle, this.dataset[0][phobia]);
+        });
+        this.malePathCordinates.push(this.getPointCoordinate(Math.PI / 2, this.dataset[0][this.phobiaKeys[0]]));
+
+        this.femalePathCordinates = this.phobiaKeys.map((phobia, index) => {
+            const angle = (Math.PI / 2) + (2 * Math.PI * index / this.phobiaKeys.length);
+            return this.getPointCoordinate(angle, this.dataset[1][phobia]);
+        });
+        this.femalePathCordinates.push(this.getPointCoordinate(Math.PI / 2, this.dataset[1][this.phobiaKeys[0]]));
     }
 
     onInit() {
@@ -42,7 +63,8 @@ export default class PhobiaSection {
             .attr('cy', this.center.y)
             .attr('fill', 'none')
             .attr('stroke', 'gray')
-            .attr('r', (tick) => this.radialScale(tick));
+            .attr('r', (tick) => this.radialScale(tick))
+            .attr('opacity', 0);
 
         this.tickText = this.svg.selectAll('tickText')
             .data(this.ticksValue.slice(1))
@@ -50,7 +72,8 @@ export default class PhobiaSection {
             .append('text')
             .attr("x", this.center.x)
             .attr("y", (tick) => this.center.y - this.radialScale(tick))
-            .text((tick) => tick.toString());
+            .text((tick) => tick.toString())
+            .attr('opacity', 0);
 
         this.axis = this.svg.selectAll('axis')
             .data(this.phobiaKeys)
@@ -60,13 +83,14 @@ export default class PhobiaSection {
             .attr('y1', this.center.y)
             .attr('x2', (_, index) => {
                 const angle = (Math.PI / 2) + (2 * Math.PI * index / this.phobiaKeys.length);
-                return this.getPointCoordinate(angle, 50).x;
+                return this.getPointCoordinate(angle, 40).x;
             })
             .attr('y2', (_, index) => {
                 const angle = (Math.PI / 2) + (2 * Math.PI * index / this.phobiaKeys.length);
-                return this.getPointCoordinate(angle, 50).y;
+                return this.getPointCoordinate(angle, 40).y;
             })
-            .attr('stroke', 'black');
+            .attr('stroke', 'black')
+            .attr('opacity', 0);
 
         this.axisLabel = this.svg.selectAll('axisLabel')
             .data(this.phobiaKeys)
@@ -74,20 +98,93 @@ export default class PhobiaSection {
             .append('text')
             .attr('x', (_, index) => {
                 const angle = (Math.PI / 2) + (2 * Math.PI * index / this.phobiaKeys.length);
-                return this.getPointCoordinate(angle, 55).x;
+                return this.getPointCoordinate(angle, 45).x;
             })
             .attr('y', (_, index) => {
                 const angle = (Math.PI / 2) + (2 * Math.PI * index / this.phobiaKeys.length);
-                return this.getPointCoordinate(angle, 55).y;
+                return this.getPointCoordinate(angle, 45).y;
             })
-            .text((key) => this.phobiaKeyToText[key]);
+            .text((key) => this.phobiaKeyToText[key])
+            .attr('opacity', 0);
 
+        this.malePath = this.svg.append('path')
+            .attr("d", this.linePath(this.malePathCordinates))
+            .attr("fill", colors.gender.male)
+            .attr("stroke", "blue")
+            .attr("stroke-width", 2)
+            .attr('opacity', 0);
+
+        this.femalePath = this.svg.append('path')
+            .attr("d", this.linePath(this.femalePathCordinates))
+            .attr("fill", colors.gender.female)
+            .attr("stroke", "blue")
+            .attr("stroke-width", 2)
+            .attr('opacity', 0);
     }
 
     onFocusEntered() {
+        this.ticks
+            .transition()
+            .duration(600)
+            .attr('opacity', 1);
+
+        this.tickText
+            .transition()
+            .duration(600)
+            .attr('opacity', 1);
+
+        this.axis
+            .transition()
+            .duration(600)
+            .attr('opacity', 1);
+
+        this.axisLabel
+            .transition()
+            .duration(600)
+            .attr('opacity', 1);
+
+        this.malePath
+            .transition()
+            .duration(600)
+            .attr('opacity', 0.6);
+
+        this.femalePath
+            .transition()
+            .duration(600)
+            .attr('opacity', 0.6);
     }
 
     onFocusLost() {
+
+        this.ticks
+            .transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.tickText
+            .transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.axis
+            .transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.axisLabel
+            .transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.malePath
+            .transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.femalePath
+            .transition()
+            .duration(600)
+            .attr('opacity', 0);
     }
 
     getAggregatedDataset(dataset) {
