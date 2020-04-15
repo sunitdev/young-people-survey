@@ -1,13 +1,18 @@
 import * as d3 from 'd3';
+
 import colors from '../colors';
 
 export default class InterestSection {
 
     constructor(svg, dataset) {
         this.svg = svg;
+        this.lengendSvg = d3.select('#sectionInterestLegend');
 
         this.svgWidth = parseInt(this.svg.attr('width'));
         this.svgHeight = parseInt(this.svg.attr('height'));
+
+        this.lengendSvgWidth = parseInt(this.lengendSvg.attr('width'));
+        this.lengendSvgHeight = parseInt(this.lengendSvg.attr('height'));
 
         const padding = 10;
 
@@ -41,6 +46,15 @@ export default class InterestSection {
         this.cellWidth = this.xScale(1) - this.xScale(0);
         this.cellHeight = this.yScale(1) - this.yScale(0);
 
+        this.legendXScale = d3.scaleLinear()
+            .domain([0, 3])
+            .range([0, this.lengendSvgWidth]);
+        this.legendYScale = d3.scaleLinear()
+            .domain([0, 6])
+            .range([0, this.lengendSvgHeight])
+        this.legendCellWidth = this.legendXScale(1) - this.legendXScale(0);
+        this.legendCellHeight = this.legendYScale(1) - this.legendYScale(0);
+
         const cellHalfWidth = (this.xScale(1) - this.xScale(0)) / 2;
         const cellHalfHeight = (this.yScale(1) - this.yScale(0)) / 2;
 
@@ -67,7 +81,9 @@ export default class InterestSection {
     onInit() {
         this.groupCharts = this.generateBubbleCharts();
         this.textHolders = this.generateTextHolders();
-        this.texts = this.generateTexts()
+        this.texts = this.generateTexts();
+
+        this.generateLegend();
     }
 
     onFocusEntered() {
@@ -224,5 +240,60 @@ export default class InterestSection {
                 .text(this.interestTextMapping[interest])
                 .attr('opacity', 0);
         });
+    }
+
+    generateLegend() {
+        this.generateLegendHeaderText();
+        this.generateLegendColumnText();
+        this.generateMaleLegend();
+        this.generateFemaleLegend();
+
+    }
+
+    generateLegendHeaderText() {
+        this.lengendSvg.selectAll('legendHeaderText')
+            .data(d3.range(2))
+            .enter()
+            .append('text')
+            .attr('x', (_, index) => this.legendXScale(index + 1) + (this.legendCellWidth / 2) - 40)
+            .attr('y', this.legendCellHeight / 2)
+            .text((_, index) => index === 0 ? 'Male' : 'Female');
+    }
+
+    generateLegendColumnText() {
+        const columnText = ["Very Interested", "Interested", "Neutral", "Not Interested", "Least Interested"];
+        this.lengendSvg.selectAll('legendColumnText')
+            .data(d3.range(5))
+            .enter()
+            .append('text')
+            .attr('x', 2)
+            .attr('y', (_, index) => this.legendYScale(index + 1) + 30)
+            .text((_, index) => columnText[index]);
+    }
+
+    generateMaleLegend() {
+        const fillColor = [colors.liking.male['Strongly agree'], colors.liking.male['Agree'], colors.liking.male['Neutral'],
+            colors.liking.male['Disagree'], colors.liking.male['Strongly disagree']];
+        this.lengendSvg.selectAll('maleLegendCircle')
+            .data(d3.range(5))
+            .enter()
+            .append('circle')
+            .attr('cx', this.legendXScale(1) + (this.legendCellWidth / 2))
+            .attr('cy', (_, index) => this.legendYScale(index + 1) + (this.legendCellHeight / 2))
+            .attr('r', 10)
+            .attr('fill', (_, index) => fillColor[index]);
+    }
+
+    generateFemaleLegend() {
+        const fillColor = [colors.liking.female['Strongly agree'], colors.liking.female['Agree'], colors.liking.female['Neutral'],
+            colors.liking.female['Disagree'], colors.liking.female['Strongly disagree']];
+        this.lengendSvg.selectAll('femaleLegendCircle')
+            .data(d3.range(5))
+            .enter()
+            .append('circle')
+            .attr('cx', this.legendXScale(2) + (this.legendCellWidth / 2))
+            .attr('cy', (_, index) => this.legendYScale(index + 1) + (this.legendCellHeight / 2))
+            .attr('r', 10)
+            .attr('fill', (_, index) => fillColor[index]);
     }
 }
