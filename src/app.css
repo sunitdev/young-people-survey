@@ -19,6 +19,10 @@ section {
     height: 500px;
 }
 
+.extra-space {
+    height: 200px;
+}
+
 #visualization-wrapper {
     display: inline-block;
     position: fixed;
