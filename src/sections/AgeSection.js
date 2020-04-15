@@ -83,10 +83,34 @@ export default class AgeSection {
             .attr('opacity', 0);
 
         this.distributionPath = this.svg.append('path')
-            .attr("d", this.distributionLine(Object.keys(this.aggreatedAgeData).map((item) => ({age: item, count: this.aggreatedAgeData[item]}))))
+            .attr("d", this.distributionLine(Object.keys(this.aggreatedAgeData).map((item) => ({
+                age: item,
+                count: this.aggreatedAgeData[item]
+            }))))
             .attr("fill", 'none')
             .attr("stroke", "blue")
             .attr("stroke-width", 2)
+            .attr('opacity', 0);
+
+        this.modeText = this.svg.append('text')
+            .attr('x', this.svgWidth - 150)
+            .attr('y', 100)
+            .text('Mode = 19')
+            .attr('opacity', 0);
+
+        this.meanText = this.svg.append('text')
+            .attr('x', this.svgWidth - 150)
+            .attr('y', 50)
+            .text('Mean = 20.61')
+            .attr('opacity', 0);
+
+        this.legendRect = this.svg.append('rect')
+            .attr('x', this.svgWidth - 160)
+            .attr('y', 30)
+            .attr('width', 140)
+            .attr('height', 90)
+            .attr('fill', 'none')
+            .attr('stroke', 'black')
             .attr('opacity', 0);
     }
 
@@ -119,6 +143,21 @@ export default class AgeSection {
             .transition()
             .duration(1000)
             .attr('opacity', 1);
+
+        this.modeText
+            .transition()
+            .duration(600)
+            .attr('opacity', 1);
+
+        this.meanText
+            .transition()
+            .duration(600)
+            .attr('opacity', 1);
+
+        this.legendRect
+            .transition()
+            .duration(600)
+            .attr('opacity', 1);
     }
 
     onFocusLost() {
@@ -143,6 +182,21 @@ export default class AgeSection {
             .attr('opacity', 0);
 
         this.distributionPath
+            .transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.modeText
+            .transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.meanText
+            .transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.legendRect
             .transition()
             .duration(600)
             .attr('opacity', 0);
