@@ -120,6 +120,47 @@ export default class PhobiaSection {
             .attr("stroke", "blue")
             .attr("stroke-width", 2)
             .attr('opacity', 0);
+
+        this.legendRect =  this.svg.append('rect')
+            .attr('x', this.svgWidth - 200)
+            .attr('y', this.svgHeight - 100)
+            .attr('width', 150)
+            .attr('height', 90)
+            .attr('fill', 'none')
+            .attr('stroke', 'black')
+            .attr('opacity', 0);
+
+        this.maleLegendRect = this.svg.append('rect')
+            .attr('x', this.svgWidth - 190)
+            .attr('y', this.svgHeight - 90)
+            .attr('width', 20)
+            .attr('height', 20)
+            .attr('fill', colors.gender.male)
+            .attr('opacity', 0.8)
+            .attr('stroke', 'black')
+            .attr('opacity', 0);
+
+        this.femaleLegendRect = this.svg.append('rect')
+            .attr('x', this.svgWidth - 190)
+            .attr('y', this.svgHeight - 50)
+            .attr('width', 20)
+            .attr('height', 20)
+            .attr('fill', colors.gender.female)
+            .attr('opacity', 0.8)
+            .attr('stroke', 'black')
+            .attr('opacity', 0);
+
+        this.maleLegendText = this.svg.append('text')
+            .attr('x', this.svgWidth - 150)
+            .attr('y', this.svgHeight - 75)
+            .text('- Male')
+            .attr('opacity', 0);
+
+        this.femaleLegendText = this.svg.append('text')
+            .attr('x', this.svgWidth - 150)
+            .attr('y', this.svgHeight - 35)
+            .text('- Female')
+            .attr('opacity', 0);
     }
 
     onFocusEntered() {
@@ -152,6 +193,31 @@ export default class PhobiaSection {
             .transition()
             .duration(600)
             .attr('opacity', 0.6);
+
+        this.legendRect
+            .transition()
+            .duration(600)
+            .attr('opacity', 1);
+
+        this.maleLegendRect
+            .transition()
+            .duration(600)
+            .attr('opacity', 1);
+
+        this.femaleLegendRect
+            .transition()
+            .duration(600)
+            .attr('opacity', 1);
+
+        this.maleLegendText
+            .transition()
+            .duration(600)
+            .attr('opacity', 1);
+
+        this.femaleLegendText
+            .transition()
+            .duration(600)
+            .attr('opacity', 1);
     }
 
     onFocusLost() {
@@ -182,6 +248,31 @@ export default class PhobiaSection {
             .attr('opacity', 0);
 
         this.femalePath
+            .transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.legendRect
+            .transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.maleLegendRect
+            .transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.femaleLegendRect
+            .transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.maleLegendText
+            .transition()
+            .duration(600)
+            .attr('opacity', 0);
+
+        this.femaleLegendText
             .transition()
             .duration(600)
             .attr('opacity', 0);
