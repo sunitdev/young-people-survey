@@ -1,5 +1,5 @@
 .container {
-    width: 1050px;
+    width: 1500px;
 }
 
 main {
@@ -9,14 +9,14 @@ main {
 aside {
     position: relative;
     display: inline-block;
-    width: 260px;
+    width: 350px;
     top: 0;
     z-index: 90;
 }
 
 section {
     margin-bottom: 200px;
-    height: 500px;
+    height: 700px;
 }
 
 .extra-space {
@@ -29,4 +29,8 @@ section {
     top: 40px;
     z-index: 1;
     margin-left: 10px;
+}
+
+#sectionInterestLegend {
+    border: 1px solid black;
 }

@@ -29,13 +29,32 @@ html(lang="")
                         p Participants were from a more diverse group as shown by the doughnut chart to the left. Total of the participant for whom the response was collected, 41.3% were male and 58.7% were female.
                     section#sectionInterest
                         h1.text-xl.font-semibold.mb-2 Liking for a subject
-                        p Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, adipisci aliquam assumenda atque est ipsam libero magnam, molestiae mollitia perferendis quasi qui, quisquam suscipit. Hic ipsum obcaecati perferendis sequi tempore. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur, autem consequatur culpa distinctio dolorem exercitationem harum inventore ipsum, molestias mollitia odio officia porro quaerat quod saepe soluta tenetur velit vero!
+                        p The given chart shows the liking for each subject based on gender. For each bubble chart, the size indicates the number of participants, the colour indicates the gender and the intensity of the colour indicate the level of interest for the given subject. You can also use the filters below to filter through the data.
+                        h2.text-l.font-semibold.my-2.underline Filters
+                        div.flex.flex-wrap.-mx-3.mb-2
+                            div(class="w-full md:w-1/2 px-3 mb-6 md:mb-0")
+                                label.block.uppercase.tracking-wide.text-gray-700.text-xs.font-bold.mb-2 Gender
+                                div.relative
+                                    select(class="block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500")
+                                        option All
+                                        option Male
+                                        option Female
+                            div(class="w-full md:w-1/2 px-3 mb-6 md:mb-0")
+                                label.block.uppercase.tracking-wide.text-gray-700.text-xs.font-bold.mb-2 Liking
+                                div.relative
+                                    select(class="block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500")
+                                        option All
+                                        option Male
+                                        option Female
+                        h2.text-l.font-semibold.my-2.underline Legend
+                        svg#sectionInterestLegend(width=300 height=400)
+
                     section#sectionPhobias
                         h1.text-xl.font-semibold.mb-2 Phobias
                         p Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, adipisci aliquam assumenda atque est ipsam libero magnam, molestiae mollitia perferendis quasi qui, quisquam suscipit. Hic ipsum obcaecati perferendis sequi tempore. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur, autem consequatur culpa distinctio dolorem exercitationem harum inventore ipsum, molestias mollitia odio officia porro quaerat quod saepe soluta tenetur velit vero!
                     div.extra-space
 
                 div#visualization-wrapper
-                    svg(width=800 height=600)
+                    svg#visualization(width=900 height=700)
 
         script(src="app.js")

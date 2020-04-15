@@ -10,7 +10,7 @@ import PhobiaSection from './sections/PhobiaSection';
 
 import visualizationDataPath from './data/visualization_dataset.csv';
 
-const svg = d3.select('svg');
+const svg = d3.select('#visualization');
 
 // Section selector
 const selectors = [
