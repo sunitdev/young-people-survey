@@ -84,6 +84,8 @@ export default class InterestSection {
         this.texts = this.generateTexts();
 
         this.generateLegend();
+
+        this.initEventHandler();
     }
 
     onFocusEntered() {
@@ -191,6 +193,14 @@ export default class InterestSection {
                     let shades = item.gender === 'male' ? colors.liking.male : colors.liking.female;
                     return shades[item.category];
                 })
+                .classed('interest-bubble', true)
+                .classed('gender-male', (item) => item.gender === 'male')
+                .classed('gender-female', (item) => item.gender !== 'male')
+                .classed('very-interested', (item) => item.category === 'Strongly agree')
+                .classed('interested', (item) => item.category === 'Agree')
+                .classed('neutral', (item) => item.category === 'Neutral')
+                .classed('not-interested', (item) => item.category === 'Disagree')
+                .classed('least-interested', (item) => item.category === 'Strongly disagree')
                 .attr('opacity', 0);
 
             const simulation = d3.forceSimulation()
@@ -295,5 +305,49 @@ export default class InterestSection {
             .attr('cy', (_, index) => this.legendYScale(index + 1) + (this.legendCellHeight / 2))
             .attr('r', 10)
             .attr('fill', (_, index) => fillColor[index]);
+    }
+
+    initEventHandler() {
+        // Gender Event handler
+        d3.select('#selectGender')
+            .on('change', this.handelOnSelectChangeEvent);
+
+        d3.select('#selectLiking')
+            .on('change', this.handelOnSelectChangeEvent);
+    }
+
+    handelOnSelectChangeEvent() {
+        const allBubbles = d3.selectAll('.interest-bubble');
+
+        let genderSelectValue = d3.select('#selectGender').property('value');
+        let likingSelectValue = d3.select('#selectLiking').property('value');
+
+        if (genderSelectValue === 'all') {
+            genderSelectValue = ''
+        } else {
+            genderSelectValue = '.' + genderSelectValue;
+        }
+
+        if (likingSelectValue === 'all') {
+            likingSelectValue = ''
+        } else {
+            likingSelectValue = '.' + likingSelectValue;
+        }
+
+        let selector = genderSelectValue + likingSelectValue;
+        if(selector){
+            allBubbles.transition()
+                .duration(600)
+                .attr('opacity', 0);
+            d3.selectAll(selector)
+                .transition()
+                .duration(600)
+                .attr('opacity', 1);
+        } else {
+            allBubbles.transition()
+                .duration(600)
+                .attr('opacity', 1);
+        }
+
     }
 }

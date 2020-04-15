@@ -35,17 +35,20 @@ html(lang="")
                             div(class="w-full md:w-1/2 px-3 mb-6 md:mb-0")
                                 label.block.uppercase.tracking-wide.text-gray-700.text-xs.font-bold.mb-2 Gender
                                 div.relative
-                                    select(class="block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500")
-                                        option All
-                                        option Male
-                                        option Female
+                                    select#selectGender(class="block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500")
+                                        option(value="all") All
+                                        option(value="gender-male") Male
+                                        option(value="gender-female") Female
                             div(class="w-full md:w-1/2 px-3 mb-6 md:mb-0")
                                 label.block.uppercase.tracking-wide.text-gray-700.text-xs.font-bold.mb-2 Liking
                                 div.relative
-                                    select(class="block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500")
-                                        option All
-                                        option Male
-                                        option Female
+                                    select#selectLiking(class="block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500")
+                                        option(value="all") All
+                                        option(value="very-interested") Very Interested
+                                        option(value="interested") Interested
+                                        option(value="neutral") Neutral
+                                        option(value="not-interested") Not Interested
+                                        option(value="least-interested") Least Interested
                         h2.text-l.font-semibold.my-2.underline Legend
                         svg#sectionInterestLegend(width=350 height=400)
 
