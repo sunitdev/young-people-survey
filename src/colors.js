@@ -5,14 +5,14 @@ export default Object.freeze({
     },
     liking: {
         male: {
-            'Strongly disagree': '#fff0b3',
+            'Strongly disagree': '#ffe080',
             'Disagree': '#ffdb4d',
             'Neutral': '#ffd11a',
             'Agree': '#e6b800',
             'Strongly agree': '#b38f00'
         },
         female: {
-            'Strongly disagree': '#fde7f1',
+            'Strongly disagree': '#ffbddb',
             'Disagree': '#f688bb',
             'Neutral': '#ef2a85',
             'Agree': '#d5106c',
