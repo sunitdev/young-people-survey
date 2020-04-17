@@ -7,12 +7,16 @@ export default class InterestSection {
     constructor(svg, dataset) {
         this.svg = svg;
         this.lengendSvg = d3.select('#sectionInterestLegend');
+        this.scaleSvg = d3.select('#sectionInterestScale');
 
         this.svgWidth = parseInt(this.svg.attr('width'));
         this.svgHeight = parseInt(this.svg.attr('height'));
 
         this.lengendSvgWidth = parseInt(this.lengendSvg.attr('width'));
         this.lengendSvgHeight = parseInt(this.lengendSvg.attr('height'));
+
+        this.scaleSvgWidth = parseInt(this.scaleSvg.attr('width'));
+        this.scaleSvgHeight = parseInt(this.scaleSvg.attr('height'));
 
         const padding = 10;
 
@@ -54,6 +58,12 @@ export default class InterestSection {
             .range([0, this.lengendSvgHeight])
         this.legendCellWidth = this.legendXScale(1) - this.legendXScale(0);
         this.legendCellHeight = this.legendYScale(1) - this.legendYScale(0);
+
+        const scaleLegendPadding = 15;
+        this.scaleXScale = d3.scaleLinear()
+            .domain([0, 400])
+            .range([5, this.scaleSvgWidth - scaleLegendPadding]);
+        this.xScaleAxis = d3.axisBottom(this.scaleXScale);
 
         const cellHalfWidth = (this.xScale(1) - this.xScale(0)) / 2;
         const cellHalfHeight = (this.yScale(1) - this.yScale(0)) / 2;
@@ -258,6 +268,8 @@ export default class InterestSection {
         this.generateMaleLegend();
         this.generateFemaleLegend();
 
+        this.generateScaleLegendXscale();
+        this.generateScaleCricles();
     }
 
     generateLegendHeaderText() {
@@ -265,7 +277,7 @@ export default class InterestSection {
             .data(d3.range(2))
             .enter()
             .append('text')
-            .attr('x', (_, index) => this.legendXScale(index + 1) + (this.legendCellWidth / 2) - 40)
+            .attr('x', (_, index) => this.legendXScale(index + 1) + (this.legendCellWidth / 2) - 30)
             .attr('y', this.legendCellHeight / 2)
             .text((_, index) => index === 0 ? 'Male' : 'Female');
     }
@@ -349,5 +361,23 @@ export default class InterestSection {
                 .attr('opacity', 1);
         }
 
+    }
+
+    generateScaleLegendXscale() {
+        this.scaleSvg.append('g')
+            .attr('transform', `translate(0, ${this.scaleSvgHeight - 20})`)
+            .call(this.xScaleAxis);
+    }
+
+    generateScaleCricles() {
+        const ticks = [50, 150, 250, 350];
+        this.scaleSvg.selectAll('tick')
+            .data(ticks)
+            .enter()
+            .append('circle')
+            .attr('cx', (tick) => this.scaleXScale(tick))
+            .attr('cy', (this.scaleSvgHeight / 2) - 10)
+            .attr('r', (tick) => this.radiusScale(tick))
+            .attr('fill', 'black');
     }
 }

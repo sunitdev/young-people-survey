@@ -72,7 +72,7 @@ export default class PhobiaSection {
             .append('text')
             .attr("x", this.center.x)
             .attr("y", (tick) => this.center.y - this.radialScale(tick))
-            .text((tick) => tick.toString())
+            .text((tick) => tick.toString() + '%')
             .attr('opacity', 0);
 
         this.axis = this.svg.selectAll('axis')
