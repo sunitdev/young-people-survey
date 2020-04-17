@@ -19,6 +19,10 @@ section {
     height: 700px;
 }
 
+#sectionPhobias {
+    height: 600px;
+}
+
 #visualization-wrapper {
     display: inline-block;
     position: fixed;
