@@ -4,9 +4,10 @@ import colors from '../colors';
 
 export default class AgeSection {
 
-    constructor(svg, dataset) {
+    constructor(svg, tooltip, dataset) {
         this.svg = svg;
         this.dataset = dataset;
+        this.tooltip = tooltip;
 
         this.svgWidth = parseInt(this.svg.attr('width'));
         this.svgHeight = parseInt(this.svg.attr('height'));
@@ -135,9 +136,27 @@ export default class AgeSection {
         this.bars
             .attr('y', this.svgHeight - this.padding - 40)
             .attr('opacity', 0.8)
+            .style('position', 'relative')
+            .style('z-index', 99)
             .transition()
             .duration(600)
-            .attr('y', (row) => (this.svgHeight - this.padding) - this.yScale(row.count))
+            .attr('y', (row) => (this.svgHeight - this.padding) - this.yScale(row.count));
+
+        let handleOnMouseHover = this.handleOnMouseHover.bind(this);
+        let handleOnMouseOut = this.handleOnMouseOut.bind(this);
+        this.bars
+            .on('mouseover', function (item){
+                d3.select(this)
+                    .attr('stroke', 'black')
+                    .attr('stroke-width', '2px');
+                handleOnMouseHover(`Count: ${item.count}`);
+            })
+            .on('mouseout', function () {
+                d3.select(this)
+                    .attr('stroke', null)
+                    .attr('stroke-width', null);
+                handleOnMouseOut();
+            });
 
         this.distributionPath
             .transition()
@@ -177,7 +196,10 @@ export default class AgeSection {
             .duration(600)
             .attr('opacity', 0);
 
-        this.bars.transition()
+        this.bars
+            .style('position', null)
+            .style('z-index', null)
+            .transition()
             .duration(600)
             .attr('opacity', 0);
 
@@ -200,5 +222,18 @@ export default class AgeSection {
             .transition()
             .duration(600)
             .attr('opacity', 0);
+    }
+
+    handleOnMouseHover(message){
+        this.tooltip
+            .style('visibility', 'visible')
+            .style('top', (d3.event.pageY-10)+'px')
+            .style('left',(d3.event.pageX+10)+'px')
+            .text(message);
+    }
+
+    handleOnMouseOut(){
+        this.tooltip
+            .style('visibility', 'hidden');
     }
 }

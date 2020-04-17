@@ -50,7 +50,9 @@ html(lang="")
                                         option(value="not-interested") Not Interested
                                         option(value="least-interested") Least Interested
                         h2.text-l.font-semibold.my-2.underline Legend
-                        svg#sectionInterestLegend(width=350 height=400)
+                        svg#sectionInterestLegend(width=300 height=250)
+                        h2.text-l.font-semibold.my-2.underline Scale
+                        svg#sectionInterestScale(width=350 height=100)
 
                     section#sectionPhobias
                         h1.text-xl.font-semibold.mb-2 Phobias
@@ -59,5 +61,7 @@ html(lang="")
 
                 div#visualization-wrapper
                     svg#visualization(width=900 height=700)
+
+        div#tooltip.absolute.bg-blue-200.p-1.border.border-solid.border-blue-800.rounded.z-10 This is a tooltip.
 
         script(src="app.js")

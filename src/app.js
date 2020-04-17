@@ -12,6 +12,8 @@ import visualizationDataPath from './data/visualization_dataset.csv';
 
 const svg = d3.select('#visualization');
 
+const tooltip = d3.select('#tooltip');
+
 // Section selector
 const selectors = [
     '#sectionIntro',
@@ -31,7 +33,7 @@ function onDataLoaded(dataset) {
 function getSections(dataset) {
     return [
         new IntroSection(svg),
-        new AgeSection(svg, dataset),
+        new AgeSection(svg, tooltip, dataset),
         new GenderSection(svg),
         new InterestSection(svg, dataset),
         new PhobiaSection(svg, dataset)
