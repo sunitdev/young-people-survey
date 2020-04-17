@@ -4,8 +4,9 @@ import colors from '../colors';
 
 export default class InterestSection {
 
-    constructor(svg, dataset) {
+    constructor(svg, tooltip, dataset) {
         this.svg = svg;
+        this.tooltip = tooltip;
         this.lengendSvg = d3.select('#sectionInterestLegend');
         this.scaleSvg = d3.select('#sectionInterestScale');
 
@@ -33,6 +34,14 @@ export default class InterestSection {
             'interest_law': 'Law',
             'interest_geography': 'Geography',
             'interest_psychology': 'Psychology'
+        }
+
+        this.valueToTextMapping = {
+            'Strongly agree': 'Very Interested',
+            'Agree': 'Interested',
+            'Neutral': 'Neutral',
+            'Disagree': 'Not Interested',
+            'Strongly disagree': 'Least Interested'
         }
 
         this.dataset = this.getAggregatedData(dataset);
@@ -99,8 +108,25 @@ export default class InterestSection {
     }
 
     onFocusEntered() {
+        let handleOnMouseHover = this.handleOnMouseHover.bind(this);
+        let handleOnMouseOut = this.handleOnMouseOut.bind(this);
+        let valueToTextMapping = this.valueToTextMapping;
         this.groupCharts.forEach((chart) => {
-            chart.transition()
+            chart
+                .on('mouseover', function (item){
+                    d3.select(this)
+                        .attr('stroke', 'black')
+                        .attr('stroke-width', '2px');
+                    const gender = item.gender === 'male'? 'Male' : 'Female';
+                    handleOnMouseHover(`${gender}, ${valueToTextMapping[item.category]}: ${item.count}`);
+                })
+                .on('mouseout', function () {
+                    d3.select(this)
+                        .attr('stroke', null)
+                        .attr('stroke-width', null);
+                    handleOnMouseOut();
+                })
+                .transition()
                 .duration(600)
                 .attr('opacity', 1);
         });
@@ -127,7 +153,10 @@ export default class InterestSection {
 
     onFocusLost() {
         this.groupCharts.forEach((chart) => {
-            chart.transition()
+            chart
+                .on('mouseover', null)
+                .on('mouseout', null)
+                .transition()
                 .duration(600)
                 .attr('opacity', 0);
         });
@@ -379,5 +408,18 @@ export default class InterestSection {
             .attr('cy', (this.scaleSvgHeight / 2) - 10)
             .attr('r', (tick) => this.radiusScale(tick))
             .attr('fill', 'black');
+    }
+
+    handleOnMouseHover(message){
+        this.tooltip
+            .style('visibility', 'visible')
+            .style('top', (d3.event.pageY-10)+'px')
+            .style('left',(d3.event.pageX+10)+'px')
+            .text(message);
+    }
+
+    handleOnMouseOut(){
+        this.tooltip
+            .style('visibility', 'hidden');
     }
 }

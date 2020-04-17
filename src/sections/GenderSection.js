@@ -81,17 +81,13 @@ export default class GenderSection {
         let handleOnMouseHover = this.handleOnMouseHover.bind(this);
         let handleOnMouseOut = this.handleOnMouseOut.bind(this);
         this.doughnutChart
+            .style('position', 'relative')
+            .style('z-index', 99)
             .on('mouseover', function (item, index){
-                d3.select(this)
-                    .attr('stroke', 'black')
-                    .attr('stroke-width', '2px');
                 const message = index === 0 ? 'Male: 41.3%': 'Female: 58.7%';
                 handleOnMouseHover(message);
             })
             .on('mouseout', function () {
-                d3.select(this)
-                    .attr('stroke', null)
-                    .attr('stroke-width', null);
                 handleOnMouseOut();
             });
 
@@ -129,6 +125,12 @@ export default class GenderSection {
             .transition()
             .duration(600)
             .attr('opacity', 0);
+
+        this.doughnutChart
+            .style('position', null)
+            .style('z-index', null)
+            .on('mouseover', null)
+            .on('mouseout', null);
 
         this.maleTextRect
             .attr('opacity', 0);

@@ -199,6 +199,8 @@ export default class AgeSection {
         this.bars
             .style('position', null)
             .style('z-index', null)
+            .on('mouseover', null)
+            .on('mouseout', null)
             .transition()
             .duration(600)
             .attr('opacity', 0);
