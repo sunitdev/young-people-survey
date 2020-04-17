@@ -4,8 +4,9 @@ import colors from '../colors';
 
 export default class GenderSection {
 
-    constructor(svg) {
+    constructor(svg, tooltip) {
         this.svg = svg;
+        this.tooltip = tooltip;
 
         this.svgWidth = parseInt(this.svg.attr('width'));
         this.svgHeight = parseInt(this.svg.attr('height'));
@@ -71,10 +72,28 @@ export default class GenderSection {
     }
 
     onFocusEntered() {
+
         this.doughnutChart
             .transition()
             .duration(600)
             .attr('opacity', 1);
+
+        let handleOnMouseHover = this.handleOnMouseHover.bind(this);
+        let handleOnMouseOut = this.handleOnMouseOut.bind(this);
+        this.doughnutChart
+            .on('mouseover', function (item, index){
+                d3.select(this)
+                    .attr('stroke', 'black')
+                    .attr('stroke-width', '2px');
+                const message = index === 0 ? 'Male: 41.3%': 'Female: 58.7%';
+                handleOnMouseHover(message);
+            })
+            .on('mouseout', function () {
+                d3.select(this)
+                    .attr('stroke', null)
+                    .attr('stroke-width', null);
+                handleOnMouseOut();
+            });
 
         this.maleTextRect
             .attr('x', this.svgWidth)
@@ -124,4 +143,16 @@ export default class GenderSection {
             .attr('opacity', 0);
     }
 
+    handleOnMouseHover(message){
+        this.tooltip
+            .style('visibility', 'visible')
+            .style('top', (d3.event.pageY-10)+'px')
+            .style('left',(d3.event.pageX+10)+'px')
+            .text(message);
+    }
+
+    handleOnMouseOut(){
+        this.tooltip
+            .style('visibility', 'hidden');
+    }
 }

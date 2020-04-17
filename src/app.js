@@ -34,7 +34,7 @@ function getSections(dataset) {
     return [
         new IntroSection(svg),
         new AgeSection(svg, tooltip, dataset),
-        new GenderSection(svg),
+        new GenderSection(svg, tooltip),
         new InterestSection(svg, dataset),
         new PhobiaSection(svg, dataset)
 ]
