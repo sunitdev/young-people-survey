@@ -50,6 +50,16 @@ export default class GenderSection {
             .attr('fill', colors.textRect)
             .attr('opacity', 0);
 
+        this.maleColorRect = this.svg.append('rect')
+            .attr('x', this.svgWidth / 6 + 50)
+            .attr('y', this.svgHeight - 130)
+            .attr('width', 20)
+            .attr('height', 20)
+            .attr('fill', colors.gender.male)
+            .attr('stroke', 'black')
+            .attr('stoke-width', '1px')
+            .attr('opacity', 0);
+
         this.maleText = this.svg.append('text')
             .attr('x', (this.svgWidth / 6) + 25)
             .attr('y', this.svgHeight - 80)
@@ -68,6 +78,16 @@ export default class GenderSection {
             .attr('x', 4 * (this.svgWidth / 6) + 25)
             .attr('y', this.svgHeight - 80)
             .text('Female: 58.7%')
+            .attr('opacity', 0);
+
+        this.femaleColorRect = this.svg.append('rect')
+            .attr('x', 4 * (this.svgWidth / 6) + 60)
+            .attr('y', this.svgHeight - 130)
+            .attr('width', 20)
+            .attr('height', 20)
+            .attr('fill', colors.gender.female)
+            .attr('stroke', 'black')
+            .attr('stoke-width', '1px')
             .attr('opacity', 0);
     }
 
@@ -105,12 +125,26 @@ export default class GenderSection {
             .duration(600)
             .attr('x', (this.svgWidth / 6) + 25);
 
+        this.maleColorRect
+            .attr('x', this.svgWidth)
+            .attr('opacity', 1)
+            .transition()
+            .duration(600)
+            .attr('x', (this.svgWidth / 6) + 60);
+
         this.femaleTextRect
             .attr('x', this.svgWidth)
             .attr('opacity', 1)
             .transition()
             .duration(600)
             .attr('x', 4 * (this.svgWidth / 6));
+
+        this.femaleColorRect
+            .attr('x', this.svgWidth)
+            .attr('opacity', 1)
+            .transition()
+            .duration(600)
+            .attr('x', 4 * (this.svgWidth / 6) + 70);
 
         this.femaleText
             .attr('x', this.svgWidth)
@@ -142,6 +176,12 @@ export default class GenderSection {
             .attr('opacity', 0);
 
         this.femaleText
+            .attr('opacity', 0);
+
+        this.maleColorRect
+            .attr('opacity', 0);
+
+        this.femaleColorRect
             .attr('opacity', 0);
     }
 
