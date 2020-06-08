@@ -60,7 +60,7 @@ npm ci
 ```
 3. Start Server in development mode.
 ```JS
-npm run serve.
+npm run serve
 ```
 
 ## Building
