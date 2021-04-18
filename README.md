@@ -1,12 +1,9 @@
-[![Build Status](https://travis-ci.com/sunitdeshpande/young-people-survey.svg?branch=master)](https://travis-ci.com/sunitdeshpande/young-people-survey)
 
 <p align="center">
   <h3 align="center">Young People Survery.</h3>
 
   <p align="center">
     Scrolling data visualization of young people survey.
-    <br />
-    <a href="https://sunitdeshpande.github.io/young-people-survey/">View Demo</a>
   </p>
 </p>
 
@@ -26,7 +23,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Screenshot](docs/screenshot.png)](https://sunitdeshpande.github.io/young-people-survey/)
+[![Product Screenshot](docs/screenshot.png)](https://sunitdev.github.io/young-people-survey/)
 
 In 2013, students of the Statistics class at [FSEV UK](https://fses.uniba.sk/en/) were asked to invite their friends to participate in a survey. Data consists of responses to different questions by almost 1010 different participant. The original data source can be viewed at the following [link](https://www.kaggle.com/miroslavsabo/young-people-survey).
 
@@ -52,7 +49,7 @@ Getting started with the project is simple. First clone the project and see if y
 
 1. Clone the repo
 ```sh
-git clone https://github.com/sunitdeshpande/young-people-survey.git
+git clone https://github.com/sunitdev/young-people-survey.git
 ```
 2. Install NPM packages
 ```sh
