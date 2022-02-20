@@ -1,0 +1,1010 @@
+age,gender,interest_history,interest_mathematics,interest_physics,interest_computers,interest_economy,interest_medical,interest_law,interest_geography,interest_psychology,phobia_Flying,phobia_storm,phobia_darkness,phobia_heights,phobia_ageing,phobia_public_speaking
+20.0,female,Strongly disagree,Neutral,Neutral,Neutral,Strongly agree,Neutral,Strongly disagree,Neutral,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+19.0,female,Strongly disagree,Strongly agree,Disagree,Agree,Strongly agree,Strongly disagree,Disagree,Agree,Neutral,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid,Very afraid
+20.0,female,Strongly disagree,Strongly agree,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,Disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+22.0,female,Agree,Agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Agree,Agree,Slightly afraid,Not afraid,Not afraid,afraid,Very afraid,Very much afraid
+20.0,female,Neutral,Disagree,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Not afraid,Slightly afraid,Not afraid,Not afraid,Slightly afraid,afraid
+20.0,male,Strongly agree,Disagree,Neutral,Agree,Strongly disagree,Agree,Neutral,Neutral,Neutral,afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Neutral,Neutral,Neutral,Not afraid,afraid,Slightly afraid,Not afraid,Very afraid,Not afraid
+19.0,male,Strongly agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Disagree,afraid,Slightly afraid,Very afraid,afraid,Not afraid,Very afraid
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Slightly afraid,afraid,Not afraid,Very much afraid,Slightly afraid,Very afraid
+19.0,female,Neutral,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Agree,Disagree,Very afraid,Very much afraid,Very afraid,Very much afraid,afraid,afraid
+19.0,female,Neutral,Disagree,Strongly disagree,Strongly agree,Neutral,Disagree,Agree,Neutral,Neutral,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid
+17.0,female,Disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Disagree,Very afraid,Not afraid,Not afraid,afraid,Very much afraid,Very much afraid
+24.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Disagree,Neutral,Agree,Not afraid,Not afraid,Not afraid,Not afraid,Very much afraid,Slightly afraid
+19.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Slightly afraid,afraid,afraid,Very afraid,Slightly afraid,afraid
+22.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Very much afraid,Very much afraid,afraid,afraid,Very much afraid,afraid
+18.0,male,Strongly agree,Neutral,Neutral,Strongly agree,Neutral,Disagree,Agree,Neutral,Strongly agree,Very much afraid,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+19.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Not afraid,afraid,Very much afraid,Very afraid,Slightly afraid,Very afraid
+20.0,female,Neutral,Strongly disagree,Neutral,Neutral,Strongly disagree,Neutral,Strongly disagree,Disagree,Disagree,afraid,Very much afraid,Very much afraid,Very much afraid,Very much afraid,afraid
+18.0,male,Neutral,Strongly agree,Strongly agree,Strongly agree,Neutral,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+18.0,male,Disagree,Neutral,Disagree,Strongly agree,Agree,Disagree,Strongly disagree,Agree,Neutral,afraid,Slightly afraid,Slightly afraid,Very afraid,Slightly afraid,afraid
+20.0,male,Strongly agree,Disagree,Neutral,Agree,Disagree,Agree,Disagree,Neutral,Neutral,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid
+24.0,male,Agree,Neutral,Strongly disagree,Strongly agree,Strongly agree,Disagree,Strongly disagree,Strongly agree,Agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Neutral,Neutral,Disagree,Neutral,Agree,Not afraid,Slightly afraid,Not afraid,Not afraid,Not afraid,afraid
+20.0,female,Disagree,Disagree,Neutral,Neutral,Disagree,Agree,Disagree,Neutral,Disagree,Slightly afraid,Very afraid,Very much afraid,afraid,afraid,afraid
+19.0,female,Agree,Disagree,Strongly disagree,Agree,Disagree,Agree,Strongly agree,Agree,Strongly agree,Not afraid,Not afraid,Slightly afraid,Not afraid,Very much afraid,Very much afraid
+20.0,female,Disagree,Neutral,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Neutral,Disagree,Disagree,afraid,Slightly afraid,Slightly afraid,afraid,Very afraid,Slightly afraid
+22.0,female,Neutral,Disagree,Neutral,Disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid
+19.0,female,Disagree,Strongly disagree,Neutral,Disagree,Disagree,Agree,Strongly disagree,Disagree,Disagree,afraid,Very much afraid,Slightly afraid,Slightly afraid,Very afraid,Slightly afraid
+20.0,male,Strongly agree,Strongly disagree,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Agree,Strongly disagree,Not afraid,Not afraid,Slightly afraid,Very afraid,Very afraid,Slightly afraid
+19.0,female,Strongly agree,Disagree,Disagree,Neutral,Agree,Neutral,Disagree,Neutral,Agree,afraid,afraid,Very afraid,Very much afraid,Very much afraid,afraid
+25.0,male,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Agree,Agree,Agree,Neutral,Not afraid,Not afraid,Not afraid,afraid,Very afraid,Very afraid
+22.0,female,Agree,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+20.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Disagree,Neutral,Strongly agree,afraid,Very much afraid,Very much afraid,Very much afraid,Not afraid,Slightly afraid
+27.0,female,Strongly agree,Disagree,Strongly disagree,Agree,Agree,Strongly agree,Agree,Strongly agree,Neutral,Not afraid,Very much afraid,Slightly afraid,Very afraid,Not afraid,Very afraid
+20.0,male,Agree,Neutral,Strongly disagree,Agree,Agree,Neutral,Disagree,Disagree,Strongly agree,Not afraid,Slightly afraid,Slightly afraid,Not afraid,Not afraid,afraid
+19.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,afraid,Very much afraid,afraid,afraid,Very much afraid,Not afraid
+18.0,female,Agree,Neutral,Neutral,Neutral,Disagree,Strongly agree,Neutral,Neutral,Strongly agree,afraid,Not afraid,Very afraid,afraid,afraid,Very much afraid
+21.0,male,Neutral,Neutral,Neutral,Neutral,Disagree,Neutral,Neutral,Disagree,Neutral,Not afraid,Not afraid,Not afraid,afraid,afraid,Slightly afraid
+23.0,female,Neutral,Neutral,Disagree,Disagree,Strongly agree,Agree,Neutral,Neutral,Agree,afraid,Very afraid,Slightly afraid,Very afraid,Not afraid,Slightly afraid
+21.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Strongly disagree,Neutral,Strongly disagree,afraid,afraid,Slightly afraid,Slightly afraid,afraid,Very afraid
+26.0,female,Disagree,Disagree,Strongly disagree,Agree,Neutral,Disagree,Disagree,Neutral,Strongly disagree,Not afraid,afraid,Very much afraid,afraid,afraid,afraid
+20.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Neutral,Agree,Slightly afraid,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+19.0,female,Disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Agree,Neutral,Disagree,Strongly agree,Not afraid,Not afraid,afraid,Not afraid,Not afraid,Very much afraid
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Disagree,Strongly agree,Agree,Not afraid,afraid,Very afraid,Very much afraid,Slightly afraid,Not afraid
+25.0,female,Agree,Neutral,Agree,Neutral,Agree,Strongly disagree,Agree,Agree,Strongly agree,afraid,Slightly afraid,Very afraid,Very much afraid,afraid,afraid
+27.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Very much afraid,Slightly afraid,Slightly afraid,Very much afraid,Very much afraid,Very afraid
+21.0,female,Agree,Disagree,Disagree,Agree,Disagree,Disagree,Strongly disagree,Agree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+19.0,female,Disagree,Disagree,Strongly disagree,Neutral,Agree,Neutral,Strongly disagree,Neutral,Neutral,Not afraid,Slightly afraid,Not afraid,afraid,afraid,Very afraid
+20.0,female,Disagree,Disagree,Disagree,Disagree,Agree,Neutral,Disagree,Neutral,Agree,afraid,Not afraid,Slightly afraid,Slightly afraid,Very much afraid,Not afraid
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,afraid,Not afraid,Very much afraid,Very afraid,afraid,Very much afraid
+19.0,female,Neutral,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Agree,Not afraid,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid,Very afraid
+19.0,female,Disagree,Strongly agree,Strongly agree,Strongly agree,Disagree,Strongly agree,Disagree,Neutral,Agree,afraid,Not afraid,afraid,Not afraid,Not afraid,Slightly afraid
+21.0,female,Strongly agree,Neutral,Disagree,Disagree,Disagree,Disagree,Disagree,Neutral,Agree,afraid,afraid,Very much afraid,Very afraid,afraid,afraid
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,Agree,Neutral,Strongly agree,Neutral,afraid,Not afraid,Not afraid,Not afraid,Not afraid,Very much afraid
+21.0,female,Strongly agree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Neutral,Neutral,afraid,Slightly afraid,Very much afraid,Very much afraid,Not afraid,Slightly afraid
+23.0,female,Agree,Disagree,Neutral,Agree,Neutral,Neutral,Neutral,Agree,Strongly agree,Slightly afraid,Slightly afraid,Very much afraid,afraid,afraid,Very afraid
+20.0,female,Neutral,Agree,Neutral,Agree,Agree,Disagree,Agree,Disagree,Agree,afraid,Not afraid,Very much afraid,afraid,Very much afraid,afraid
+21.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Disagree,Strongly agree,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very afraid,Very much afraid
+19.0,male,Neutral,Neutral,Disagree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Neutral,Not afraid,Not afraid,Slightly afraid,Very much afraid,Very much afraid,afraid
+22.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Neutral,Strongly agree,Agree,Very much afraid,Not afraid,Not afraid,Very afraid,Not afraid,Very much afraid
+23.0,male,Agree,Agree,Agree,Agree,Agree,Neutral,Disagree,Agree,Strongly agree,Not afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Very much afraid
+23.0,male,Neutral,Neutral,Agree,Agree,Agree,Neutral,Neutral,Neutral,Neutral,Not afraid,Not afraid,Not afraid,afraid,Very afraid,Slightly afraid
+23.0,male,Strongly agree,Agree,Strongly agree,Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Agree,Very much afraid,Very much afraid,Very much afraid,Very much afraid,Very much afraid,Very afraid
+22.0,male,Agree,,Disagree,Neutral,Agree,Disagree,Agree,Neutral,Disagree,afraid,Slightly afraid,Slightly afraid,Very afraid,Slightly afraid,afraid
+18.0,female,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Not afraid,Slightly afraid,Very much afraid,afraid,Very much afraid,afraid
+17.0,male,Strongly agree,Disagree,Strongly disagree,Neutral,Disagree,Neutral,Strongly disagree,Strongly agree,Disagree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Very afraid,Very afraid
+20.0,male,Neutral,Strongly agree,Strongly agree,Neutral,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree,afraid,Slightly afraid,afraid,Very much afraid,Not afraid,afraid
+24.0,female,Disagree,Agree,Disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Neutral,Neutral,Not afraid,Not afraid,Slightly afraid,Very afraid,Slightly afraid,Slightly afraid
+18.0,female,Disagree,Strongly agree,Disagree,Disagree,Agree,Strongly disagree,Agree,Neutral,Disagree,afraid,Very much afraid,Slightly afraid,Slightly afraid,Not afraid,Very much afraid
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Disagree,Slightly afraid,Very much afraid,Not afraid,Not afraid,Not afraid,afraid
+17.0,male,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,afraid
+20.0,male,Strongly agree,Disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Strongly agree,Agree,Strongly disagree,Not afraid,Not afraid,Not afraid,Very afraid,Very much afraid,Not afraid
+28.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Not afraid,afraid,afraid,afraid,afraid,Very afraid
+21.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Disagree,Agree,Neutral,Very much afraid,Slightly afraid,Not afraid,afraid,Very much afraid,Very much afraid
+22.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Agree,Strongly disagree,Neutral,Agree,Neutral,Very much afraid,Very much afraid,Not afraid,Very afraid,afraid,Slightly afraid
+20.0,male,Strongly agree,Disagree,Strongly disagree,Agree,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Slightly afraid,Not afraid,Slightly afraid,Very much afraid,Not afraid,Not afraid
+18.0,male,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree,Strongly disagree,Neutral,Disagree,Disagree,Slightly afraid,afraid,Slightly afraid,afraid,Not afraid,afraid
+21.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Disagree,Not afraid,Not afraid,Not afraid,afraid,Slightly afraid,afraid
+24.0,female,Disagree,Neutral,Strongly disagree,Agree,Agree,Agree,Strongly disagree,Strongly agree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Very much afraid,Very afraid
+21.0,female,Agree,Disagree,Strongly disagree,Neutral,Strongly agree,Disagree,Strongly agree,Neutral,Neutral,Slightly afraid,afraid,Slightly afraid,Very afraid,Slightly afraid,Very afraid
+19.0,female,Strongly agree,Strongly disagree,Disagree,Neutral,Neutral,Disagree,Strongly agree,Disagree,Agree,Slightly afraid,Not afraid,Very afraid,Slightly afraid,Not afraid,Very afraid
+22.0,male,Neutral,Strongly disagree,Disagree,Strongly agree,Agree,Strongly disagree,Agree,Neutral,Disagree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Not afraid,Not afraid
+18.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Slightly afraid,Not afraid,Very much afraid,Slightly afraid,Not afraid,Very much afraid
+22.0,female,,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly agree,Strongly agree,Disagree,Disagree,afraid,Very afraid,Very much afraid,afraid,afraid,afraid
+19.0,female,Strongly agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Neutral,Neutral,Strongly agree,Strongly agree,Not afraid,Not afraid,Not afraid,afraid,Not afraid,Very afraid
+22.0,male,Agree,Strongly agree,Strongly agree,Strongly agree,Neutral,Neutral,Disagree,Neutral,Neutral,Slightly afraid,afraid,Very afraid,Very much afraid,Not afraid,afraid
+24.0,male,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Very afraid,Very afraid,Very afraid,Very afraid,afraid,Very much afraid
+18.0,female,Strongly agree,,Strongly disagree,Disagree,Agree,Strongly disagree,Agree,Agree,Agree,Not afraid,Slightly afraid,Slightly afraid,Not afraid,Very much afraid,Slightly afraid
+21.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Very much afraid,Slightly afraid,Slightly afraid,Very afraid,Not afraid,Very much afraid
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Disagree,Neutral,Neutral,afraid,afraid,Slightly afraid,afraid,Very afraid,afraid
+19.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Slightly afraid,afraid,Not afraid,afraid,Very much afraid,afraid
+18.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Not afraid,afraid,Not afraid,Not afraid,Very much afraid,Not afraid
+19.0,female,Agree,Neutral,Neutral,Disagree,Disagree,Disagree,Strongly disagree,Agree,Neutral,Slightly afraid,Not afraid,Slightly afraid,Not afraid,Not afraid,Slightly afraid
+24.0,male,Disagree,Agree,Agree,Strongly agree,Neutral,Strongly disagree,Disagree,Strongly agree,Neutral,Very much afraid,Very afraid,Slightly afraid,Very afraid,Not afraid,Not afraid
+21.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,,Disagree,Neutral,Disagree,Not afraid,Not afraid,Not afraid,Very afraid,Not afraid,afraid
+21.0,male,Agree,Strongly disagree,Disagree,Strongly agree,Disagree,Strongly disagree,Disagree,Strongly agree,Agree,Not afraid,Slightly afraid,Slightly afraid,Not afraid,Very afraid,Slightly afraid
+19.0,male,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Very much afraid
+19.0,male,Neutral,Agree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Not afraid,Not afraid,Slightly afraid,afraid,Not afraid,Slightly afraid
+22.0,male,Strongly disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Not afraid,Not afraid,Not afraid,afraid,afraid,Not afraid
+18.0,female,Neutral,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Slightly afraid,Slightly afraid,afraid,afraid,Slightly afraid,Very afraid
+21.0,female,Neutral,Disagree,Neutral,Strongly agree,Disagree,Strongly agree,Strongly disagree,Disagree,Strongly disagree,afraid,Very afraid,afraid,Very much afraid,Not afraid,afraid
+18.0,male,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Slightly afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,afraid
+20.0,female,Strongly agree,Agree,Agree,Agree,Disagree,Strongly agree,Agree,Strongly agree,Strongly agree,Not afraid,Slightly afraid,Very afraid,Not afraid,Slightly afraid,afraid
+22.0,male,Strongly agree,Disagree,Disagree,Strongly agree,Disagree,Disagree,Agree,Strongly agree,Agree,Not afraid,Not afraid,Not afraid,Not afraid,Very afraid,Not afraid
+21.0,male,Strongly agree,Disagree,Disagree,Neutral,Agree,Disagree,Strongly agree,Agree,Agree,Not afraid,Not afraid,Not afraid,afraid,Not afraid,Not afraid
+24.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Not afraid,Slightly afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid
+19.0,male,Agree,Neutral,Strongly disagree,Agree,Strongly agree,Strongly disagree,Disagree,Neutral,Agree,Slightly afraid,Not afraid,Not afraid,Not afraid,afraid,afraid
+18.0,female,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Strongly agree,Disagree,Disagree,Disagree,Very afraid,Slightly afraid,Very much afraid,Not afraid,Not afraid,Not afraid
+17.0,female,Strongly disagree,Neutral,Disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Not afraid,Not afraid,Slightly afraid,Very afraid,Very much afraid,Slightly afraid
+18.0,male,Neutral,Disagree,Disagree,Strongly agree,Agree,Neutral,Disagree,Disagree,Neutral,afraid,Not afraid,afraid,Slightly afraid,Not afraid,Very afraid
+21.0,male,Neutral,Disagree,Neutral,Disagree,Disagree,Neutral,Strongly disagree,Strongly agree,Agree,Not afraid,Not afraid,Slightly afraid,Very afraid,Slightly afraid,Slightly afraid
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Neutral,Agree,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Not afraid,Very much afraid
+20.0,female,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Neutral,Neutral,Slightly afraid,Very afraid,afraid,Not afraid,Slightly afraid,afraid
+21.0,female,Disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Not afraid,Not afraid,afraid,,Not afraid,Not afraid
+19.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Neutral,Strongly disagree,Neutral,Neutral,Not afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,Very much afraid
+17.0,female,Disagree,Strongly disagree,Neutral,Neutral,Disagree,Agree,Disagree,Agree,Strongly agree,Not afraid,Not afraid,Very afraid,Very much afraid,Very much afraid,Slightly afraid
+21.0,female,Disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Very afraid,Slightly afraid,Very much afraid,Very much afraid,afraid,Very afraid
+18.0,female,Disagree,Strongly agree,Disagree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,afraid,Not afraid,Slightly afraid,Very afraid,Slightly afraid,Very afraid
+23.0,male,Neutral,Agree,Disagree,Agree,Disagree,Disagree,Strongly disagree,Agree,Disagree,Slightly afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid
+16.0,female,Agree,Agree,Disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Agree,Agree,Very afraid,Slightly afraid,Not afraid,Slightly afraid,Not afraid,afraid
+23.0,male,Strongly agree,Strongly agree,Strongly agree,Agree,Strongly agree,Neutral,Neutral,Strongly agree,Neutral,Not afraid,Not afraid,Slightly afraid,Not afraid,Not afraid,Slightly afraid
+21.0,male,Strongly disagree,Agree,Neutral,Agree,Neutral,Neutral,Agree,Strongly disagree,Neutral,Not afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid,afraid
+23.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Very afraid,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid
+20.0,female,Disagree,Strongly disagree,Neutral,Neutral,Disagree,Neutral,Neutral,Neutral,Neutral,Slightly afraid,Slightly afraid,Not afraid,Not afraid,afraid,Very afraid
+20.0,male,Agree,Strongly disagree,Neutral,Strongly agree,Neutral,Agree,Agree,Agree,Agree,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Not afraid
+20.0,female,Agree,Disagree,Disagree,Disagree,Disagree,Neutral,Neutral,Disagree,Agree,afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very afraid,afraid
+20.0,female,Strongly agree,Disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Very afraid,afraid,Very much afraid,Very afraid,Very afraid,afraid
+19.0,female,Agree,Neutral,Disagree,Agree,Neutral,Neutral,Disagree,Strongly agree,Agree,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very afraid,Slightly afraid
+15.0,female,Agree,Neutral,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Not afraid,Not afraid,Not afraid,afraid,Very much afraid,Very much afraid
+20.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Disagree,Disagree,Neutral,Slightly afraid,Very afraid,Very afraid,Slightly afraid,afraid,afraid
+19.0,female,Strongly agree,Disagree,Strongly disagree,Agree,Agree,Disagree,Strongly agree,Strongly agree,Neutral,Not afraid,Not afraid,afraid,Not afraid,Very much afraid,afraid
+18.0,male,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Not afraid,Slightly afraid,afraid,Very afraid,Not afraid,Slightly afraid
+15.0,female,Strongly disagree,Agree,Strongly disagree,Neutral,Disagree,Neutral,Disagree,Strongly agree,Strongly agree,Not afraid,Not afraid,Slightly afraid,Not afraid,afraid,Very afraid
+20.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,afraid,afraid,Very much afraid,Very afraid,Slightly afraid,Slightly afraid
+16.0,female,Neutral,Strongly disagree,Disagree,Neutral,Neutral,Agree,Neutral,Neutral,Neutral,afraid,afraid,afraid,afraid,Very much afraid,Very much afraid
+18.0,male,Strongly agree,Neutral,Disagree,Agree,Strongly disagree,Disagree,Strongly agree,Agree,Disagree,Very afraid,Very afraid,Very much afraid,Very much afraid,afraid,Not afraid
+21.0,male,Agree,Disagree,Agree,Agree,Neutral,Strongly agree,Disagree,Neutral,Disagree,Not afraid,Not afraid,Slightly afraid,Very afraid,Not afraid,Slightly afraid
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Neutral,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,afraid
+19.0,female,Strongly disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Neutral,Very afraid,Very afraid,Very afraid,Very afraid,Very afraid,Slightly afraid
+19.0,female,Strongly agree,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Neutral,Agree,Slightly afraid,Slightly afraid,Slightly afraid,Very much afraid,Slightly afraid,afraid
+19.0,female,Neutral,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Not afraid,Slightly afraid,Very afraid,Very much afraid,Very much afraid,Not afraid
+,male,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Agree,Strongly disagree,Disagree,Agree,Disagree,afraid,afraid,Not afraid,Very afraid,Very afraid,afraid
+20.0,female,,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Slightly afraid,afraid,Very afraid,Very much afraid,Very afraid,Very afraid
+21.0,male,Neutral,Strongly disagree,Agree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Very much afraid
+19.0,female,Disagree,Strongly disagree,,Disagree,Strongly disagree,Agree,Disagree,Neutral,Agree,Slightly afraid,afraid,Very afraid,afraid,afraid,afraid
+21.0,male,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Strongly agree,Agree,Neutral,Not afraid,Not afraid,Not afraid,afraid,Not afraid,Slightly afraid
+18.0,male,Agree,Strongly agree,Strongly agree,Agree,Disagree,Disagree,Disagree,Strongly agree,Disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid,Very afraid
+20.0,male,Neutral,Agree,Agree,Strongly agree,Neutral,Neutral,Neutral,Agree,Agree,Not afraid,Slightly afraid,Slightly afraid,afraid,Slightly afraid,afraid
+19.0,male,Disagree,Strongly agree,Strongly agree,Strongly agree,Neutral,Disagree,Strongly disagree,Neutral,Neutral,Not afraid,Not afraid,Slightly afraid,afraid,Slightly afraid,Very afraid
+22.0,female,Disagree,Neutral,Neutral,Agree,Strongly agree,Disagree,Strongly disagree,Agree,Neutral,Slightly afraid,Not afraid,Slightly afraid,Not afraid,afraid,afraid
+20.0,male,Agree,Disagree,Disagree,Neutral,Strongly disagree,Neutral,Disagree,Agree,Agree,afraid,Slightly afraid,Not afraid,Very afraid,Slightly afraid,Very afraid
+25.0,male,Strongly agree,Disagree,Strongly disagree,Disagree,Strongly agree,Strongly agree,Neutral,Neutral,Strongly agree,Very much afraid,Not afraid,afraid,afraid,Very much afraid,Not afraid
+21.0,female,Strongly agree,Strongly disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Neutral,Not afraid,afraid,Slightly afraid,afraid,Very afraid,afraid
+24.0,male,Strongly agree,Neutral,Agree,Strongly agree,Strongly agree,Disagree,Agree,Strongly agree,Strongly disagree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,afraid
+19.0,female,Agree,Neutral,Disagree,Disagree,Strongly disagree,Agree,Strongly agree,Neutral,Strongly agree,Not afraid,Not afraid,Very much afraid,Not afraid,afraid,afraid
+25.0,male,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Disagree,Not afraid,Not afraid,Not afraid,Very much afraid,Not afraid,Slightly afraid
+26.0,male,Neutral,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Neutral,Agree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid
+15.0,female,Strongly disagree,Neutral,Disagree,Neutral,Strongly disagree,Disagree,Strongly disagree,Agree,Disagree,afraid,afraid,Slightly afraid,Not afraid,afraid,Very afraid
+20.0,male,Agree,Neutral,Disagree,Neutral,Agree,Neutral,Neutral,Strongly agree,Agree,Slightly afraid,Slightly afraid,afraid,Very afraid,Slightly afraid,Slightly afraid
+19.0,male,Agree,Strongly agree,Agree,Agree,Strongly agree,Strongly disagree,Disagree,Strongly agree,Neutral,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Agree,Strongly disagree,Disagree,Disagree,Not afraid,Slightly afraid,Not afraid,Not afraid,Very much afraid,afraid
+21.0,male,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Neutral,Strongly agree,Neutral,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid
+22.0,male,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Strongly disagree,Disagree,Strongly agree,afraid,afraid,Slightly afraid,Very afraid,Slightly afraid,Very afraid
+20.0,male,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Slightly afraid,Not afraid,afraid,Slightly afraid,Very afraid,Very afraid
+20.0,female,Neutral,Disagree,Strongly disagree,Agree,Agree,Disagree,Strongly agree,Agree,Agree,afraid,Slightly afraid,Slightly afraid,Very afraid,Very afraid,Very afraid
+21.0,female,Disagree,Disagree,Disagree,Disagree,Neutral,Disagree,Strongly disagree,Neutral,Disagree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,Not afraid
+21.0,male,Neutral,Strongly disagree,Disagree,Neutral,Neutral,Disagree,Disagree,Neutral,Neutral,afraid,afraid,Very afraid,Very afraid,afraid,Very afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Neutral,Agree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid
+19.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Disagree,Not afraid,Slightly afraid,Not afraid,Not afraid,Not afraid,afraid
+19.0,male,Strongly agree,Strongly agree,Neutral,Strongly disagree,Strongly agree,Agree,Agree,Strongly agree,Agree,Slightly afraid,Slightly afraid,Very afraid,afraid,afraid,Slightly afraid
+20.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Neutral,Agree,Not afraid,Not afraid,Not afraid,Not afraid,afraid,Not afraid
+22.0,male,Strongly agree,Neutral,Neutral,Strongly agree,Disagree,Disagree,Neutral,Strongly agree,Agree,afraid,Not afraid,afraid,Slightly afraid,Very afraid,Very much afraid
+21.0,male,Neutral,Agree,Disagree,Strongly agree,Disagree,Disagree,Strongly disagree,Disagree,Disagree,Not afraid,Not afraid,Slightly afraid,afraid,Slightly afraid,Very afraid
+26.0,male,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,,Neutral,Neutral,Strongly agree,Strongly disagree,Not afraid,Very much afraid,Very much afraid,Very much afraid,Very much afraid,
+17.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Slightly afraid,Not afraid,Very afraid,Not afraid,Very afraid,afraid
+22.0,male,Strongly disagree,Strongly agree,Agree,Strongly agree,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Slightly afraid,Not afraid,Not afraid,afraid,Not afraid,Not afraid
+26.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,,Neutral,afraid,Not afraid,Slightly afraid,,Very much afraid,afraid
+20.0,female,Agree,Neutral,Neutral,Neutral,Strongly disagree,Neutral,Strongly disagree,Neutral,Agree,Slightly afraid,Slightly afraid,Slightly afraid,Very afraid,Very much afraid,afraid
+22.0,male,Strongly agree,Disagree,Disagree,Neutral,Disagree,Neutral,Neutral,Disagree,Strongly agree,Slightly afraid,Slightly afraid,Very afraid,Slightly afraid,afraid,Slightly afraid
+21.0,male,Agree,Agree,Neutral,Neutral,Strongly agree,Strongly disagree,Strongly disagree,Agree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+23.0,male,Agree,Disagree,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Agree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid
+19.0,female,Neutral,Disagree,Disagree,Disagree,Disagree,Strongly agree,Disagree,Disagree,Disagree,Slightly afraid,afraid,Slightly afraid,Not afraid,Not afraid,afraid
+20.0,male,Strongly agree,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Strongly agree,Strongly agree,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,Not afraid
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,afraid,Very much afraid,Not afraid,afraid,Very afraid,afraid
+19.0,female,Disagree,Strongly agree,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Not afraid,Very much afraid,Not afraid,Not afraid,afraid,Slightly afraid
+29.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Disagree,Neutral,Neutral,Slightly afraid,afraid,afraid,Slightly afraid,Very afraid,afraid
+22.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Slightly afraid,Not afraid,Not afraid,Not afraid,Not afraid,afraid
+19.0,female,Agree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Neutral,Agree,Strongly disagree,afraid,afraid,Very afraid,Not afraid,,Very afraid
+17.0,female,Agree,Neutral,Strongly disagree,Neutral,Neutral,Strongly disagree,Disagree,Disagree,Neutral,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very much afraid
+16.0,female,Neutral,Strongly agree,Neutral,Agree,Neutral,Agree,Strongly disagree,Neutral,Neutral,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,afraid
+29.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Agree,afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Not afraid
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Agree,Strongly disagree,Disagree,Disagree,Neutral,Slightly afraid,Not afraid,Slightly afraid,Not afraid,Very afraid,afraid
+26.0,male,Neutral,Strongly disagree,Neutral,Disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Neutral,afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,afraid
+19.0,male,Disagree,Strongly disagree,Strongly disagree,Agree,Agree,Strongly disagree,Neutral,Neutral,Neutral,Slightly afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Not afraid
+19.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Neutral,Not afraid,Slightly afraid,afraid,Very afraid,afraid,afraid
+20.0,female,Agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Agree,Disagree,Agree,Agree,Slightly afraid,Slightly afraid,afraid,Slightly afraid,Slightly afraid,afraid
+22.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Not afraid,Very afraid,Very afraid,Slightly afraid,Slightly afraid,Very afraid
+20.0,male,Agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Not afraid,Very much afraid,Very much afraid,Very much afraid,afraid,Very afraid
+21.0,male,Disagree,Strongly disagree,Disagree,Neutral,,Strongly disagree,Strongly disagree,Neutral,Disagree,afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,afraid
+21.0,male,Neutral,Strongly disagree,Neutral,Strongly agree,Neutral,Disagree,Disagree,Agree,Disagree,afraid,Not afraid,Slightly afraid,afraid,Not afraid,Very afraid
+18.0,,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,Very afraid,afraid,afraid,afraid,afraid,Not afraid
+15.0,male,Disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Neutral,Strongly disagree,Neutral,Disagree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid
+19.0,female,Disagree,Neutral,Disagree,Agree,Neutral,Strongly agree,Neutral,Strongly disagree,Disagree,Not afraid,Not afraid,Not afraid,Very afraid,Very afraid,Very much afraid
+24.0,female,Strongly disagree,Agree,Neutral,Agree,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,Slightly afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Very afraid
+19.0,female,Strongly agree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Agree,afraid,Slightly afraid,Very afraid,Very much afraid,Not afraid,Very afraid
+25.0,male,Strongly agree,Agree,Agree,Agree,Disagree,Neutral,Strongly agree,Neutral,Neutral,afraid,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid,Not afraid
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Neutral,Strongly agree,Strongly agree,Disagree,Slightly afraid,afraid,afraid,Slightly afraid,Not afraid,afraid
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Neutral,Not afraid,Very much afraid,Very much afraid,Slightly afraid,Very afraid,Slightly afraid
+21.0,male,Agree,Agree,Neutral,Strongly agree,Neutral,Disagree,Agree,Strongly agree,Agree,Very afraid,afraid,Not afraid,Very afraid,Not afraid,Very much afraid
+23.0,male,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,Agree,Very afraid,Very afraid,Very much afraid,Very much afraid,Very much afraid,Very much afraid
+21.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Not afraid,Slightly afraid,Slightly afraid,Very much afraid,Very much afraid,Not afraid
+20.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Neutral,Agree,Agree,Neutral,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,afraid
+20.0,female,Neutral,Neutral,Agree,Agree,Agree,Strongly agree,Agree,Agree,Neutral,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid,Not afraid,afraid
+18.0,female,Agree,Neutral,Neutral,Neutral,Disagree,Strongly agree,Agree,Strongly agree,Neutral,afraid,Slightly afraid,Slightly afraid,afraid,afraid,afraid
+27.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,afraid,Not afraid,Not afraid,Not afraid,Very much afraid,Not afraid
+17.0,female,Neutral,Neutral,Agree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Neutral,Not afraid,Not afraid,Not afraid,afraid,afraid,Not afraid
+19.0,female,Disagree,Disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Disagree,Strongly agree,Neutral,afraid,afraid,Slightly afraid,Very afraid,afraid,Not afraid
+18.0,male,Disagree,Disagree,Agree,Agree,Disagree,Strongly agree,Neutral,Neutral,Strongly disagree,Not afraid,Not afraid,Not afraid,afraid,Very afraid,Slightly afraid
+26.0,male,Strongly agree,Strongly disagree,Disagree,Neutral,Neutral,Strongly disagree,Neutral,Strongly agree,Neutral,Not afraid,Not afraid,Not afraid,afraid,afraid,Not afraid
+18.0,male,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Neutral,Disagree,Strongly disagree,Neutral,Not afraid,afraid,Slightly afraid,Slightly afraid,Not afraid,afraid
+30.0,male,Neutral,Agree,Agree,Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Agree,Not afraid,Slightly afraid,Not afraid,Not afraid,Not afraid,afraid
+24.0,female,Disagree,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Not afraid,Slightly afraid,Not afraid,Slightly afraid,afraid,Very much afraid
+20.0,female,Agree,Neutral,Disagree,Neutral,Disagree,Disagree,Disagree,Neutral,Strongly agree,Very afraid,Slightly afraid,Not afraid,afraid,Very much afraid,Slightly afraid
+20.0,male,Disagree,Strongly disagree,Neutral,Agree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid,afraid
+20.0,male,Neutral,Agree,Agree,Agree,Agree,Neutral,Disagree,Agree,Neutral,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid
+25.0,,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Very much afraid,Very much afraid,afraid,Very much afraid,Very much afraid,Very much afraid
+19.0,female,Strongly agree,Neutral,Agree,Agree,Disagree,Agree,Neutral,Strongly agree,Agree,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid,afraid
+20.0,female,Neutral,Neutral,Neutral,Neutral,Neutral,Agree,Disagree,Neutral,Neutral,afraid,afraid,afraid,Very afraid,afraid,afraid
+21.0,male,Disagree,Agree,Disagree,Strongly agree,Disagree,Disagree,Disagree,Strongly agree,Strongly disagree,Not afraid,Not afraid,Not afraid,Not afraid,afraid,Slightly afraid
+19.0,female,Agree,Neutral,Strongly disagree,Disagree,Strongly agree,Disagree,Strongly disagree,Agree,Agree,Slightly afraid,afraid,afraid,Slightly afraid,afraid,Slightly afraid
+19.0,female,Disagree,Disagree,Strongly disagree,Neutral,Agree,Agree,Agree,Agree,Agree,afraid,Slightly afraid,Not afraid,Slightly afraid,afraid,Slightly afraid
+19.0,female,Strongly disagree,Agree,Strongly disagree,Agree,Strongly agree,Strongly disagree,Neutral,Strongly agree,Disagree,Not afraid,Not afraid,Slightly afraid,Not afraid,Very much afraid,Very much afraid
+18.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Neutral,Disagree,Strongly disagree,Agree,Slightly afraid,Not afraid,,Very afraid,Very much afraid,afraid
+18.0,female,Strongly disagree,Strongly agree,Agree,Disagree,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Slightly afraid,Not afraid,afraid,Not afraid,Not afraid,Very afraid
+16.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Strongly agree,Not afraid,Not afraid,Slightly afraid,Not afraid,Not afraid,Slightly afraid
+19.0,female,Strongly agree,Neutral,Disagree,Neutral,Disagree,Disagree,Strongly agree,Disagree,Agree,Not afraid,afraid,Very afraid,Very much afraid,Very much afraid,Not afraid
+18.0,female,Disagree,Agree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Strongly agree,Disagree,Not afraid,Not afraid,Very much afraid,Not afraid,afraid,Very much afraid
+19.0,female,Disagree,Disagree,Disagree,Disagree,Agree,Strongly disagree,Strongly disagree,Disagree,Neutral,afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid
+21.0,female,Agree,Strongly disagree,Disagree,Strongly disagree,Neutral,Disagree,Neutral,Agree,Disagree,Very much afraid,Very afraid,afraid,Very afraid,Very much afraid,Very afraid
+21.0,male,Neutral,Disagree,Disagree,Strongly agree,Agree,Disagree,Agree,Neutral,Neutral,Slightly afraid,afraid,Slightly afraid,afraid,Very much afraid,Slightly afraid
+18.0,female,Neutral,Agree,Strongly agree,Neutral,Strongly disagree,Neutral,Strongly agree,Disagree,Agree,Slightly afraid,Very afraid,Very much afraid,Slightly afraid,afraid,Very afraid
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Agree,Disagree,Disagree,Strongly disagree,Neutral,Slightly afraid,Slightly afraid,Slightly afraid,Very afraid,Slightly afraid,Not afraid
+17.0,female,Agree,Agree,Strongly disagree,Neutral,Disagree,Strongly agree,Strongly disagree,Disagree,Strongly agree,afraid,Not afraid,Slightly afraid,Very afraid,Not afraid,Very afraid
+20.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Very much afraid,afraid,afraid,Slightly afraid,afraid,Very afraid
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Slightly afraid,Slightly afraid,Not afraid,Very afraid,Very much afraid,Slightly afraid
+27.0,male,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,Strongly disagree,Strongly agree,Disagree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Very much afraid,Not afraid
+22.0,female,Neutral,Strongly disagree,Disagree,Strongly disagree,Neutral,Strongly agree,Neutral,Strongly agree,Disagree,Not afraid,Slightly afraid,Very afraid,Very afraid,Very much afraid,afraid
+19.0,female,Strongly agree,Disagree,Disagree,Disagree,Neutral,Neutral,Strongly agree,Disagree,Strongly agree,Not afraid,Not afraid,afraid,Not afraid,Very afraid,Very afraid
+19.0,female,Agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Agree,afraid,Not afraid,Not afraid,Not afraid,afraid,Very much afraid
+20.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,afraid,Very much afraid,Very afraid,Slightly afraid,afraid,Slightly afraid
+19.0,female,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree,Agree,Strongly disagree,Strongly disagree,Disagree,afraid,afraid,Not afraid,Very much afraid,Slightly afraid,afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Disagree,Disagree,Strongly disagree,Neutral,Agree,Very much afraid,afraid,afraid,Slightly afraid,afraid,Slightly afraid
+17.0,female,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Neutral,afraid,Slightly afraid,Not afraid,afraid,Not afraid,Slightly afraid
+23.0,female,Disagree,Disagree,Strongly disagree,Neutral,Agree,Strongly agree,Neutral,Strongly disagree,Agree,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Not afraid
+20.0,female,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Agree,Strongly disagree,Neutral,Strongly agree,Not afraid,Slightly afraid,Not afraid,Very afraid,Not afraid,afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Neutral,Disagree,Disagree,Not afraid,afraid,afraid,Not afraid,Very much afraid,afraid
+19.0,male,Agree,Strongly agree,Neutral,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,afraid,Not afraid,Not afraid,Very afraid,afraid,afraid
+20.0,female,Disagree,Agree,Agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Not afraid,Not afraid,Very afraid,Very afraid,Slightly afraid,Very much afraid
+19.0,male,Strongly agree,Strongly disagree,Disagree,Disagree,Disagree,Neutral,Agree,Agree,Agree,Not afraid,Not afraid,Not afraid,afraid,Not afraid,Not afraid
+19.0,male,Neutral,Strongly disagree,Neutral,Neutral,Neutral,Neutral,Neutral,,Neutral,afraid,afraid,afraid,afraid,afraid,afraid
+18.0,female,Neutral,Agree,Disagree,Strongly agree,Strongly agree,Strongly disagree,Agree,Strongly disagree,Disagree,Slightly afraid,Not afraid,afraid,afraid,Very much afraid,afraid
+19.0,female,Neutral,Neutral,Disagree,Neutral,Disagree,Neutral,Neutral,,Strongly agree,afraid,Slightly afraid,Not afraid,Slightly afraid,Not afraid,Very afraid
+15.0,female,Strongly disagree,Neutral,Disagree,Disagree,Neutral,Disagree,Agree,Neutral,Agree,Not afraid,Not afraid,Very afraid,Slightly afraid,Not afraid,Not afraid
+19.0,female,Disagree,Disagree,Disagree,Strongly agree,Disagree,Strongly agree,Neutral,Disagree,Disagree,afraid,,Not afraid,afraid,afraid,Very much afraid
+15.0,female,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Not afraid,Slightly afraid,afraid,Not afraid,Not afraid,afraid
+19.0,female,Neutral,Agree,Neutral,Agree,Agree,Disagree,Strongly disagree,Strongly agree,Neutral,Not afraid,Very much afraid,Very afraid,Not afraid,Not afraid,afraid
+21.0,female,Agree,Neutral,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,Agree,Not afraid,Not afraid,Not afraid,afraid,Not afraid,Not afraid
+19.0,female,Strongly disagree,Strongly agree,Neutral,Disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Disagree,Not afraid,Slightly afraid,Very afraid,Slightly afraid,Very much afraid,afraid
+17.0,female,Neutral,Disagree,Disagree,Disagree,Strongly disagree,Strongly agree,Agree,Neutral,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid
+23.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Disagree,Disagree,Disagree,Agree,Strongly agree,Slightly afraid,Very afraid,Very afraid,Very much afraid,Very much afraid,Very afraid
+24.0,male,Agree,Disagree,Strongly disagree,Agree,Disagree,Disagree,Disagree,Neutral,Strongly disagree,afraid,afraid,afraid,Not afraid,Very afraid,Very afraid
+19.0,female,Neutral,Neutral,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Agree,Not afraid,Not afraid,afraid,Slightly afraid,Very much afraid,Very afraid
+19.0,female,Neutral,Disagree,Strongly disagree,Agree,Agree,Neutral,Agree,Agree,Agree,Slightly afraid,Slightly afraid,afraid,Not afraid,afraid,Slightly afraid
+22.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Strongly agree,Disagree,Strongly agree,Not afraid,afraid,Very much afraid,Very much afraid,Very much afraid,Slightly afraid
+20.0,female,Strongly agree,Disagree,Disagree,Strongly agree,Neutral,Disagree,Neutral,Neutral,Strongly agree,Not afraid,Not afraid,afraid,Very much afraid,afraid,Slightly afraid
+21.0,female,Agree,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+19.0,male,Strongly agree,Disagree,Disagree,Strongly agree,Agree,Disagree,Agree,Disagree,Neutral,Slightly afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Not afraid
+19.0,male,Agree,Neutral,Neutral,Neutral,Disagree,Neutral,Disagree,Strongly agree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,afraid,afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Very afraid,Slightly afraid,Very afraid,Very much afraid,Very much afraid,Not afraid
+18.0,female,Neutral,Strongly disagree,Disagree,Disagree,Disagree,Neutral,Disagree,Strongly disagree,Agree,afraid,Slightly afraid,afraid,Not afraid,Not afraid,Not afraid
+19.0,male,Disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Agree,Neutral,Not afraid,Not afraid,Slightly afraid,Very much afraid,afraid,afraid
+20.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,afraid,Very afraid,afraid,afraid,afraid,Very much afraid
+22.0,male,Disagree,Strongly agree,Neutral,Strongly agree,Agree,Neutral,Disagree,Neutral,Disagree,Not afraid,Very afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid
+20.0,male,Disagree,Agree,Strongly disagree,Agree,Strongly agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Not afraid,Not afraid,Not afraid,Very afraid,Not afraid,afraid
+20.0,female,Disagree,Disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Strongly disagree,Disagree,Neutral,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,afraid
+27.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Disagree,Disagree,Disagree,Neutral,Agree,Very much afraid,Very much afraid,afraid,afraid,afraid,afraid
+19.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Agree,Neutral,Disagree,Agree,Neutral,Slightly afraid,Slightly afraid,afraid,afraid,Very afraid,afraid
+22.0,male,Disagree,Strongly disagree,Neutral,Agree,Neutral,Disagree,Disagree,Neutral,Disagree,Not afraid,Very afraid,Not afraid,Slightly afraid,Slightly afraid,Not afraid
+19.0,male,Strongly agree,Strongly disagree,Disagree,Agree,Agree,Neutral,Strongly agree,Agree,Disagree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid
+20.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Very afraid,Slightly afraid
+20.0,male,Agree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Neutral,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Very afraid
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Disagree,Agree,Agree,Slightly afraid,Slightly afraid,Not afraid,Not afraid,Very afraid,Not afraid
+16.0,female,Agree,Strongly agree,Strongly agree,Agree,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Not afraid,Not afraid,Very afraid,Not afraid,afraid,Very much afraid
+19.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Agree,Agree,Strongly agree,Not afraid,Not afraid,afraid,Not afraid,Slightly afraid,Very afraid
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Disagree,Agree,Neutral,Very afraid,Slightly afraid,afraid,Very afraid,Very afraid,Very afraid
+23.0,male,Agree,Agree,Neutral,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid,Not afraid
+19.0,male,Strongly disagree,Neutral,Neutral,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Agree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly agree,Not afraid,Slightly afraid,Very much afraid,Very much afraid,Very afraid,Very much afraid
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Neutral,Neutral,Disagree,Disagree,Agree,afraid,Slightly afraid,Very afraid,afraid,Very much afraid,Very much afraid
+18.0,female,Neutral,Neutral,Disagree,Neutral,Disagree,Neutral,Disagree,Disagree,Agree,Not afraid,Not afraid,Not afraid,Not afraid,afraid,Slightly afraid
+20.0,male,Strongly agree,Disagree,Agree,Agree,Strongly disagree,Disagree,Disagree,Agree,Strongly agree,Slightly afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,afraid
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Agree,Neutral,Agree,Disagree,Agree,afraid,Very much afraid,afraid,Not afraid,Very much afraid,Very afraid
+25.0,female,Agree,Strongly agree,Disagree,Agree,Strongly agree,Neutral,Neutral,Agree,Disagree,Very much afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Not afraid
+18.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Disagree,Agree,Disagree,Strongly agree,Not afraid,Not afraid,Slightly afraid,afraid,Very afraid,Not afraid
+20.0,female,Strongly agree,Agree,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Agree,Strongly agree,Very much afraid,Very afraid,afraid,Very much afraid,afraid,afraid
+15.0,female,Neutral,Agree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Neutral,Strongly agree,Agree,afraid,afraid,Slightly afraid,Very much afraid,Not afraid,Very afraid
+19.0,female,Disagree,Strongly agree,Neutral,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Disagree,Not afraid,Very much afraid,Slightly afraid,Not afraid,Not afraid,Very afraid
+19.0,female,Neutral,Disagree,Disagree,Neutral,Neutral,Agree,Agree,Agree,Agree,afraid,afraid,afraid,Very afraid,Very much afraid,Slightly afraid
+16.0,female,Disagree,Neutral,Neutral,Neutral,Strongly disagree,Disagree,Strongly disagree,Disagree,Neutral,Not afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid,afraid
+19.0,male,Strongly disagree,Disagree,Disagree,Agree,Disagree,Strongly agree,Strongly disagree,Disagree,Strongly disagree,afraid,Not afraid,Slightly afraid,Not afraid,Not afraid,Slightly afraid
+18.0,female,Strongly agree,Neutral,Strongly disagree,Neutral,Strongly agree,Disagree,Disagree,Strongly agree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,afraid,Slightly afraid
+15.0,male,Disagree,Disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,afraid,Not afraid,Slightly afraid,afraid,Not afraid,afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Agree,afraid,Slightly afraid,Not afraid,Not afraid,Not afraid,afraid
+20.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Disagree,Neutral,Neutral,Strongly agree,Agree,Slightly afraid,Not afraid,Not afraid,afraid,afraid,Slightly afraid
+20.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Agree,Strongly disagree,Strongly disagree,Agree,Disagree,Not afraid,Not afraid,Not afraid,Not afraid,afraid,Very afraid
+20.0,female,Neutral,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Disagree,Disagree,Not afraid,afraid,afraid,Slightly afraid,afraid,afraid
+19.0,male,Strongly disagree,Neutral,Neutral,Agree,Disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Very much afraid,Not afraid,Not afraid,Not afraid,Not afraid,afraid
+16.0,female,Neutral,Neutral,Strongly disagree,Agree,Neutral,Strongly agree,Disagree,Disagree,Strongly agree,Very much afraid,Very much afraid,Very much afraid,Very much afraid,afraid,afraid
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Agree,Disagree,Disagree,Agree,Strongly agree,Slightly afraid,Not afraid,Slightly afraid,Very afraid,Not afraid,Very much afraid
+20.0,male,Strongly agree,Neutral,Neutral,Strongly agree,,Disagree,Disagree,Disagree,Disagree,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very much afraid
+16.0,female,Agree,Strongly disagree,Strongly disagree,,Strongly disagree,Strongly agree,Neutral,Disagree,Strongly agree,afraid,afraid,afraid,afraid,afraid,Slightly afraid
+18.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly agree,Strongly agree,Disagree,afraid,afraid,afraid,Slightly afraid,Very afraid,Not afraid
+20.0,male,Disagree,Neutral,Neutral,Agree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Agree,Not afraid,Not afraid,afraid,Slightly afraid,Slightly afraid,Very afraid
+18.0,female,Strongly disagree,Disagree,Disagree,Neutral,Agree,Agree,Disagree,Neutral,Disagree,afraid,Slightly afraid,Slightly afraid,Not afraid,afraid,Very much afraid
+19.0,male,Strongly agree,Strongly disagree,Neutral,Neutral,Neutral,Strongly agree,Disagree,Strongly agree,Neutral,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very afraid
+19.0,female,Agree,Agree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Disagree,Neutral,Agree,Slightly afraid,Very afraid,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid
+20.0,female,Neutral,Disagree,Strongly disagree,Strongly agree,Strongly agree,Disagree,Disagree,Agree,Neutral,Very much afraid,Very afraid,Slightly afraid,Very afraid,Not afraid,afraid
+18.0,male,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Neutral,Strongly agree,Strongly agree,Very much afraid,Not afraid,Not afraid,Very afraid,afraid,afraid
+17.0,female,Neutral,Disagree,Strongly disagree,Agree,Agree,Disagree,Strongly disagree,Disagree,Disagree,afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very afraid,afraid
+22.0,female,Agree,Strongly disagree,Disagree,Neutral,Strongly disagree,,Strongly disagree,Neutral,Neutral,afraid,Very much afraid,Very afraid,afraid,Very afraid,Very much afraid
+17.0,male,Disagree,Neutral,Strongly agree,Disagree,Strongly disagree,Strongly agree,Disagree,Neutral,Neutral,Not afraid,Not afraid,Slightly afraid,Not afraid,Not afraid,Slightly afraid
+22.0,female,Neutral,Agree,Agree,Disagree,Strongly disagree,Strongly agree,Disagree,Neutral,Neutral,Very much afraid,Very much afraid,Very afraid,afraid,Very much afraid,Not afraid
+16.0,female,Strongly agree,Neutral,Disagree,Neutral,Disagree,Neutral,Disagree,Strongly agree,Neutral,afraid,Not afraid,Not afraid,Very afraid,Not afraid,Slightly afraid
+24.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Neutral,Disagree,Disagree,Strongly agree,Agree,afraid,Slightly afraid,Not afraid,Not afraid,Very afraid,afraid
+17.0,male,Strongly agree,Neutral,Disagree,Strongly agree,Agree,Disagree,Disagree,Disagree,Disagree,Not afraid,Not afraid,Not afraid,afraid,Not afraid,Slightly afraid
+17.0,male,Strongly disagree,Strongly agree,Strongly agree,Agree,Strongly disagree,Agree,Strongly disagree,Neutral,Strongly disagree,Very afraid,Not afraid,Not afraid,Very afraid,Not afraid,afraid
+17.0,male,Neutral,Agree,Strongly agree,Neutral,Strongly agree,Strongly disagree,Agree,Strongly disagree,Neutral,afraid,Not afraid,Not afraid,Very afraid,Not afraid,Slightly afraid
+15.0,female,Disagree,Neutral,Strongly disagree,Disagree,Agree,Strongly disagree,Disagree,Strongly disagree,Disagree,afraid,Very much afraid,Very much afraid,Very afraid,Very much afraid,Very much afraid
+18.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Disagree,Strongly agree,Strongly agree,Disagree,afraid,Very afraid,afraid,Slightly afraid,Very afraid,Not afraid
+18.0,female,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Agree,Neutral,Not afraid,Very afraid,Very afraid,Very afraid,afraid,Not afraid
+16.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Not afraid,Very afraid,Very afraid,Not afraid,Very much afraid,Slightly afraid
+20.0,female,Disagree,Agree,Neutral,Neutral,Agree,Strongly disagree,Strongly disagree,Agree,Neutral,Slightly afraid,Slightly afraid,afraid,Slightly afraid,Very afraid,afraid
+29.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Disagree,Disagree,Neutral,afraid,Very afraid,Very afraid,afraid,afraid,Very afraid
+24.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Very much afraid,Very afraid,afraid,Very much afraid,Not afraid,afraid
+18.0,female,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Agree,Neutral,Slightly afraid,Slightly afraid,afraid,afraid,Slightly afraid,afraid
+17.0,male,Strongly agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly agree,Not afraid,Slightly afraid,Slightly afraid,Not afraid,Not afraid,Not afraid
+18.0,male,Disagree,Disagree,Disagree,Strongly agree,Agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Very much afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very afraid,Very much afraid
+16.0,male,Neutral,Neutral,Neutral,Agree,Strongly disagree,Neutral,Strongly disagree,Agree,Disagree,Not afraid,Not afraid,Slightly afraid,Not afraid,Very afraid,Not afraid
+17.0,female,Neutral,Disagree,Strongly disagree,,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Not afraid,Very much afraid,Very afraid,Not afraid,afraid,Slightly afraid
+20.0,male,Disagree,Disagree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Not afraid,Not afraid,Not afraid,afraid,Slightly afraid,afraid
+16.0,female,Neutral,Strongly agree,Agree,Neutral,Disagree,Strongly agree,Disagree,Agree,Neutral,Not afraid,Slightly afraid,Very afraid,Slightly afraid,Slightly afraid,Very afraid
+19.0,male,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Strongly disagree,afraid,afraid,afraid,afraid,Not afraid,afraid
+18.0,female,Agree,Disagree,Disagree,Disagree,Agree,Disagree,Agree,Agree,Agree,Slightly afraid,Not afraid,afraid,Slightly afraid,Slightly afraid,afraid
+20.0,female,Neutral,Agree,Agree,Neutral,Agree,Neutral,Neutral,Neutral,Agree,Not afraid,Not afraid,afraid,afraid,afraid,Slightly afraid
+19.0,male,Agree,Agree,Disagree,Strongly agree,Agree,Disagree,Agree,Neutral,Disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+18.0,male,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Disagree,Agree,Disagree,Not afraid,Not afraid,Not afraid,Very afraid,Slightly afraid,Slightly afraid
+21.0,male,Strongly disagree,Neutral,Disagree,Neutral,Disagree,Neutral,Disagree,Strongly disagree,Neutral,Not afraid,Not afraid,Not afraid,Very much afraid,afraid,Slightly afraid
+19.0,male,Strongly agree,Disagree,Disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Disagree,afraid,Not afraid,afraid,Very much afraid,afraid,Very afraid
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Disagree,Very much afraid,Not afraid,afraid,afraid,afraid,Very afraid
+23.0,female,Agree,Strongly agree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Very afraid,Not afraid,Slightly afraid,afraid,Very much afraid,Very much afraid
+19.0,female,Agree,Strongly disagree,Disagree,Strongly agree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Slightly afraid,Slightly afraid,Very afraid,Not afraid,Very much afraid,Not afraid
+19.0,female,Strongly agree,Strongly disagree,,Neutral,Disagree,Neutral,Disagree,Neutral,Agree,Not afraid,Not afraid,Not afraid,Very afraid,Slightly afraid,Very afraid
+19.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Agree,Agree,Not afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Very afraid
+20.0,male,Neutral,Disagree,Strongly disagree,Agree,Strongly agree,Strongly disagree,Strongly disagree,Agree,Neutral,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,afraid
+24.0,male,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Agree,Agree,Agree,Strongly agree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,afraid,Not afraid
+19.0,male,Strongly disagree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,afraid,Slightly afraid,Slightly afraid,afraid,Not afraid,afraid
+20.0,male,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,afraid,Not afraid,Not afraid,Slightly afraid,Very much afraid,afraid
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Agree,Agree,Disagree,Strongly agree,Agree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Very much afraid
+17.0,male,Agree,Agree,Neutral,Agree,Neutral,Neutral,Neutral,Neutral,Neutral,Not afraid,Not afraid,Not afraid,Slightly afraid,Very much afraid,afraid
+19.0,female,Agree,Disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Strongly disagree,Agree,Agree,afraid,Very much afraid,Very much afraid,Very afraid,Slightly afraid,afraid
+19.0,female,Disagree,Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Disagree,Disagree,Strongly agree,Slightly afraid,Very afraid,Not afraid,afraid,Not afraid,Not afraid
+20.0,male,Neutral,Strongly disagree,Neutral,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+20.0,male,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,afraid
+21.0,female,Disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Disagree,afraid,afraid,afraid,Very much afraid,Very afraid,Very much afraid
+20.0,female,Disagree,Neutral,Disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Strongly disagree,afraid,Slightly afraid,Slightly afraid,afraid,Very much afraid,Very much afraid
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,afraid,Very afraid,Very much afraid,Very afraid,Not afraid,afraid
+17.0,female,Neutral,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Neutral,Agree,Strongly agree,afraid,Slightly afraid,Slightly afraid,Not afraid,Not afraid,Very afraid
+20.0,female,Agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Slightly afraid,Very afraid,Very much afraid,afraid,Very much afraid,Not afraid
+25.0,male,Neutral,Neutral,Neutral,Strongly agree,Agree,Disagree,Agree,Neutral,Strongly agree,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid
+20.0,female,Neutral,Disagree,Strongly disagree,Neutral,Disagree,Agree,Strongly disagree,Disagree,Agree,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid,afraid
+21.0,female,Strongly agree,Disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,afraid
+21.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Agree,Disagree,Disagree,Disagree,afraid,Very much afraid,Very much afraid,Very much afraid,Very much afraid,Very afraid
+22.0,male,Strongly disagree,Strongly agree,Disagree,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree,Slightly afraid,Not afraid,Not afraid,afraid,afraid,afraid
+19.0,female,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Disagree,Strongly agree,Slightly afraid,Very afraid,Slightly afraid,Slightly afraid,afraid,Very much afraid
+25.0,male,Neutral,Neutral,Agree,Strongly agree,Strongly disagree,Neutral,Neutral,Neutral,Strongly disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,Very afraid,Slightly afraid
+19.0,female,Disagree,Neutral,Agree,Neutral,Agree,Agree,Strongly disagree,Neutral,Agree,Not afraid,Not afraid,afraid,afraid,Slightly afraid,Very afraid
+25.0,female,Disagree,Disagree,Disagree,Neutral,Neutral,Strongly agree,Agree,Agree,Agree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,afraid
+25.0,female,Neutral,Agree,Disagree,Agree,Strongly agree,Neutral,Disagree,Disagree,Strongly agree,Slightly afraid,Slightly afraid,Not afraid,Very afraid,Slightly afraid,Slightly afraid
+21.0,female,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Agree,Strongly agree,Not afraid,afraid,Very much afraid,Very much afraid,Not afraid,afraid
+20.0,male,Strongly agree,Neutral,Disagree,Neutral,Strongly agree,Neutral,Neutral,Neutral,Neutral,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Not afraid,Slightly afraid
+24.0,female,Agree,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,afraid,afraid,afraid,afraid,Slightly afraid,Very much afraid
+30.0,female,Neutral,Neutral,Strongly disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Neutral,afraid,Very afraid,afraid,Slightly afraid,Slightly afraid,Very afraid
+21.0,male,Strongly agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Not afraid,Not afraid,Not afraid,afraid,Slightly afraid,Not afraid
+27.0,male,Strongly disagree,Agree,Disagree,Strongly agree,Strongly disagree,Agree,Disagree,Disagree,Agree,Very afraid,Very afraid,Very much afraid,Very much afraid,Very much afraid,Slightly afraid
+21.0,male,Agree,Agree,Neutral,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,afraid
+16.0,female,Disagree,Agree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid
+21.0,female,Strongly disagree,Agree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Very much afraid,afraid,Slightly afraid,Very much afraid,afraid,afraid
+20.0,female,Neutral,Agree,Neutral,Strongly agree,Strongly agree,Neutral,Strongly agree,Agree,Agree,Not afraid,Slightly afraid,Slightly afraid,afraid,Not afraid,Not afraid
+22.0,female,Strongly agree,Agree,Agree,Agree,Disagree,Disagree,Neutral,Neutral,Strongly agree,Slightly afraid,Slightly afraid,Not afraid,Very afraid,Not afraid,Not afraid
+19.0,male,Strongly agree,Strongly agree,Strongly agree,Agree,Disagree,Agree,Disagree,Strongly agree,Disagree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Agree,Not afraid,Slightly afraid,afraid,Very afraid,Not afraid,Not afraid
+25.0,male,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Not afraid,Not afraid,Not afraid,Very afraid,Not afraid,afraid
+23.0,male,Disagree,Disagree,Disagree,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Agree,Very afraid,Not afraid,Not afraid,Not afraid,Not afraid,Very afraid
+20.0,female,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Agree,Disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid,Slightly afraid
+20.0,female,Strongly agree,Disagree,Neutral,Disagree,Agree,Disagree,Agree,Strongly agree,Agree,Not afraid,Slightly afraid,Slightly afraid,Very much afraid,Slightly afraid,Slightly afraid
+21.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Very afraid,Very much afraid,Very afraid,afraid,afraid,Very afraid
+19.0,female,Agree,Disagree,Disagree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid,Slightly afraid
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Neutral,Very much afraid,afraid,Very much afraid,Not afraid,Very afraid,Slightly afraid
+16.0,female,Strongly disagree,Neutral,Neutral,Neutral,Neutral,Disagree,Strongly disagree,Strongly agree,Disagree,Slightly afraid,afraid,Very much afraid,Very much afraid,Not afraid,Not afraid
+20.0,male,Neutral,Agree,Agree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+18.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Agree,Disagree,Strongly agree,Neutral,Agree,Very afraid,afraid,Very afraid,afraid,Slightly afraid,Not afraid
+21.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Agree,Not afraid,Not afraid,Not afraid,Very much afraid,Not afraid,Not afraid
+21.0,male,Agree,Neutral,Disagree,Disagree,Disagree,Disagree,Disagree,Agree,Disagree,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,afraid
+18.0,male,Agree,Neutral,Strongly disagree,Agree,Agree,Strongly disagree,Strongly disagree,Agree,Strongly agree,Not afraid,Slightly afraid,afraid,Very afraid,Not afraid,Not afraid
+19.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Neutral,Strongly disagree,Strongly agree,Not afraid,Very much afraid,Very much afraid,afraid,Very much afraid,Slightly afraid
+20.0,female,Disagree,Strongly agree,Disagree,Disagree,Strongly agree,Strongly disagree,Disagree,Neutral,Disagree,afraid,afraid,Very afraid,Not afraid,Not afraid,Not afraid
+18.0,male,Agree,Strongly agree,Neutral,Strongly agree,Disagree,Neutral,Disagree,Disagree,Agree,Not afraid,Not afraid,Slightly afraid,Very afraid,Very much afraid,afraid
+18.0,female,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Agree,Strongly disagree,Disagree,Disagree,Disagree,afraid,Very afraid,afraid,Very afraid,Slightly afraid,afraid
+23.0,female,Neutral,Strongly disagree,Disagree,Disagree,Disagree,Strongly agree,Agree,Strongly disagree,Strongly agree,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,Not afraid
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Agree,Strongly agree,Neutral,Not afraid,Very much afraid,Very much afraid,Very much afraid,Not afraid,afraid
+18.0,female,Strongly agree,Agree,Agree,Strongly agree,Agree,Neutral,Neutral,Strongly agree,Neutral,afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,Not afraid
+28.0,female,Agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Disagree,Disagree,Agree,Not afraid,afraid,afraid,afraid,Slightly afraid,Very afraid
+24.0,female,Disagree,Strongly disagree,Disagree,Agree,Disagree,Strongly agree,Neutral,Disagree,Agree,Very afraid,Very afraid,Slightly afraid,Very afraid,Very much afraid,Not afraid
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,,,Slightly afraid,Very afraid,Slightly afraid,Not afraid,Very much afraid
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Neutral,Strongly disagree,Agree,afraid,afraid,afraid,Very much afraid,Not afraid,afraid
+22.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Slightly afraid,Slightly afraid,Very afraid,afraid,Not afraid,Slightly afraid
+19.0,male,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Agree,Not afraid,Not afraid,Not afraid,Very much afraid,Not afraid,Slightly afraid
+18.0,female,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Disagree,Neutral,Neutral,Neutral,afraid,afraid,Very much afraid,afraid,afraid,afraid
+21.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Disagree,Disagree,Agree,Slightly afraid,afraid,Not afraid,Very afraid,Very afraid,Slightly afraid
+19.0,female,Agree,Disagree,Disagree,Disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Neutral,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid
+19.0,male,Disagree,Strongly agree,Strongly agree,Strongly agree,Neutral,Disagree,Strongly disagree,Neutral,Strongly disagree,afraid,Slightly afraid,Not afraid,Very afraid,afraid,Very afraid
+20.0,male,Strongly agree,Disagree,Neutral,Strongly agree,Disagree,Disagree,Disagree,Neutral,Strongly agree,Not afraid,Not afraid,Slightly afraid,Very much afraid,afraid,Very afraid
+19.0,female,Neutral,Strongly agree,Disagree,Agree,Strongly agree,Strongly disagree,Strongly disagree,Agree,Disagree,Slightly afraid,Not afraid,afraid,Slightly afraid,Very much afraid,afraid
+18.0,male,Strongly agree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Strongly agree,Neutral,Agree,Neutral,Slightly afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid
+18.0,female,Disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Slightly afraid,Very afraid,Very much afraid,Very much afraid,Slightly afraid,Slightly afraid
+19.0,male,Disagree,Disagree,Neutral,Neutral,Disagree,Strongly agree,Strongly disagree,Neutral,Disagree,Not afraid,Not afraid,Slightly afraid,Not afraid,Very much afraid,Slightly afraid
+18.0,female,Strongly disagree,Strongly disagree,Neutral,Disagree,Neutral,Strongly disagree,Neutral,Disagree,Strongly agree,Slightly afraid,Very afraid,Very afraid,Very afraid,afraid,afraid
+18.0,female,Strongly disagree,Strongly disagree,Disagree,Agree,Neutral,Disagree,Strongly disagree,Disagree,Strongly agree,Very afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,afraid
+19.0,male,Agree,Neutral,Strongly disagree,Neutral,Strongly agree,Disagree,Disagree,Agree,Neutral,Not afraid,Not afraid,Slightly afraid,Very afraid,Very afraid,afraid
+19.0,female,Agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Disagree,Agree,Agree,Not afraid,Slightly afraid,Very afraid,Very afraid,Very afraid,Very much afraid
+19.0,female,Strongly disagree,Disagree,Disagree,Disagree,Disagree,Strongly agree,Strongly disagree,Agree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Very afraid
+18.0,female,Disagree,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,Neutral,Disagree,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,Slightly afraid
+18.0,female,Strongly agree,Neutral,Disagree,Strongly disagree,Neutral,Disagree,Agree,Agree,Strongly agree,Not afraid,Slightly afraid,Very afraid,Not afraid,Slightly afraid,Slightly afraid
+19.0,female,Neutral,Agree,Agree,Strongly disagree,Disagree,Agree,Strongly disagree,Neutral,Strongly agree,Not afraid,Slightly afraid,Slightly afraid,afraid,Very afraid,Slightly afraid
+20.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Agree,Disagree,Not afraid,Slightly afraid,Slightly afraid,afraid,Not afraid,Slightly afraid
+19.0,male,Strongly disagree,Neutral,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Agree,Slightly afraid,Not afraid,Slightly afraid,Very afraid,Not afraid,Very afraid
+26.0,female,Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,Very much afraid,afraid,afraid,Very much afraid,Not afraid,afraid
+19.0,female,Neutral,Agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Strongly disagree,Neutral,Not afraid,afraid,Slightly afraid,afraid,afraid,Slightly afraid
+19.0,female,Disagree,Neutral,Disagree,Disagree,Disagree,Strongly agree,Disagree,Neutral,Disagree,Not afraid,Not afraid,Slightly afraid,Very afraid,afraid,afraid
+22.0,male,Neutral,Disagree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Disagree,Disagree,Strongly disagree,Not afraid,Slightly afraid,Not afraid,afraid,Not afraid,afraid
+20.0,male,Neutral,Disagree,Disagree,Neutral,Disagree,Strongly agree,Disagree,Strongly disagree,Neutral,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid
+28.0,female,Strongly disagree,Neutral,Strongly disagree,Neutral,Strongly agree,Strongly agree,Neutral,Strongly agree,Neutral,Not afraid,Very afraid,Very much afraid,Not afraid,Very much afraid,Very afraid
+19.0,female,Disagree,Disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Disagree,Neutral,Disagree,Not afraid,Not afraid,Slightly afraid,Very afraid,afraid,afraid
+21.0,female,Neutral,Neutral,Strongly disagree,Disagree,Strongly agree,Disagree,Strongly agree,Agree,Agree,Not afraid,afraid,afraid,afraid,Very afraid,Not afraid
+19.0,female,Strongly disagree,Disagree,Strongly disagree,Neutral,Disagree,Neutral,Strongly disagree,Disagree,Neutral,afraid,Very much afraid,Very much afraid,Very afraid,Slightly afraid,Very much afraid
+22.0,male,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Neutral,Slightly afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Very afraid
+19.0,male,Neutral,Strongly agree,Agree,Strongly agree,Neutral,Disagree,Strongly disagree,Disagree,Strongly agree,Not afraid,Not afraid,Not afraid,afraid,Slightly afraid,Very afraid
+18.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Very much afraid,Very much afraid,Not afraid,Not afraid,Not afraid,Not afraid
+19.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Disagree,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid
+22.0,male,Agree,Strongly disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Not afraid,Not afraid,Not afraid,Not afraid,Very much afraid,Not afraid
+29.0,male,Neutral,Neutral,Disagree,Neutral,Agree,Neutral,Neutral,Agree,Neutral,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid
+,female,Neutral,Neutral,Neutral,Neutral,Disagree,Neutral,Neutral,Neutral,Neutral,afraid,Slightly afraid,afraid,Very afraid,Very much afraid,afraid
+18.0,female,Strongly disagree,Neutral,Strongly disagree,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Very afraid,Very afraid,Very afraid,Very afraid,afraid,Very much afraid
+22.0,female,Disagree,Strongly disagree,Strongly disagree,Agree,Agree,Disagree,Disagree,Strongly agree,Neutral,Not afraid,Slightly afraid,afraid,Very much afraid,afraid,Not afraid
+17.0,female,Strongly agree,Disagree,Disagree,Agree,Neutral,Disagree,Neutral,Strongly agree,Disagree,Slightly afraid,Slightly afraid,Not afraid,Not afraid,afraid,Slightly afraid
+19.0,male,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Agree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,afraid
+20.0,female,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Disagree,Slightly afraid,Slightly afraid,afraid,Very afraid,Very afraid,Very much afraid
+18.0,female,Neutral,Agree,Disagree,Neutral,Strongly agree,Disagree,Disagree,Neutral,Disagree,Slightly afraid,Slightly afraid,Not afraid,Not afraid,afraid,Very afraid
+22.0,male,Neutral,Neutral,Disagree,Strongly agree,Neutral,Neutral,Disagree,Agree,Disagree,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very afraid,afraid
+19.0,female,Agree,Disagree,Strongly disagree,Agree,Disagree,Disagree,Strongly disagree,Agree,Neutral,afraid,Not afraid,Very much afraid,Slightly afraid,afraid,Very afraid
+20.0,male,Neutral,Neutral,Agree,Agree,Neutral,Disagree,Disagree,Neutral,Neutral,Not afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,Not afraid
+25.0,male,Disagree,Strongly agree,Agree,Strongly disagree,Disagree,Disagree,Strongly disagree,Agree,Strongly disagree,afraid,Very afraid,Slightly afraid,Very afraid,Very afraid,Very much afraid
+29.0,male,Strongly agree,Disagree,Disagree,Neutral,Disagree,Strongly agree,Disagree,Neutral,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Very afraid
+19.0,male,Neutral,Strongly agree,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Neutral,Not afraid,afraid,Very afraid,Very afraid,Slightly afraid,Very much afraid
+18.0,female,Agree,Neutral,Disagree,Disagree,Disagree,Disagree,Neutral,Neutral,Strongly agree,Slightly afraid,afraid,Very much afraid,Not afraid,Not afraid,afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Neutral,Slightly afraid,Very much afraid,Slightly afraid,Very much afraid,Slightly afraid,afraid
+18.0,female,Disagree,Agree,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Disagree,Not afraid,Not afraid,Not afraid,afraid,afraid,Not afraid
+30.0,male,Disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Disagree,Disagree,Strongly agree,Disagree,Very much afraid,Not afraid,afraid,Very afraid,Slightly afraid,Very afraid
+20.0,female,Disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly agree,Disagree,Neutral,Neutral,Not afraid,Slightly afraid,Slightly afraid,Not afraid,afraid,Slightly afraid
+21.0,female,Neutral,Neutral,Disagree,Agree,Disagree,Agree,Disagree,Neutral,Disagree,Slightly afraid,Slightly afraid,Very afraid,Not afraid,Not afraid,Very afraid
+22.0,male,Strongly agree,Strongly disagree,Agree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,afraid,Slightly afraid
+22.0,male,Agree,Agree,Disagree,Agree,Agree,Disagree,Neutral,Disagree,Disagree,Slightly afraid,Not afraid,Slightly afraid,Very afraid,Not afraid,Very afraid
+20.0,female,Neutral,Agree,Agree,Disagree,Disagree,Strongly agree,Disagree,Neutral,Agree,Not afraid,Not afraid,afraid,Not afraid,Very afraid,afraid
+20.0,female,Agree,Agree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Neutral,Neutral,Disagree,Not afraid,afraid,Not afraid,Slightly afraid,Very much afraid,Very much afraid
+19.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Disagree,Neutral,Strongly disagree,Not afraid,Not afraid,Slightly afraid,Not afraid,Very much afraid,afraid
+28.0,female,Agree,Neutral,Disagree,Neutral,Agree,Neutral,Strongly agree,Disagree,Strongly agree,afraid,Very afraid,afraid,Very afraid,Very afraid,Slightly afraid
+19.0,female,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Disagree,Strongly agree,Agree,Disagree,Strongly agree,Not afraid,Not afraid,Very much afraid,Not afraid,Not afraid,Not afraid
+22.0,male,Strongly agree,Neutral,Agree,Agree,Neutral,Neutral,Strongly agree,Agree,Disagree,Not afraid,Slightly afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Agree,Strongly agree,Agree,Not afraid,Not afraid,Not afraid,Very afraid,Very much afraid,Not afraid
+16.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Strongly disagree,Strongly agree,Slightly afraid,Not afraid,Not afraid,Slightly afraid,Very much afraid,Very afraid
+19.0,female,Disagree,Disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Strongly disagree,Neutral,Neutral,Slightly afraid,Very much afraid,afraid,Slightly afraid,Not afraid,afraid
+20.0,female,Strongly agree,Neutral,Disagree,Neutral,Strongly disagree,Agree,Strongly disagree,Strongly agree,Strongly agree,Slightly afraid,Not afraid,Slightly afraid,afraid,Slightly afraid,afraid
+21.0,male,Neutral,Disagree,Disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Slightly afraid,Not afraid,Not afraid,Very afraid,Slightly afraid,afraid
+19.0,female,Disagree,Agree,Neutral,Disagree,Agree,Agree,Neutral,Neutral,Agree,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid,afraid,Not afraid
+20.0,female,Disagree,Disagree,Strongly disagree,Neutral,Agree,Neutral,Disagree,Neutral,Disagree,Not afraid,Slightly afraid,afraid,Slightly afraid,Very much afraid,Very afraid
+25.0,female,Neutral,Neutral,Neutral,Disagree,Agree,Neutral,Disagree,Agree,Neutral,afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,afraid
+19.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Neutral,Agree,Very afraid,Not afraid,Not afraid,Very afraid,afraid,afraid
+22.0,male,Neutral,Disagree,Disagree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,,afraid,Not afraid,Not afraid,afraid,Not afraid,Slightly afraid
+19.0,female,Agree,Neutral,Agree,Agree,Disagree,Agree,Strongly disagree,Neutral,Agree,Not afraid,afraid,Slightly afraid,afraid,Slightly afraid,afraid
+21.0,female,Neutral,Agree,Strongly disagree,Disagree,Strongly agree,Disagree,Disagree,Disagree,Disagree,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Very much afraid
+22.0,male,Disagree,Neutral,Strongly disagree,Strongly agree,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Slightly afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid
+28.0,female,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly disagree,Agree,Strongly disagree,Strongly agree,Agree,Slightly afraid,Not afraid,Slightly afraid,Not afraid,afraid,Very afraid
+21.0,female,Neutral,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Neutral,Very much afraid,afraid,Not afraid,Not afraid,Not afraid,Very afraid
+20.0,male,Disagree,Neutral,Agree,Neutral,Neutral,Disagree,Disagree,Disagree,Neutral,afraid,Slightly afraid,Slightly afraid,afraid,Slightly afraid,afraid
+19.0,male,Disagree,Disagree,Neutral,Strongly agree,Neutral,Neutral,Strongly disagree,Disagree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+21.0,female,Neutral,Disagree,Disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Agree,Agree,afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid
+20.0,male,Neutral,Strongly disagree,Strongly disagree,Neutral,Agree,Strongly disagree,Disagree,Agree,Agree,afraid,Slightly afraid,Slightly afraid,Very afraid,Not afraid,afraid
+16.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Strongly agree,Agree,Strongly agree,Strongly disagree,Slightly afraid,Slightly afraid,Not afraid,Not afraid,Very much afraid,Not afraid
+22.0,male,Neutral,Neutral,Strongly agree,Strongly agree,Neutral,Disagree,Neutral,Neutral,Agree,Not afraid,afraid,Not afraid,Not afraid,Very much afraid,Not afraid
+19.0,male,Disagree,Agree,Strongly agree,Strongly agree,Neutral,Neutral,Disagree,Neutral,Neutral,Slightly afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid
+22.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Very much afraid,Very much afraid,Not afraid,afraid,Not afraid,Not afraid
+20.0,male,Disagree,Strongly agree,Neutral,Strongly agree,Disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid
+22.0,male,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Neutral,Disagree,Disagree,Slightly afraid,afraid,afraid,afraid,afraid,Not afraid
+19.0,male,Neutral,Agree,Strongly disagree,Agree,Disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Not afraid,Not afraid,afraid,Not afraid,Not afraid,afraid
+22.0,male,Strongly agree,Strongly disagree,Disagree,Strongly agree,Neutral,Neutral,Neutral,Neutral,Neutral,Very much afraid,Very much afraid,Very much afraid,Very much afraid,Very much afraid,afraid
+17.0,female,Agree,Disagree,Agree,Neutral,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,afraid,Slightly afraid,Not afraid,afraid,Very afraid,Very afraid
+18.0,female,Neutral,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Agree,Slightly afraid,Not afraid,Very much afraid,Slightly afraid,afraid,afraid
+19.0,male,Agree,Disagree,Disagree,Neutral,Disagree,Disagree,Neutral,Neutral,Disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,Very much afraid,Very afraid
+23.0,female,Agree,Neutral,Disagree,Neutral,Disagree,Neutral,Neutral,Neutral,Neutral,Very afraid,Slightly afraid,Very much afraid,Slightly afraid,afraid,Not afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Agree,afraid,Very afraid,Very much afraid,Not afraid,Slightly afraid,Very much afraid
+18.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Disagree,Neutral,Agree,Neutral,Not afraid,Not afraid,Not afraid,afraid,afraid,Slightly afraid
+19.0,male,Disagree,,Agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid,Very afraid
+19.0,female,Neutral,Neutral,Disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Agree,Not afraid,Slightly afraid,afraid,Slightly afraid,afraid,Very much afraid
+28.0,female,Neutral,Neutral,Neutral,Neutral,Agree,Neutral,Neutral,Neutral,Neutral,Very afraid,Slightly afraid,Slightly afraid,afraid,afraid,Slightly afraid
+21.0,male,Agree,Strongly agree,Strongly agree,Agree,Disagree,Strongly agree,Neutral,Agree,Neutral,Not afraid,Not afraid,Not afraid,Slightly afraid,Very afraid,Slightly afraid
+23.0,female,Disagree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Neutral,Agree,Disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid,afraid
+20.0,male,Disagree,Strongly agree,Strongly agree,Agree,Disagree,Neutral,Neutral,Disagree,Neutral,Not afraid,Slightly afraid,Not afraid,afraid,Not afraid,afraid
+20.0,male,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Disagree,Strongly agree,Neutral,Neutral,Not afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,afraid
+28.0,female,Strongly agree,Neutral,Agree,Disagree,Agree,Agree,Neutral,Agree,Strongly agree,Not afraid,Slightly afraid,afraid,afraid,Slightly afraid,Slightly afraid
+22.0,male,Strongly agree,Neutral,Agree,Strongly agree,Strongly agree,Strongly disagree,Disagree,Strongly agree,Strongly agree,Not afraid,Not afraid,Not afraid,afraid,Not afraid,Slightly afraid
+19.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Disagree,Agree,Neutral,Very afraid,Not afraid,Not afraid,Slightly afraid,Very afraid,Not afraid
+21.0,male,Neutral,Neutral,Disagree,Agree,Neutral,Disagree,Disagree,Neutral,Agree,Not afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Not afraid
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral,Neutral,Strongly disagree,Disagree,Neutral,afraid,Slightly afraid,Slightly afraid,Very afraid,afraid,Very afraid
+17.0,male,Neutral,Neutral,Disagree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Neutral,Strongly agree,Not afraid,Not afraid,afraid,Not afraid,Not afraid,Not afraid
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Strongly agree,Not afraid,Slightly afraid,Very much afraid,Not afraid,Very much afraid,Not afraid
+25.0,male,Agree,Disagree,Agree,Neutral,Neutral,Neutral,Neutral,Strongly agree,Strongly agree,afraid,Not afraid,afraid,Slightly afraid,Very much afraid,afraid
+20.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Disagree,Strongly agree,Neutral,Agree,Disagree,Very afraid,afraid,afraid,afraid,Slightly afraid,Slightly afraid
+26.0,male,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Agree,Agree,Not afraid,Slightly afraid,Slightly afraid,Very afraid,Very afraid,Not afraid
+21.0,male,Neutral,Neutral,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Agree,afraid,afraid,afraid,afraid,Very afraid,afraid
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Neutral,Strongly disagree,Strongly disagree,Disagree,Not afraid,Slightly afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+29.0,,Agree,Disagree,Disagree,Strongly agree,Agree,Disagree,Disagree,Neutral,Agree,Slightly afraid,Slightly afraid,Very afraid,Very much afraid,Slightly afraid,Very afraid
+25.0,male,Neutral,Disagree,Disagree,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Agree,Very afraid,afraid,Slightly afraid,Very afraid,Not afraid,Not afraid
+21.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Not afraid,Not afraid,Not afraid,Very afraid,Very afraid,afraid
+20.0,male,Neutral,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Very much afraid,afraid,Not afraid,afraid,afraid,afraid
+27.0,male,Neutral,Agree,Agree,Strongly agree,Neutral,Neutral,Disagree,Agree,Disagree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid
+21.0,male,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Disagree,Strongly agree,Neutral,Not afraid,Not afraid,Slightly afraid,afraid,Not afraid,Not afraid
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly agree,afraid,Slightly afraid,afraid,Very afraid,Not afraid,afraid
+,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Neutral,Agree,afraid,afraid,Very much afraid,Slightly afraid,Very much afraid,Not afraid
+17.0,female,Neutral,Neutral,Strongly disagree,Disagree,Disagree,Disagree,Neutral,Disagree,Agree,Not afraid,Not afraid,Very afraid,afraid,Not afraid,Very afraid
+16.0,female,Agree,Neutral,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Very afraid,afraid,Very much afraid,Very afraid,Slightly afraid,Very afraid
+19.0,female,Agree,Neutral,Strongly disagree,Disagree,Disagree,Neutral,Strongly agree,Disagree,Strongly agree,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid,afraid,Not afraid
+18.0,female,Disagree,Neutral,Strongly disagree,Disagree,Neutral,Disagree,Agree,Disagree,Agree,Not afraid,Very afraid,Very afraid,afraid,Very much afraid,afraid
+19.0,male,Disagree,Strongly agree,Neutral,Agree,Agree,Neutral,Neutral,Neutral,Strongly agree,afraid,Slightly afraid,Slightly afraid,afraid,Slightly afraid,afraid
+21.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Agree,Disagree,Not afraid,Very afraid,Very afraid,Very much afraid,afraid,Very much afraid
+16.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Slightly afraid,Not afraid,Not afraid,Slightly afraid,Very afraid,Very afraid
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Disagree,Agree,Agree,Not afraid,afraid,Very much afraid,Very much afraid,Very much afraid,Very much afraid
+19.0,female,Neutral,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Neutral,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Slightly afraid,Slightly afraid
+20.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Not afraid,afraid,afraid,Slightly afraid,Very much afraid,afraid
+16.0,female,Strongly disagree,Strongly disagree,Disagree,,Strongly agree,Strongly agree,Strongly agree,Disagree,Disagree,Very afraid,Very much afraid,Very much afraid,Very much afraid,Very much afraid,Very afraid
+20.0,male,Agree,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,Strongly agree,Agree,afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,afraid
+18.0,male,Neutral,Strongly disagree,Neutral,Strongly agree,Neutral,Strongly disagree,Disagree,Agree,Strongly disagree,afraid,afraid,Not afraid,Not afraid,Not afraid,afraid
+20.0,male,Strongly agree,Strongly disagree,Disagree,Neutral,Neutral,Neutral,Agree,Agree,Disagree,Not afraid,Slightly afraid,Not afraid,Very afraid,Very afraid,Not afraid
+20.0,male,Neutral,Disagree,Disagree,Neutral,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+16.0,female,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Not afraid,Not afraid,afraid,afraid,afraid,Very afraid
+19.0,female,Agree,Neutral,Strongly disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Slightly afraid,Not afraid,Slightly afraid,Very afraid,Not afraid,Very much afraid
+19.0,male,Strongly disagree,Neutral,Disagree,Neutral,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Very afraid,Slightly afraid
+23.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Slightly afraid,Very much afraid,afraid,afraid,Very afraid,afraid
+20.0,female,Agree,Neutral,Agree,Neutral,Disagree,Neutral,Strongly agree,Neutral,Strongly agree,Very afraid,Slightly afraid,afraid,Not afraid,Not afraid,Slightly afraid
+23.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Not afraid,Not afraid,Not afraid,Very afraid,Very much afraid,Not afraid
+19.0,male,Strongly disagree,Agree,Neutral,Strongly agree,Neutral,Neutral,Agree,Strongly agree,Disagree,Slightly afraid,afraid,Very afraid,Very afraid,Not afraid,Very afraid
+22.0,female,Disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,,Disagree,Neutral,Agree,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid,afraid
+17.0,male,Neutral,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Not afraid,Not afraid,Not afraid,afraid,Not afraid,afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Neutral,Agree,Strongly disagree,Neutral,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+21.0,female,Disagree,Disagree,Neutral,Disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Strongly agree,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very afraid,Slightly afraid
+21.0,male,Neutral,Neutral,Neutral,Strongly agree,Neutral,Disagree,Neutral,Agree,Disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid
+19.0,female,Neutral,Agree,Neutral,Disagree,Disagree,Neutral,Disagree,Disagree,Agree,afraid,afraid,Very afraid,afraid,Slightly afraid,Slightly afraid
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Agree,Strongly disagree,Disagree,Disagree,afraid,afraid,Not afraid,Not afraid,Very afraid,Very afraid
+19.0,male,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Very afraid,Slightly afraid,Slightly afraid,Very afraid,Slightly afraid,Very afraid
+21.0,male,Neutral,Disagree,Disagree,Neutral,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+22.0,female,Strongly disagree,Neutral,Strongly disagree,Neutral,Neutral,Strongly disagree,Neutral,Disagree,Agree,Slightly afraid,Slightly afraid,afraid,afraid,Very afraid,Very afraid
+22.0,male,Strongly agree,Neutral,Disagree,Disagree,Neutral,Disagree,Disagree,Strongly agree,Agree,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Slightly afraid
+22.0,male,Strongly agree,Disagree,Disagree,Strongly agree,Agree,Strongly disagree,Strongly agree,Disagree,Strongly agree,Slightly afraid,Not afraid,Very afraid,Slightly afraid,Not afraid,Slightly afraid
+28.0,female,Neutral,Disagree,Disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,afraid,Not afraid,Not afraid,afraid,afraid,Very afraid
+21.0,male,Disagree,Strongly disagree,Strongly disagree,Neutral,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Very much afraid,Very afraid,afraid,afraid,Very afraid,afraid
+21.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Disagree,Not afraid,afraid,Not afraid,Very much afraid,afraid,Slightly afraid
+17.0,female,Agree,Strongly disagree,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Disagree,Neutral,Slightly afraid,afraid,afraid,Not afraid,Not afraid,Slightly afraid
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral,Disagree,Disagree,Strongly agree,Neutral,Not afraid,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid,afraid
+17.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Neutral,Agree,Neutral,Agree,Not afraid,Very much afraid,afraid,Not afraid,Slightly afraid,Not afraid
+28.0,male,Agree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Neutral,Disagree,Agree,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid,afraid,Slightly afraid
+20.0,female,Neutral,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Neutral,Agree,Strongly agree,Strongly agree,Very much afraid,Not afraid,Very much afraid,Not afraid,afraid,afraid
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly agree,Neutral,Neutral,Strongly agree,Not afraid,Not afraid,Slightly afraid,Very much afraid,afraid,Slightly afraid
+21.0,female,Disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Agree,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Not afraid,Slightly afraid
+23.0,male,Strongly agree,Disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Agree,afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very much afraid,Not afraid
+17.0,male,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Strongly agree,Slightly afraid,Not afraid,Not afraid,Very much afraid,Not afraid,Very much afraid
+20.0,male,Disagree,Strongly disagree,Disagree,Strongly agree,Disagree,Strongly disagree,Disagree,Strongly agree,Agree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Very afraid
+19.0,male,Disagree,Disagree,Disagree,Strongly agree,Disagree,Disagree,Disagree,Disagree,Disagree,afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,Very much afraid
+19.0,male,Neutral,Disagree,Disagree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,Not afraid,Not afraid,Slightly afraid,Very afraid,Very much afraid,Very afraid
+19.0,male,Agree,Agree,Disagree,Agree,Strongly agree,Disagree,Disagree,Neutral,Neutral,afraid,Not afraid,Slightly afraid,Very afraid,afraid,afraid
+18.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Disagree,Neutral,Strongly agree,afraid,afraid,Very afraid,Slightly afraid,Not afraid,Slightly afraid
+19.0,female,Neutral,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Neutral,Neutral,afraid,Very afraid,Very afraid,afraid,Slightly afraid,Slightly afraid
+22.0,male,Agree,Disagree,Neutral,Strongly disagree,Agree,Strongly disagree,Disagree,Neutral,Agree,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Not afraid
+21.0,female,Neutral,Disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Disagree,Agree,Disagree,Slightly afraid,afraid,Very afraid,Very afraid,Very afraid,Slightly afraid
+21.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Neutral,Neutral,Strongly disagree,Strongly agree,Slightly afraid,afraid,Very much afraid,Very afraid,afraid,Very much afraid
+21.0,male,Neutral,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Not afraid,Not afraid,Not afraid,Not afraid,afraid,Very afraid
+22.0,male,Disagree,Disagree,Disagree,Agree,Strongly disagree,Disagree,Strongly disagree,Neutral,Disagree,Very afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid
+19.0,female,Agree,Strongly disagree,Disagree,Disagree,Disagree,Strongly agree,Strongly disagree,Disagree,Neutral,afraid,Slightly afraid,afraid,afraid,Not afraid,Slightly afraid
+25.0,male,Strongly agree,Strongly agree,Strongly agree,Disagree,Agree,Agree,Disagree,Agree,Strongly agree,afraid,Very afraid,Slightly afraid,Very afraid,Very afraid,afraid
+18.0,male,Strongly agree,Strongly agree,Disagree,Strongly agree,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+20.0,male,Disagree,Disagree,Disagree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,afraid,Not afraid,Slightly afraid,afraid,Very afraid,Very afraid
+18.0,female,Neutral,Neutral,Strongly disagree,Neutral,Strongly agree,Disagree,Neutral,Strongly disagree,Strongly agree,Not afraid,Very afraid,Very afraid,afraid,Slightly afraid,afraid
+23.0,male,Agree,Neutral,Agree,Strongly agree,Neutral,Disagree,Disagree,Disagree,Neutral,Not afraid,afraid,afraid,afraid,afraid,Not afraid
+18.0,female,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Very afraid,Slightly afraid,Very afraid,Very afraid,afraid,Very afraid
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Very much afraid,afraid,Not afraid,Very much afraid,Very much afraid,Not afraid
+20.0,male,Disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Neutral,Agree,Slightly afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Not afraid
+19.0,male,Agree,Neutral,Agree,Strongly agree,Strongly disagree,Strongly agree,Disagree,Agree,Agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,,Strongly agree,afraid,Not afraid,Not afraid,Very afraid,Slightly afraid,Not afraid
+23.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Disagree,Disagree,Strongly agree,Strongly disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,afraid
+27.0,male,Neutral,Strongly agree,Strongly agree,Agree,Disagree,Disagree,Neutral,Strongly agree,Disagree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Very afraid,Not afraid
+20.0,male,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Very afraid
+20.0,,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Very afraid,Not afraid,Not afraid,afraid,Very much afraid,Very much afraid
+18.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Agree,Strongly disagree,Agree,Neutral,Neutral,Very much afraid,Slightly afraid,afraid,Slightly afraid,Very afraid,Not afraid
+21.0,male,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Disagree,Disagree,Disagree,Not afraid,Not afraid,Slightly afraid,Very afraid,Slightly afraid,Slightly afraid
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Disagree,Strongly disagree,Strongly agree,afraid,Not afraid,Very afraid,Not afraid,Slightly afraid,Very afraid
+19.0,female,Disagree,Neutral,Strongly disagree,Agree,Disagree,Disagree,Disagree,Agree,Neutral,Not afraid,afraid,afraid,afraid,Not afraid,Not afraid
+22.0,female,Disagree,Disagree,Disagree,Agree,Agree,Disagree,Disagree,Neutral,Agree,afraid,Very afraid,Very afraid,Very much afraid,afraid,afraid
+20.0,female,Neutral,Neutral,Strongly disagree,Agree,Neutral,Neutral,Disagree,Neutral,Neutral,Very afraid,Very afraid,afraid,afraid,Very much afraid,Very much afraid
+19.0,male,Disagree,Agree,Agree,Agree,Neutral,Disagree,Disagree,Disagree,Agree,Not afraid,Not afraid,Not afraid,Not afraid,afraid,Very afraid
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Not afraid,afraid,Slightly afraid,Not afraid,Not afraid,Slightly afraid
+19.0,female,Neutral,Neutral,Strongly disagree,Strongly agree,Agree,Strongly disagree,Disagree,Agree,Agree,afraid,afraid,afraid,Very much afraid,Not afraid,Very much afraid
+18.0,female,Neutral,Agree,Neutral,Agree,Neutral,Strongly agree,Neutral,Neutral,Neutral,afraid,Not afraid,Not afraid,Slightly afraid,afraid,Not afraid
+17.0,male,Agree,Neutral,Neutral,Neutral,Disagree,Agree,Neutral,Neutral,Agree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Very afraid,Very afraid
+21.0,male,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Not afraid,Not afraid,Not afraid,Very afraid,Not afraid,Not afraid
+19.0,female,Neutral,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Neutral,Not afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid
+25.0,female,Agree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly agree,Disagree,Strongly agree,Neutral,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Very afraid,Very afraid
+24.0,male,Strongly agree,Strongly disagree,Strongly disagree,Agree,Agree,Strongly disagree,Disagree,Agree,,Slightly afraid,afraid,afraid,afraid,afraid,Not afraid
+29.0,male,Agree,Strongly agree,Strongly agree,Strongly agree,Neutral,,Strongly disagree,Disagree,Agree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,Not afraid
+21.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Agree,Neutral,Agree,Neutral,Slightly afraid,Not afraid,Slightly afraid,Very much afraid,Very afraid,afraid
+18.0,male,Disagree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,afraid,Not afraid,Slightly afraid,Very much afraid,afraid,Very afraid
+21.0,female,Agree,Neutral,Neutral,Neutral,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Not afraid,afraid,Not afraid,Slightly afraid,afraid,afraid
+17.0,male,Disagree,Disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Slightly afraid,Slightly afraid,afraid,Very afraid,Very much afraid,afraid
+22.0,male,Neutral,Agree,Strongly agree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Not afraid,Slightly afraid,Slightly afraid,Very much afraid,afraid,Very afraid
+18.0,female,Agree,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Agree,Agree,Not afraid,Slightly afraid,Very afraid,Not afraid,Not afraid,Slightly afraid
+18.0,female,Neutral,Agree,Disagree,Neutral,Neutral,Agree,Disagree,Agree,Neutral,Not afraid,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid
+23.0,male,Strongly agree,Neutral,Agree,Agree,Disagree,Disagree,Neutral,Strongly agree,Disagree,Not afraid,afraid,Not afraid,Slightly afraid,Slightly afraid,afraid
+22.0,male,Disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid
+21.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Agree,afraid,afraid,Very much afraid,Very much afraid,Not afraid,afraid
+23.0,female,Disagree,Disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Disagree,Strongly disagree,Disagree,afraid,Very afraid,Very afraid,afraid,Very afraid,afraid
+17.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Neutral,Agree,Agree,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,afraid
+20.0,male,Neutral,Agree,Agree,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Disagree,Neutral,Slightly afraid,Not afraid,Not afraid,Slightly afraid,Very afraid,afraid
+22.0,male,Strongly agree,Strongly disagree,Strongly disagree,Agree,Strongly agree,Strongly disagree,Agree,Strongly agree,Neutral,Not afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid
+21.0,male,Neutral,Agree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,afraid,Not afraid,Slightly afraid,afraid,Slightly afraid,afraid
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Agree,Agree,Disagree,Not afraid,Not afraid,afraid,afraid,Not afraid,Slightly afraid
+24.0,male,Agree,Neutral,Disagree,Disagree,Agree,Neutral,Neutral,Strongly agree,Disagree,Slightly afraid,Slightly afraid,Slightly afraid,afraid,afraid,Slightly afraid
+19.0,female,Strongly disagree,Neutral,Strongly disagree,Disagree,Neutral,Neutral,Strongly disagree,Neutral,Disagree,afraid,Slightly afraid,Very afraid,afraid,afraid,Very afraid
+18.0,female,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Strongly agree,Neutral,Strongly agree,Strongly agree,Very much afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,afraid
+24.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Not afraid,Very afraid,Very much afraid,afraid,Very afraid,Slightly afraid
+22.0,male,Strongly disagree,Strongly agree,Neutral,Strongly agree,Agree,Strongly disagree,Agree,Strongly disagree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+20.0,male,Disagree,Neutral,Neutral,Disagree,Strongly agree,Disagree,Neutral,Strongly disagree,Disagree,Not afraid,Not afraid,afraid,afraid,Very much afraid,Very much afraid
+20.0,female,Strongly agree,Disagree,Strongly disagree,Disagree,Disagree,Neutral,Disagree,Agree,Agree,afraid,afraid,Very much afraid,Very afraid,Very much afraid,Very much afraid
+19.0,female,Agree,Disagree,Disagree,Disagree,Neutral,Neutral,Disagree,Neutral,Agree,Not afraid,Slightly afraid,Slightly afraid,afraid,Very afraid,afraid
+21.0,female,Neutral,Agree,Disagree,Neutral,Agree,Neutral,Strongly disagree,Strongly disagree,Disagree,Not afraid,afraid,afraid,afraid,Not afraid,Very much afraid
+25.0,male,Agree,Neutral,Neutral,Neutral,Strongly disagree,Disagree,Strongly disagree,Agree,Neutral,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid
+28.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly agree,Strongly disagree,Strongly agree,Disagree,Not afraid,afraid,Very much afraid,Very afraid,Very afraid,Slightly afraid
+20.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Agree,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid,Very afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Agree,Not afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid,afraid
+23.0,male,Strongly agree,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Disagree,Agree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Not afraid,Very afraid
+27.0,male,Disagree,Agree,Agree,Strongly agree,Strongly disagree,,Strongly disagree,Neutral,Strongly agree,Not afraid,afraid,afraid,Very afraid,Very afraid,Slightly afraid
+21.0,male,Agree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Agree,Agree,Very afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very afraid
+23.0,female,Neutral,Disagree,Disagree,Neutral,Neutral,Disagree,Neutral,Neutral,Agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+22.0,female,Neutral,Neutral,Neutral,Agree,Neutral,Neutral,Neutral,Neutral,Agree,Slightly afraid,Slightly afraid,Very much afraid,Very much afraid,Very much afraid,afraid
+28.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,Neutral,Neutral,Strongly disagree,Disagree,Not afraid,afraid,Slightly afraid,Not afraid,Very much afraid,Very afraid
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Disagree,Disagree,Strongly agree,afraid,Not afraid,Not afraid,afraid,afraid,Slightly afraid
+18.0,male,Strongly disagree,Neutral,Neutral,Strongly agree,Strongly agree,Strongly disagree,Neutral,Neutral,Disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid,afraid
+25.0,female,Neutral,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Disagree,Neutral,Very afraid,Very much afraid,afraid,Slightly afraid,Slightly afraid,Very afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,afraid
+28.0,female,Strongly agree,Agree,Strongly disagree,Neutral,Disagree,Disagree,Agree,Agree,Disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Very much afraid
+23.0,female,Strongly agree,Disagree,Disagree,Strongly agree,Strongly disagree,Neutral,Disagree,Agree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,afraid,Very much afraid
+21.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Agree,afraid,Not afraid,Slightly afraid,Not afraid,afraid,Very much afraid
+25.0,female,Agree,Neutral,Disagree,Neutral,Neutral,Strongly agree,Neutral,Strongly agree,Agree,Not afraid,afraid,Slightly afraid,Not afraid,Not afraid,afraid
+28.0,female,Neutral,Disagree,Agree,Agree,Neutral,Strongly agree,Neutral,Strongly agree,Agree,afraid,Slightly afraid,Very afraid,Very afraid,Not afraid,Very afraid
+19.0,male,Neutral,Agree,Disagree,Agree,Disagree,Disagree,Disagree,Agree,Neutral,afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid,afraid
+30.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Disagree,Strongly agree,Agree,Strongly agree,Agree,Very much afraid,Very afraid,Slightly afraid,afraid,afraid,afraid
+28.0,female,Disagree,Neutral,Strongly disagree,Strongly agree,Neutral,Neutral,Disagree,Neutral,Strongly disagree,Very afraid,Very afraid,Very afraid,afraid,Not afraid,Very afraid
+19.0,female,Neutral,Disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Agree,Neutral,Neutral,Slightly afraid,afraid,Slightly afraid,Very afraid,Not afraid,Very afraid
+21.0,male,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,afraid,afraid,afraid,afraid,afraid,afraid
+19.0,male,Neutral,Strongly disagree,Neutral,Strongly agree,Neutral,Strongly disagree,Disagree,Agree,Disagree,Very much afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,Not afraid
+18.0,female,Neutral,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Neutral,Strongly agree,Not afraid,Slightly afraid,Not afraid,Not afraid,afraid,afraid
+18.0,male,Strongly agree,Neutral,Strongly disagree,Neutral,Strongly agree,Disagree,Agree,Agree,Neutral,Slightly afraid,Not afraid,Slightly afraid,afraid,Not afraid,afraid
+18.0,male,Agree,Neutral,Disagree,Agree,Agree,Neutral,Disagree,Strongly agree,Agree,Not afraid,Not afraid,afraid,afraid,Not afraid,Very afraid
+17.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Very afraid
+21.0,male,Strongly agree,Neutral,Neutral,Agree,Neutral,Agree,Disagree,Strongly agree,Strongly agree,Slightly afraid,afraid,afraid,afraid,afraid,afraid
+18.0,female,Disagree,Strongly disagree,Strongly disagree,Agree,Agree,Strongly disagree,Agree,Strongly disagree,Agree,Slightly afraid,afraid,Slightly afraid,afraid,afraid,Very afraid
+21.0,male,Strongly agree,Strongly agree,Neutral,Strongly agree,Neutral,Strongly disagree,Neutral,Agree,Strongly agree,Slightly afraid,Slightly afraid,Not afraid,Not afraid,Not afraid,Not afraid
+23.0,female,Agree,Disagree,Disagree,Disagree,Neutral,Disagree,Neutral,Strongly disagree,Strongly agree,Slightly afraid,Very afraid,afraid,afraid,Not afraid,afraid
+18.0,female,Neutral,Disagree,Strongly disagree,Disagree,Neutral,Neutral,Neutral,Agree,Neutral,afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+20.0,female,Disagree,Agree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Neutral,Agree,Strongly disagree,Not afraid,afraid,afraid,Slightly afraid,Not afraid,Very much afraid
+19.0,female,Neutral,Strongly disagree,Disagree,Neutral,Disagree,Neutral,Disagree,Disagree,Strongly agree,Very much afraid,afraid,afraid,afraid,Very much afraid,Very afraid
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Neutral,afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,afraid
+26.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Not afraid,afraid,afraid,afraid,afraid,Not afraid
+21.0,female,Strongly agree,Neutral,Neutral,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Agree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid
+19.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Neutral,Neutral,Strongly disagree,Strongly agree,Strongly agree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Not afraid,Not afraid
+23.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+21.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Neutral,Disagree,Strongly agree,Agree,Not afraid,Not afraid,Very afraid,Not afraid,afraid,afraid
+22.0,female,Agree,Agree,Strongly agree,Neutral,Disagree,Strongly agree,Neutral,Agree,Strongly agree,Not afraid,Very afraid,Not afraid,Not afraid,Not afraid,afraid
+18.0,male,Disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Disagree,afraid,Not afraid,Not afraid,Slightly afraid,afraid,Very much afraid
+21.0,female,Disagree,Neutral,Disagree,Disagree,Disagree,Agree,Disagree,Agree,Neutral,Not afraid,Not afraid,Not afraid,Slightly afraid,Very much afraid,Very afraid
+23.0,male,Disagree,Neutral,Neutral,Agree,Neutral,Disagree,Agree,Disagree,Neutral,Very afraid,Not afraid,Not afraid,Very much afraid,Not afraid,Slightly afraid
+17.0,female,Disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Very afraid
+20.0,female,Neutral,Strongly agree,Agree,Neutral,Neutral,Disagree,Disagree,Strongly disagree,Strongly agree,afraid,Not afraid,Not afraid,Slightly afraid,Very much afraid,Not afraid
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,afraid,Slightly afraid,Very afraid,Very much afraid,Not afraid,afraid
+20.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Neutral,Strongly disagree,Neutral,Strongly agree,Not afraid,Slightly afraid,afraid,afraid,Not afraid,afraid
+19.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Neutral,Agree,Not afraid,Very afraid,afraid,Very afraid,Very afraid,Not afraid
+25.0,female,Neutral,Neutral,Disagree,Agree,Agree,Agree,Neutral,Neutral,Neutral,Not afraid,Very afraid,Very afraid,Very afraid,Not afraid,Very much afraid
+29.0,male,Agree,Disagree,Neutral,Strongly agree,Neutral,Neutral,Disagree,Neutral,Strongly disagree,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid
+29.0,male,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,Strongly agree,Not afraid,Not afraid,Slightly afraid,afraid,Not afraid,afraid
+17.0,female,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,afraid
+17.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Agree,Disagree,Agree,Neutral,afraid,afraid,Slightly afraid,Not afraid,afraid,Slightly afraid
+19.0,male,Neutral,Agree,Disagree,Agree,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid
+18.0,female,Strongly agree,Disagree,Neutral,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Agree,Not afraid,Not afraid,afraid,Not afraid,Not afraid,Very much afraid
+20.0,female,Strongly disagree,Neutral,Disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+21.0,female,Neutral,Disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Neutral,afraid,afraid,Very much afraid,afraid,Slightly afraid,afraid
+18.0,female,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Disagree,Neutral,Slightly afraid,afraid,Very afraid,Very much afraid,Very much afraid,afraid
+19.0,female,Disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Not afraid,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid
+19.0,male,Strongly agree,Strongly disagree,Neutral,Neutral,Agree,Strongly disagree,Agree,Strongly agree,Neutral,Not afraid,Not afraid,Not afraid,Very afraid,afraid,Very afraid
+20.0,male,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Strongly disagree,,Strongly agree,Not afraid,Not afraid,Not afraid,Very afraid,afraid,Not afraid
+19.0,male,Strongly disagree,Neutral,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,afraid,Not afraid,Not afraid,Very much afraid,Slightly afraid,afraid
+18.0,female,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Not afraid,Not afraid,afraid,Not afraid,Very much afraid,Not afraid
+18.0,male,Agree,Agree,Agree,Strongly agree,Neutral,Strongly agree,Neutral,Neutral,Agree,Not afraid,Not afraid,Slightly afraid,Very afraid,Not afraid,Very afraid
+16.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Disagree,Strongly agree,Strongly agree,Not afraid,afraid,Slightly afraid,Slightly afraid,afraid,Not afraid
+18.0,female,Agree,Agree,Disagree,Agree,Strongly agree,Disagree,Neutral,Agree,Disagree,Not afraid,Slightly afraid,Not afraid,Not afraid,Slightly afraid,afraid
+19.0,female,Strongly agree,Neutral,Disagree,Disagree,Neutral,Disagree,Neutral,Strongly agree,Agree,afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid
+24.0,female,Strongly agree,Strongly agree,Neutral,Neutral,Strongly agree,Neutral,Agree,Strongly agree,Strongly agree,Very afraid,Slightly afraid,Slightly afraid,afraid,Very afraid,Slightly afraid
+19.0,female,Neutral,Strongly agree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Not afraid,Slightly afraid,Not afraid,afraid,Slightly afraid,Slightly afraid
+,female,Agree,Neutral,Neutral,Strongly disagree,Disagree,Strongly disagree,Disagree,Disagree,Agree,Very much afraid,afraid,Slightly afraid,Very afraid,Very afraid,afraid
+20.0,female,Strongly agree,Disagree,Neutral,Disagree,Neutral,Neutral,Strongly agree,Neutral,Strongly agree,Slightly afraid,Slightly afraid,Very afraid,afraid,Very afraid,Slightly afraid
+21.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Neutral,Disagree,Neutral,Agree,afraid,afraid,Very afraid,afraid,Very much afraid,afraid
+23.0,male,Strongly disagree,Agree,Agree,Strongly agree,Neutral,Strongly disagree,Disagree,Neutral,Strongly disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,afraid
+23.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,Not afraid,Not afraid,Slightly afraid,Not afraid,Not afraid,Not afraid
+17.0,male,Agree,Neutral,Disagree,Agree,Strongly agree,Neutral,Agree,Strongly agree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,afraid,afraid
+18.0,female,Strongly agree,Strongly agree,Neutral,Strongly disagree,Strongly agree,Agree,Disagree,Disagree,Strongly disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+26.0,male,Neutral,Agree,Neutral,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Not afraid,Not afraid,Slightly afraid,Very afraid,Not afraid,Slightly afraid
+22.0,male,Strongly disagree,Neutral,Neutral,Strongly agree,Agree,Disagree,Disagree,Strongly disagree,Disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid
+22.0,male,Neutral,Strongly disagree,Neutral,Agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Not afraid,Not afraid,Slightly afraid,afraid,Not afraid,Very afraid
+25.0,male,Agree,Agree,Agree,Strongly agree,Neutral,Disagree,Disagree,Neutral,Agree,Slightly afraid,afraid,Slightly afraid,Very afraid,Not afraid,Slightly afraid
+21.0,female,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Very afraid,afraid,afraid,afraid,Very much afraid,afraid
+18.0,female,Strongly agree,Strongly disagree,Disagree,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Agree,Not afraid,Not afraid,afraid,Not afraid,Not afraid,Very much afraid
+15.0,female,Neutral,Disagree,Disagree,Strongly agree,Strongly disagree,Disagree,Disagree,,Neutral,Very afraid,Not afraid,afraid,afraid,afraid,Not afraid
+17.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Neutral,Agree,Agree,Agree,afraid,Not afraid,Not afraid,afraid,Not afraid,afraid
+22.0,female,Agree,Agree,Neutral,Neutral,Disagree,Strongly agree,Neutral,Disagree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+21.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Disagree,Disagree,Neutral,Disagree,Not afraid,Not afraid,Not afraid,Not afraid,afraid,Very afraid
+21.0,female,Neutral,Neutral,Strongly disagree,Disagree,Agree,Agree,Agree,Strongly disagree,Strongly agree,Slightly afraid,Very much afraid,Very afraid,Not afraid,Very afraid,Very afraid
+19.0,female,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Neutral,Agree,Slightly afraid,Slightly afraid,Slightly afraid,afraid,afraid,afraid
+26.0,male,Neutral,Agree,Neutral,Agree,Neutral,Disagree,Disagree,Agree,Disagree,afraid,Slightly afraid,Not afraid,Not afraid,Not afraid,Not afraid
+26.0,female,Neutral,Agree,Agree,Agree,Neutral,Strongly agree,Strongly disagree,Agree,Neutral,afraid,Very afraid,Very afraid,afraid,Very afraid,Very afraid
+25.0,male,Strongly agree,Neutral,Neutral,Strongly agree,Neutral,Disagree,Disagree,Agree,Agree,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid,afraid,Not afraid
+19.0,female,Disagree,Strongly disagree,Agree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Neutral,Agree,Not afraid,Slightly afraid,Very much afraid,Slightly afraid,Slightly afraid,Very afraid
+20.0,male,Disagree,Neutral,Agree,Strongly agree,Neutral,Disagree,Strongly disagree,Neutral,Disagree,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,afraid
+18.0,male,Strongly agree,Agree,Disagree,Neutral,Strongly disagree,Strongly agree,Disagree,Agree,Agree,afraid,Slightly afraid,Slightly afraid,afraid,afraid,Slightly afraid
+25.0,female,Agree,Neutral,Neutral,Neutral,Strongly agree,Neutral,Agree,Agree,Neutral,Very afraid,Not afraid,afraid,Very afraid,afraid,afraid
+23.0,male,Disagree,Neutral,Neutral,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+24.0,male,Strongly agree,Neutral,Neutral,Agree,Agree,Agree,Agree,Strongly agree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+20.0,male,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,,Disagree,afraid,afraid,Not afraid,afraid,Not afraid,Very afraid
+19.0,female,Neutral,Disagree,Disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Neutral,Agree,Not afraid,Slightly afraid,Slightly afraid,afraid,Very afraid,Very afraid
+18.0,male,Disagree,Neutral,Agree,Strongly agree,Strongly disagree,Agree,Neutral,Neutral,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,afraid
+25.0,female,Agree,Neutral,Neutral,Agree,Disagree,Strongly agree,Disagree,Neutral,Agree,Very afraid,Very afraid,Very afraid,Very afraid,afraid,Slightly afraid
+22.0,male,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Agree,Disagree,Slightly afraid,Very much afraid,Very much afraid,afraid,Slightly afraid,Very afraid
+26.0,male,Neutral,Disagree,Disagree,Agree,Strongly agree,Disagree,Agree,Neutral,Neutral,Not afraid,Not afraid,Slightly afraid,afraid,Slightly afraid,Very afraid
+19.0,female,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid
+16.0,female,Strongly disagree,Disagree,Neutral,Neutral,Disagree,Disagree,Strongly disagree,Agree,Disagree,Not afraid,Slightly afraid,afraid,Very afraid,Slightly afraid,Slightly afraid
+18.0,male,Neutral,Neutral,Strongly disagree,Agree,Agree,Disagree,Disagree,Neutral,Disagree,Slightly afraid,Not afraid,afraid,Slightly afraid,Slightly afraid,Very afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Disagree,Agree,Agree,afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very afraid,Very afraid
+17.0,female,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Very afraid
+20.0,female,Agree,Disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Agree,Neutral,Very afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid
+19.0,female,Neutral,Disagree,Disagree,Strongly agree,Agree,Neutral,Neutral,Strongly agree,Agree,afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Slightly afraid
+25.0,male,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Neutral,Disagree,Neutral,Neutral,Very afraid,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+19.0,male,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,,Strongly disagree,Disagree,afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid
+18.0,female,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Very afraid,afraid,Very afraid,afraid,afraid,Very much afraid
+17.0,female,Strongly agree,Disagree,Disagree,Neutral,Neutral,Disagree,Disagree,Disagree,Strongly agree,Not afraid,afraid,afraid,Slightly afraid,Not afraid,Not afraid
+18.0,male,Strongly agree,Agree,Strongly disagree,Neutral,Strongly agree,Neutral,Agree,Agree,Agree,Slightly afraid,Not afraid,Slightly afraid,afraid,Slightly afraid,afraid
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Not afraid,afraid,Not afraid,Not afraid,afraid,Very afraid
+17.0,female,Disagree,Neutral,Neutral,Agree,Neutral,Strongly agree,Neutral,Neutral,Strongly agree,Slightly afraid,Very afraid,Very much afraid,Very afraid,afraid,afraid
+21.0,male,Strongly agree,Disagree,Neutral,Strongly agree,Neutral,Neutral,Disagree,Agree,Neutral,afraid,Not afraid,,Slightly afraid,afraid,afraid
+19.0,male,Agree,Disagree,Disagree,Disagree,Disagree,Strongly agree,Disagree,Neutral,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+19.0,male,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Neutral,Strongly agree,Agree,Neutral,Not afraid,Not afraid,Not afraid,afraid,Not afraid,Not afraid
+19.0,male,Agree,Disagree,Disagree,Strongly disagree,Disagree,Strongly agree,Agree,Disagree,Disagree,,Not afraid,Not afraid,Slightly afraid,Very much afraid,Not afraid
+16.0,male,Strongly agree,Neutral,Disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Neutral,Agree,Slightly afraid,Slightly afraid,afraid,Slightly afraid,Slightly afraid,Not afraid
+18.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Neutral,Agree,Disagree,Neutral,Not afraid,Not afraid,afraid,Not afraid,Very much afraid,Not afraid
+19.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Neutral,Neutral,Disagree,Very afraid,Very afraid,Very much afraid,afraid,Very much afraid,afraid
+20.0,female,Neutral,Neutral,Agree,Disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Agree,Slightly afraid,Slightly afraid,Not afraid,Very much afraid,Very afraid,Very afraid
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Disagree,Strongly agree,Disagree,Neutral,Strongly agree,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid
+21.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral,afraid,afraid,afraid,Very afraid,Very afraid,Very afraid
+24.0,male,Neutral,Agree,Agree,Agree,Neutral,Disagree,Agree,Neutral,Neutral,afraid,afraid,afraid,Very afraid,Not afraid,afraid
+23.0,male,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,afraid
+30.0,female,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Not afraid,Not afraid,Not afraid,Not afraid,afraid,Very much afraid
+27.0,male,Neutral,Agree,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Very much afraid,afraid,Very afraid,Very much afraid,Very afraid,Very afraid
+19.0,male,Disagree,Disagree,Strongly disagree,Strongly agree,Agree,Disagree,Disagree,Strongly disagree,Disagree,afraid,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid
+18.0,female,Strongly agree,Disagree,Disagree,Disagree,Neutral,Agree,Strongly agree,Strongly agree,Agree,Not afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid,afraid
+18.0,male,Agree,Agree,Neutral,Strongly agree,Disagree,Neutral,Disagree,Neutral,Disagree,Slightly afraid,Not afraid,afraid,Slightly afraid,Slightly afraid,Very afraid
+17.0,male,Strongly disagree,Agree,Neutral,Agree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Strongly disagree,afraid,Slightly afraid,Not afraid,Not afraid,Very afraid,Not afraid
+30.0,female,Disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Very afraid,Not afraid,Not afraid,afraid,Very afraid,afraid
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Not afraid,Slightly afraid,afraid,Very much afraid,Very afraid,afraid
+27.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid,Not afraid
+21.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Neutral,Neutral,Not afraid,Not afraid,Not afraid,Very much afraid,afraid,Very afraid
+17.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Neutral,Disagree,Strongly agree,Agree,Very afraid,Very afraid,afraid,afraid,Very much afraid,Very afraid
+20.0,male,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Strongly agree,Slightly afraid,Not afraid,Slightly afraid,afraid,Slightly afraid,afraid
+20.0,male,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Agree,Agree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,afraid,afraid
+20.0,male,Disagree,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,afraid
+18.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Neutral,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid
+20.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Neutral,Neutral,Neutral,Neutral,Agree,Not afraid,afraid,Very afraid,Very much afraid,Very much afraid,Not afraid
+20.0,male,Agree,Disagree,Neutral,Neutral,Disagree,Agree,Neutral,Agree,Strongly agree,Very afraid,Not afraid,Slightly afraid,Slightly afraid,Very afraid,afraid
+17.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Very much afraid,afraid,Slightly afraid,Very afraid,afraid,Very afraid
+19.0,male,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Slightly afraid,Slightly afraid,Slightly afraid,afraid,afraid,Very afraid
+20.0,female,Neutral,Neutral,Disagree,Neutral,Agree,Neutral,Strongly disagree,Disagree,Agree,afraid,Very afraid,Very much afraid,Very afraid,Very afraid,Very afraid
+20.0,male,Agree,Agree,Agree,Neutral,Neutral,Strongly agree,Disagree,Disagree,Strongly agree,Not afraid,Not afraid,Not afraid,afraid,Not afraid,Not afraid
+21.0,male,Strongly agree,Neutral,Neutral,Agree,Agree,Disagree,Agree,Agree,Agree,Not afraid,Slightly afraid,afraid,Very afraid,Very much afraid,Not afraid
+23.0,male,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Strongly disagree,Strongly agree,Strongly disagree,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,Not afraid
+24.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Slightly afraid,Not afraid,Not afraid,Very much afraid,Not afraid,Very much afraid
+17.0,female,Neutral,Neutral,Neutral,Neutral,Disagree,Strongly agree,Neutral,Agree,Neutral,Very much afraid,Slightly afraid,Slightly afraid,Not afraid,Not afraid,Not afraid
+18.0,female,Disagree,Neutral,Strongly disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly agree,afraid,Not afraid,Not afraid,afraid,Not afraid,afraid
+17.0,male,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Agree,Very afraid,Slightly afraid,afraid,Very much afraid,afraid,Very afraid
+19.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Not afraid,Very afraid
+21.0,male,Agree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Disagree,Neutral,Agree,Slightly afraid,Slightly afraid,Not afraid,Not afraid,Very afraid,Slightly afraid
+29.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Slightly afraid,Slightly afraid,Very much afraid,Not afraid,Very much afraid,Slightly afraid
+21.0,female,Disagree,Disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Slightly afraid,Not afraid,Very much afraid,Slightly afraid,Very afraid,afraid
+20.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Agree,Neutral,Not afraid,Slightly afraid,afraid,afraid,Not afraid,Slightly afraid
+20.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Neutral,Disagree,Neutral,Neutral,Slightly afraid,afraid,Slightly afraid,afraid,Slightly afraid,Slightly afraid
+19.0,male,Disagree,Neutral,Disagree,Neutral,Neutral,Disagree,Disagree,Disagree,Strongly disagree,Very afraid,afraid,Slightly afraid,Very afraid,afraid,Very afraid
+20.0,female,Neutral,Disagree,Strongly disagree,Agree,Strongly agree,Neutral,Strongly agree,Agree,Agree,Not afraid,Not afraid,Slightly afraid,Very much afraid,Not afraid,Not afraid
+21.0,female,Agree,Strongly agree,Agree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,,Agree,Not afraid,Not afraid,Slightly afraid,Not afraid,Very afraid,Very afraid
+17.0,female,Agree,Neutral,Disagree,Neutral,Agree,Neutral,Strongly agree,Neutral,Neutral,afraid,afraid,afraid,Not afraid,Slightly afraid,Slightly afraid
+20.0,female,Neutral,Strongly disagree,Disagree,Disagree,Strongly disagree,Agree,Strongly disagree,Strongly agree,Neutral,Slightly afraid,Not afraid,Very afraid,Not afraid,Not afraid,Not afraid
+19.0,male,Neutral,Disagree,Agree,Neutral,Strongly agree,Disagree,Agree,Disagree,Strongly agree,Not afraid,Not afraid,afraid,Slightly afraid,Slightly afraid,Not afraid
+21.0,male,Disagree,Strongly disagree,Disagree,Neutral,Agree,Agree,Neutral,Neutral,Disagree,Very much afraid,Not afraid,Very afraid,Very afraid,afraid,Very afraid
+19.0,male,Agree,Agree,Agree,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Not afraid,Slightly afraid,Not afraid,Not afraid,Very afraid,Not afraid
+19.0,male,Disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Disagree,Disagree,Agree,Neutral,Not afraid,Not afraid,Not afraid,afraid,Very afraid,afraid
+20.0,male,Neutral,Agree,Strongly agree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Disagree,Very afraid,Not afraid,Slightly afraid,afraid,Slightly afraid,Slightly afraid
+21.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Agree,Neutral,Strongly disagree,Slightly afraid,Not afraid,afraid,Slightly afraid,Slightly afraid,afraid
+23.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Neutral,Strongly agree,Disagree,Neutral,afraid,afraid,afraid,Not afraid,Very much afraid,Slightly afraid
+24.0,female,Strongly disagree,Neutral,Disagree,Neutral,Disagree,Disagree,Disagree,Neutral,Agree,Slightly afraid,Slightly afraid,afraid,Slightly afraid,Very afraid,afraid
+19.0,male,Neutral,Strongly disagree,Strongly disagree,Agree,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Very much afraid,afraid,Not afraid,afraid,afraid,Slightly afraid
+24.0,female,Strongly agree,Disagree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Not afraid,Very much afraid,Very much afraid,afraid,Not afraid,afraid
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Agree,Strongly agree,Strongly agree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Very afraid,afraid
+30.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Neutral,Neutral,Strongly disagree,Agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+20.0,female,Strongly agree,Disagree,Strongly disagree,Neutral,Disagree,Strongly disagree,Neutral,Agree,Neutral,Slightly afraid,Very much afraid,afraid,afraid,Very much afraid,Very afraid
+23.0,female,Disagree,Disagree,Disagree,Agree,Neutral,Disagree,Strongly disagree,Disagree,Strongly disagree,Very much afraid,Slightly afraid,Slightly afraid,Very afraid,Very afraid,afraid
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Slightly afraid,Not afraid,Slightly afraid,Very afraid,Slightly afraid,Very afraid
+19.0,male,Strongly disagree,Strongly disagree,Disagree,Neutral,Strongly agree,Strongly disagree,Disagree,Disagree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+22.0,female,Strongly disagree,Strongly agree,Agree,Agree,Disagree,Neutral,Strongly disagree,Neutral,Disagree,Not afraid,afraid,Very afraid,Not afraid,Very much afraid,Slightly afraid
+17.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Agree,Neutral,Agree,Neutral,afraid,Very afraid,Not afraid,Slightly afraid,afraid,Very afraid
+20.0,male,Agree,Strongly agree,Disagree,Neutral,Strongly agree,Agree,Neutral,Strongly agree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid
+19.0,male,Agree,Neutral,Strongly disagree,Agree,Strongly agree,Disagree,Agree,Strongly agree,Agree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid
+30.0,female,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Agree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,afraid,Not afraid
+27.0,male,Disagree,Neutral,Neutral,Agree,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,afraid,Not afraid,Slightly afraid,Very afraid,Very afraid,Not afraid
+19.0,male,Agree,Agree,Agree,Strongly agree,Agree,Disagree,Neutral,Neutral,Agree,Very afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Very much afraid
+17.0,female,Agree,Agree,Strongly disagree,Disagree,Agree,Disagree,Neutral,Agree,Disagree,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid
+20.0,male,Disagree,Strongly disagree,Strongly disagree,Agree,Agree,Strongly disagree,Strongly disagree,Disagree,Neutral,Not afraid,Not afraid,Slightly afraid,Not afraid,Very much afraid,afraid
+20.0,male,Strongly agree,Disagree,Strongly disagree,Neutral,Neutral,Disagree,Neutral,Neutral,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,afraid
+20.0,male,Neutral,Disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Not afraid,Not afraid,Not afraid,Very afraid,Very much afraid,Slightly afraid
+20.0,male,Neutral,Strongly disagree,Neutral,Agree,Strongly agree,Disagree,Agree,Neutral,Strongly agree,Not afraid,Not afraid,Slightly afraid,Not afraid,Not afraid,Not afraid
+18.0,female,Agree,Disagree,Strongly disagree,Neutral,Disagree,Neutral,Neutral,Disagree,Disagree,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Very afraid
+21.0,male,Neutral,Agree,Disagree,Strongly agree,Strongly agree,Strongly disagree,Neutral,Agree,Disagree,Not afraid,Not afraid,Not afraid,afraid,Not afraid,Not afraid
+21.0,male,Neutral,Strongly disagree,Strongly disagree,Agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Slightly afraid,Not afraid,Slightly afraid,Not afraid,Not afraid,Slightly afraid
+20.0,male,Agree,Neutral,Strongly disagree,Agree,Disagree,Neutral,Neutral,Neutral,Agree,Slightly afraid,Slightly afraid,Slightly afraid,afraid,afraid,Very afraid
+17.0,female,Disagree,Neutral,Disagree,Agree,Neutral,Neutral,Disagree,Neutral,Disagree,afraid,Slightly afraid,afraid,Slightly afraid,Slightly afraid,Slightly afraid
+23.0,male,Strongly agree,Disagree,Neutral,Strongly agree,Disagree,Strongly agree,Neutral,Agree,Agree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Very much afraid
+25.0,female,Agree,Neutral,Neutral,Agree,Neutral,Agree,Disagree,Agree,Strongly agree,Slightly afraid,Not afraid,Not afraid,Very much afraid,afraid,Very much afraid
+18.0,male,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Very afraid,Slightly afraid,Slightly afraid,afraid,Very afraid,afraid
+18.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Agree,Strongly agree,Not afraid,Slightly afraid,Slightly afraid,Very afraid,Slightly afraid,afraid
+25.0,female,Disagree,Neutral,Disagree,Disagree,Strongly disagree,Disagree,Strongly agree,Neutral,Disagree,Very much afraid,Slightly afraid,afraid,afraid,afraid,Slightly afraid
+21.0,male,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Agree,afraid,Not afraid,Not afraid,Not afraid,Not afraid,afraid
+20.0,male,Disagree,Strongly disagree,Agree,Agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Slightly afraid,afraid
+21.0,male,Neutral,Disagree,Strongly disagree,Agree,Disagree,Disagree,Strongly disagree,Neutral,Agree,Not afraid,Not afraid,afraid,Very much afraid,afraid,Very afraid
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Agree,Disagree,Neutral,Disagree,Neutral,Not afraid,Not afraid,Slightly afraid,Not afraid,afraid,afraid
+20.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Agree,Not afraid,Not afraid,afraid,Very afraid,Slightly afraid,Very much afraid
+19.0,male,Disagree,Strongly agree,Agree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+22.0,male,Agree,Neutral,Strongly disagree,Agree,Agree,Neutral,Neutral,Strongly agree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid
+26.0,male,Disagree,Agree,Disagree,Agree,Disagree,Strongly agree,Strongly agree,Agree,Agree,afraid,Slightly afraid,Slightly afraid,Very afraid,Slightly afraid,afraid
+23.0,male,Disagree,Agree,Strongly agree,Agree,Strongly agree,Disagree,Agree,Neutral,Disagree,afraid,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid,afraid
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Agree,Disagree,Agree,Disagree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,afraid
+18.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Agree,Agree,Not afraid,Slightly afraid,afraid,Very afraid,Slightly afraid,afraid
+16.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Neutral,Neutral,Slightly afraid,Not afraid,Not afraid,Very much afraid,Not afraid,Very much afraid
+19.0,female,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Disagree,Agree,Disagree,Agree,Not afraid,Not afraid,Slightly afraid,afraid,Very much afraid,Very afraid
+19.0,female,Neutral,Agree,Disagree,Neutral,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Not afraid,Very afraid,Very afraid,Not afraid,Very much afraid,Very much afraid
+23.0,female,Neutral,Disagree,Strongly disagree,Strongly disagree,Agree,Strongly agree,Strongly agree,Disagree,Disagree,Not afraid,Not afraid,Slightly afraid,Very afraid,Very afraid,Slightly afraid
+21.0,male,Strongly disagree,Agree,Agree,Strongly agree,Disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Not afraid,Not afraid,Not afraid,Not afraid,afraid,Slightly afraid
+19.0,male,Disagree,Neutral,Strongly disagree,Neutral,Agree,Agree,Disagree,Agree,Neutral,Slightly afraid,afraid,Very afraid,Very afraid,afraid,afraid
+20.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Neutral,Strongly agree,Neutral,Neutral,Strongly agree,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Very afraid,afraid
+22.0,female,Strongly agree,Strongly disagree,Strongly disagree,Agree,Neutral,Agree,Disagree,Strongly agree,Neutral,Very afraid,Not afraid,Slightly afraid,Not afraid,Not afraid,Very afraid
+20.0,male,Strongly disagree,Agree,Agree,Strongly agree,Disagree,Strongly disagree,Agree,Strongly agree,Strongly disagree,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Very afraid
+21.0,male,Agree,Disagree,Strongly disagree,Neutral,Neutral,Disagree,Disagree,Neutral,Neutral,Not afraid,Not afraid,Slightly afraid,Not afraid,Not afraid,afraid
+19.0,male,Neutral,Agree,Agree,Agree,Neutral,Strongly disagree,Strongly disagree,Neutral,Disagree,Not afraid,Not afraid,Not afraid,afraid,Not afraid,Slightly afraid
+17.0,female,Disagree,Neutral,Disagree,Disagree,Agree,Neutral,Disagree,Disagree,Disagree,Slightly afraid,afraid,Very afraid,afraid,afraid,Slightly afraid
+19.0,female,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Very afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very much afraid,Very afraid
+16.0,male,Disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Agree,Disagree,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Very afraid
+22.0,male,Agree,Strongly disagree,Strongly disagree,Agree,Disagree,Strongly disagree,Disagree,Agree,Disagree,Slightly afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Slightly afraid
+23.0,male,Disagree,Agree,Disagree,Disagree,Disagree,Disagree,Agree,Disagree,Neutral,Slightly afraid,afraid,Slightly afraid,Very afraid,Not afraid,afraid
+28.0,female,Agree,Strongly disagree,Strongly disagree,Agree,Neutral,Disagree,Strongly disagree,Neutral,Agree,Slightly afraid,afraid,Slightly afraid,afraid,afraid,afraid
+20.0,male,Agree,Neutral,Neutral,Strongly agree,Strongly agree,Strongly disagree,Agree,Agree,Agree,Not afraid,Not afraid,Slightly afraid,Not afraid,afraid,Not afraid
+21.0,male,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Disagree,Strongly agree,Disagree,Neutral,afraid,Slightly afraid,afraid,Very afraid,Very afraid,Slightly afraid
+22.0,female,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Not afraid,Slightly afraid,Slightly afraid,Very afraid,Slightly afraid,Slightly afraid
+,male,Agree,Neutral,Neutral,Neutral,Disagree,Disagree,Agree,Neutral,Agree,Slightly afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,afraid
+19.0,male,Strongly agree,Strongly agree,Neutral,Strongly agree,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Not afraid,afraid,Not afraid,Not afraid,Not afraid,Not afraid
+24.0,female,Neutral,Disagree,Disagree,Agree,Strongly agree,Disagree,Disagree,Agree,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid
+23.0,male,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Agree,Neutral,Strongly agree,Agree,Disagree,Not afraid,Not afraid,Not afraid,afraid,Not afraid,Not afraid
+21.0,female,Strongly agree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly disagree,Disagree,Neutral,Disagree,Very afraid,Not afraid,Slightly afraid,Slightly afraid,Very much afraid,Very much afraid
+22.0,female,Disagree,Disagree,Strongly disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,afraid,Very afraid,Very afraid,Very afraid,afraid,afraid
+18.0,male,Disagree,Disagree,Agree,Neutral,Disagree,Disagree,Disagree,Neutral,Disagree,Slightly afraid,afraid,Slightly afraid,Very afraid,afraid,afraid
+28.0,female,Neutral,Disagree,Disagree,Agree,Neutral,Agree,Agree,Disagree,Agree,Very much afraid,Very afraid,Not afraid,Not afraid,Very much afraid,Very afraid
+18.0,female,Strongly agree,Agree,Disagree,Neutral,Strongly agree,Neutral,Agree,Neutral,Neutral,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Very much afraid,Slightly afraid
+23.0,female,Strongly agree,Strongly agree,,Neutral,Agree,Strongly disagree,Agree,Neutral,Agree,Not afraid,Not afraid,Not afraid,afraid,Slightly afraid,afraid
+22.0,female,Agree,Neutral,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Very afraid,afraid,Slightly afraid,Very afraid,afraid,Slightly afraid
+21.0,female,Agree,Neutral,Strongly disagree,Disagree,Disagree,Disagree,Strongly disagree,Neutral,Agree,afraid,Slightly afraid,afraid,afraid,Very much afraid,afraid
+20.0,female,Strongly agree,Neutral,Disagree,Strongly disagree,Disagree,Neutral,Agree,Strongly agree,Agree,Not afraid,Not afraid,Very afraid,afraid,Very afraid,Very afraid
+18.0,female,Strongly disagree,Disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Disagree,Neutral,Disagree,Slightly afraid,Slightly afraid,Very afraid,Very afraid,Not afraid,Very afraid
+21.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Agree,Neutral,Disagree,Not afraid,Not afraid,Not afraid,Very afraid,Not afraid,afraid
+20.0,male,Neutral,Neutral,Disagree,Agree,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid
+21.0,female,Strongly agree,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Neutral,Agree,afraid,Not afraid,Slightly afraid,afraid,Not afraid,afraid
+21.0,female,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly agree,Disagree,Strongly agree,Not afraid,Not afraid,Slightly afraid,Not afraid,Not afraid,Not afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Slightly afraid,Not afraid,Not afraid,afraid,Very afraid,Very afraid
+17.0,male,Disagree,Neutral,Neutral,Agree,Strongly disagree,Neutral,Disagree,Neutral,Disagree,Not afraid,afraid,afraid,Very afraid,afraid,afraid
+20.0,female,Disagree,Neutral,Agree,Strongly agree,Strongly agree,Neutral,Agree,Strongly agree,Strongly agree,Not afraid,Not afraid,afraid,Not afraid,Not afraid,afraid
+23.0,female,Neutral,Strongly disagree,Disagree,Agree,Strongly disagree,Neutral,Strongly disagree,Disagree,Disagree,afraid,Slightly afraid,Slightly afraid,Very much afraid,Very afraid,Very afraid
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Neutral,Agree,Not afraid,Not afraid,Not afraid,Very afraid,Slightly afraid,Slightly afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Agree,afraid,Not afraid,Slightly afraid,Very afraid,Slightly afraid,Slightly afraid
+22.0,male,Disagree,Neutral,Strongly disagree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,afraid,Not afraid,Not afraid,Slightly afraid,Very much afraid,afraid
+19.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Strongly agree,Not afraid,Not afraid,Very much afraid,Slightly afraid,Very much afraid,Very afraid
+19.0,female,Neutral,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Disagree,Disagree,Disagree,Very afraid,Not afraid,Slightly afraid,Slightly afraid,Slightly afraid,Very much afraid
+27.0,female,Agree,Neutral,Neutral,,,Neutral,Agree,Strongly agree,Neutral,afraid,Very much afraid,afraid,Very afraid,Not afraid,afraid
+18.0,female,Neutral,Strongly disagree,Disagree,Agree,Neutral,Neutral,Disagree,Neutral,Disagree,afraid,afraid,afraid,Very afraid,afraid,Very afraid
+18.0,male,Strongly disagree,Disagree,Strongly disagree,Strongly agree,Disagree,Disagree,Disagree,Neutral,Disagree,afraid,Very afraid,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid
+20.0,female,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Very afraid,Very much afraid,Very much afraid,Very much afraid,Not afraid,afraid
+17.0,female,Agree,Disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Neutral,Agree,Strongly disagree,Not afraid,Slightly afraid,Slightly afraid,Not afraid,afraid,Slightly afraid
+19.0,,Disagree,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Strongly agree,Slightly afraid,Not afraid,Very afraid,Slightly afraid,afraid,Very afraid
+16.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Slightly afraid,Not afraid,Slightly afraid,Slightly afraid,Very much afraid,Slightly afraid
+21.0,female,Disagree,Disagree,Strongly disagree,Disagree,Disagree,Disagree,Strongly disagree,Disagree,Disagree,afraid,Slightly afraid,Very afraid,afraid,Slightly afraid,Slightly afraid
+18.0,female,Neutral,Strongly agree,Agree,Neutral,Disagree,Neutral,Disagree,Strongly agree,Strongly agree,Not afraid,afraid,Very afraid,Slightly afraid,Very afraid,Very afraid
+19.0,female,Agree,Strongly agree,Neutral,Neutral,Disagree,Disagree,Strongly disagree,Strongly agree,Agree,afraid,Slightly afraid,Very afraid,Very much afraid,Very much afraid,afraid
+20.0,female,Disagree,Neutral,Agree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Strongly agree,Strongly agree,Very afraid,Not afraid,Not afraid,afraid,afraid,Slightly afraid
+16.0,male,Agree,Neutral,Neutral,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Not afraid,afraid,Very afraid,Very much afraid,Very much afraid,Very afraid
+18.0,female,Disagree,Disagree,Strongly disagree,,Disagree,Neutral,Disagree,Disagree,Agree,Very much afraid,Slightly afraid,Slightly afraid,Not afraid,Very much afraid,Slightly afraid
+24.0,male,Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Neutral,Not afraid,Not afraid,Not afraid,afraid,Very afraid,Very much afraid
+22.0,female,Neutral,Agree,Neutral,Disagree,Disagree,Disagree,Strongly agree,Neutral,Disagree,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,Not afraid,Not afraid
+19.0,female,Agree,Disagree,Neutral,Strongly disagree,Disagree,Neutral,Disagree,Strongly agree,Disagree,Not afraid,Not afraid,Slightly afraid,Slightly afraid,Not afraid,Very afraid
+22.0,male,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Strongly disagree,Neutral,Strongly disagree,Disagree,Not afraid,Not afraid,afraid,Slightly afraid,Not afraid,Not afraid
+22.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Neutral,Disagree,Disagree,afraid,Not afraid,Not afraid,Slightly afraid,Very much afraid,afraid
+16.0,female,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Slightly afraid,Not afraid,Slightly afraid,afraid,afraid,afraid
+18.0,female,Agree,Strongly agree,Agree,Neutral,Strongly disagree,Strongly agree,Strongly disagree,Neutral,Disagree,Very afraid,afraid,Not afraid,Slightly afraid,afraid,Slightly afraid
+18.0,female,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,Slightly afraid
+15.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Agree,Strongly disagree,Neutral,Disagree,Strongly disagree,Not afraid,Slightly afraid,Very much afraid,afraid,afraid,afraid
+26.0,male,Strongly disagree,Neutral,Agree,Strongly agree,Disagree,Strongly disagree,Disagree,Neutral,Strongly disagree,afraid,Not afraid,Not afraid,Very afraid,afraid,Very afraid
+19.0,male,Neutral,Strongly agree,Agree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,afraid,Not afraid,Not afraid,Very afraid,afraid,afraid
+20.0,female,Agree,Neutral,Disagree,Strongly disagree,Disagree,Strongly agree,Neutral,Neutral,Agree,afraid,Very afraid,Very afraid,Very afraid,Very afraid,Very afraid
+20.0,female,Disagree,Agree,Strongly disagree,Disagree,Neutral,Neutral,Neutral,Disagree,Strongly agree,Very afraid,Very much afraid,afraid,afraid,Very much afraid,Slightly afraid
+19.0,female,Strongly agree,Strongly agree,Agree,Disagree,Strongly agree,Disagree,Agree,Neutral,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,afraid
+20.0,male,Neutral,Disagree,Neutral,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Not afraid,Not afraid,Not afraid,Very afraid,Slightly afraid,Very afraid
+20.0,male,Neutral,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Not afraid,Not afraid,Not afraid,afraid,Not afraid,afraid
+22.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,,Strongly agree,Strongly disagree,Agree,Agree,afraid,Slightly afraid,Very afraid,afraid,Slightly afraid,afraid
+24.0,female,Agree,Neutral,Strongly disagree,Disagree,Agree,Neutral,Strongly disagree,Disagree,Agree,Not afraid,Slightly afraid,Very afraid,afraid,Slightly afraid,afraid
+,female,Strongly agree,Neutral,Neutral,Neutral,Disagree,Disagree,Agree,Neutral,Neutral,Slightly afraid,Not afraid,Slightly afraid,Not afraid,Not afraid,Not afraid
+20.0,male,Strongly agree,Strongly agree,Neutral,Strongly agree,Neutral,Strongly agree,Agree,Strongly agree,Strongly agree,Not afraid,Not afraid,Not afraid,Slightly afraid,Not afraid,afraid
+21.0,female,Strongly agree,Neutral,Agree,Strongly disagree,Agree,Neutral,Strongly disagree,Agree,Neutral,Very much afraid,Slightly afraid,Not afraid,afraid,afraid,Very much afraid
+23.0,male,Strongly agree,Strongly disagree,Agree,Strongly agree,Neutral,Disagree,Neutral,Neutral,Strongly agree,Not afraid,Not afraid,Not afraid,afraid,Not afraid,Not afraid
+21.0,male,Neutral,Disagree,Disagree,,Agree,Neutral,Neutral,Neutral,Agree,Slightly afraid,Slightly afraid,Slightly afraid,afraid,Slightly afraid,Very afraid
+17.0,female,Strongly agree,Strongly disagree,Neutral,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Strongly agree,Very much afraid,afraid,Very much afraid,Not afraid,Not afraid,Very much afraid
+19.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Strongly agree,Strongly agree,Agree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+18.0,male,Strongly agree,Strongly agree,Strongly agree,Neutral,Disagree,Neutral,Disagree,Agree,Disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,afraid
+19.0,male,Disagree,Strongly agree,Agree,Strongly agree,Neutral,Disagree,Strongly disagree,Disagree,Strongly disagree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid
+19.0,male,Neutral,Neutral,Strongly disagree,Strongly agree,Agree,Strongly disagree,Disagree,Strongly disagree,Neutral,Not afraid,Very afraid,Very much afraid,Very afraid,Not afraid,afraid
+22.0,male,Disagree,Agree,Agree,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Not afraid,Not afraid,Not afraid,Very much afraid,Not afraid,Very afraid
+18.0,male,Neutral,Neutral,Neutral,Agree,Disagree,Disagree,Disagree,Agree,Disagree,afraid,Very afraid,afraid,afraid,Very afraid,Very afraid
+19.0,female,Neutral,Neutral,Neutral,Disagree,Strongly disagree,Strongly agree,Neutral,Neutral,Agree,Not afraid,Very afraid,Very much afraid,afraid,afraid,afraid
+20.0,female,Disagree,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Slightly afraid,Very afraid,Slightly afraid,afraid,Slightly afraid,Very much afraid
+21.0,female,Neutral,Strongly agree,Neutral,Disagree,Disagree,Neutral,Neutral,Disagree,Agree,Slightly afraid,Slightly afraid,afraid,afraid,Not afraid,afraid
+23.0,female,Strongly agree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Strongly agree,Agree,Not afraid,Not afraid,Not afraid,afraid,Very afraid,afraid
+19.0,female,Disagree,Agree,Neutral,Agree,Agree,Neutral,Disagree,Neutral,Strongly agree,Very afraid,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,afraid
+19.0,male,Disagree,Neutral,Strongly disagree,Disagree,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,afraid,Slightly afraid,Slightly afraid,Slightly afraid,afraid,afraid
+21.0,female,Strongly agree,Disagree,Disagree,Neutral,Strongly agree,Disagree,Neutral,Agree,Neutral,afraid,Not afraid,Very afraid,afraid,Very afraid,afraid
+19.0,male,Strongly agree,Neutral,Disagree,Neutral,Strongly agree,Neutral,Strongly agree,Strongly agree,Neutral,Slightly afraid,Not afraid,Slightly afraid,afraid,Very afraid,Slightly afraid
+18.0,female,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Disagree,Strongly disagree,Neutral,Strongly disagree,Strongly agree,Not afraid,Slightly afraid,Not afraid,Slightly afraid,Very afraid,Not afraid
+19.0,female,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly agree,Slightly afraid,Not afraid,Slightly afraid,afraid,afraid,afraid
+18.0,male,Strongly disagree,Neutral,Agree,Agree,Disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,Not afraid,Slightly afraid,Very afraid,Slightly afraid,Very much afraid,afraid
+22.0,female,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Disagree,Neutral,Disagree,Very afraid,Not afraid,afraid,afraid,Slightly afraid,Slightly afraid
+21.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Not afraid,Not afraid,Very afraid,Very much afraid,Not afraid,Slightly afraid
+20.0,female,Agree,Strongly disagree,Disagree,Disagree,Neutral,Strongly disagree,Strongly disagree,Disagree,Neutral,afraid,Slightly afraid,afraid,afraid,Not afraid,Very afraid
+19.0,female,Strongly agree,Strongly agree,Neutral,Agree,Neutral,Disagree,Strongly disagree,Neutral,Strongly agree,Not afraid,Not afraid,afraid,Not afraid,Not afraid,Not afraid
+20.0,male,Strongly agree,Disagree,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Agree,Strongly agree,,Not afraid,Slightly afraid,Very much afraid,afraid,afraid
+19.0,male,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Neutral,,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid
+30.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Agree,Neutral,Strongly agree,Strongly agree,Slightly afraid,Very much afraid,Very afraid,Very much afraid,Slightly afraid,Not afraid
+29.0,male,Neutral,Strongly disagree,Strongly disagree,Strongly agree,Neutral,Disagree,Disagree,Agree,Disagree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Slightly afraid
+21.0,male,Agree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Very much afraid,afraid,Not afraid,Very much afraid,Not afraid,afraid
+30.0,male,Strongly agree,Strongly agree,Strongly agree,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Disagree,afraid,Not afraid,Not afraid,Very much afraid,Slightly afraid,Very afraid
+21.0,female,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Agree,Strongly disagree,Agree,Disagree,,Slightly afraid,Slightly afraid,Slightly afraid,Not afraid,Slightly afraid,afraid
+20.0,female,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Strongly agree,Not afraid,Not afraid,Not afraid,Not afraid,afraid,afraid
+18.0,female,Neutral,Agree,Disagree,Agree,Agree,Strongly disagree,Agree,Strongly agree,Agree,afraid,Slightly afraid,Not afraid,Not afraid,Not afraid,Slightly afraid
+20.0,male,Agree,Strongly disagree,Strongly disagree,Agree,Disagree,Disagree,Strongly disagree,Agree,Strongly disagree,Not afraid,Not afraid,Slightly afraid,afraid,Not afraid,afraid
+19.0,female,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Neutral,Neutral,Neutral,Agree,Strongly agree,Very much afraid,afraid,Slightly afraid,Not afraid,Slightly afraid,Very afraid
+28.0,male,Neutral,Strongly agree,Strongly agree,Strongly agree,Disagree,Neutral,Disagree,Disagree,Agree,Slightly afraid,Not afraid,Not afraid,afraid,Slightly afraid,Slightly afraid
+19.0,male,Agree,Strongly agree,Neutral,Strongly agree,Neutral,Neutral,Disagree,Agree,Strongly agree,Slightly afraid,Not afraid,Not afraid,,Not afraid,Not afraid
+16.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neutral,Disagree,Neutral,Neutral,Not afraid,Not afraid,Not afraid,Not afraid,Very much afraid,Slightly afraid
+18.0,female,Neutral,Strongly disagree,Strongly disagree,Neutral,Agree,Strongly disagree,Neutral,Disagree,Disagree,Very much afraid,Not afraid,Not afraid,Very much afraid,Very afraid,Slightly afraid
+22.0,male,Disagree,Strongly disagree,Neutral,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Not afraid,Not afraid,Not afraid,Not afraid,Not afraid,Very afraid
+20.0,female,Neutral,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Disagree,Disagree,Disagree,Agree,Very afraid,Not afraid,Not afraid,Very afraid,Not afraid,Slightly afraid
+22.0,male,Neutral,Disagree,Disagree,Strongly agree,Neutral,Neutral,Disagree,Neutral,Agree,Not afraid,Not afraid,Slightly afraid,afraid,afraid,afraid
+20.0,female,Agree,Strongly disagree,Disagree,Neutral,Strongly disagree,Disagree,Strongly disagree,Agree,Agree,Not afraid,Slightly afraid,Very afraid,Very much afraid,afraid,Very afraid
+27.0,male,Agree,Strongly agree,Agree,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Not afraid,Not afraid,Not afraid,Not afraid,Slightly afraid,Very much afraid
+18.0,female,Disagree,Neutral,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neutral,Slightly afraid,Not afraid,afraid,Slightly afraid,Not afraid,Very much afraid
+25.0,female,Neutral,Strongly disagree,Strongly disagree,Agree,Neutral,Neutral,Strongly disagree,Strongly agree,Strongly agree,Slightly afraid,afraid,Slightly afraid,Very much afraid,afraid,Very much afraid
+21.0,male,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Neutral,Slightly afraid,Not afraid,Slightly afraid,Very much afraid,Slightly afraid,Slightly afraid
